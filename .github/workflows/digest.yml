@@ -1,0 +1,32 @@
+# .github/workflows/digest.yml
+name: rss-digest
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # UTC 时间；17 分避开整点
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install feedparser requests
+
+      - name: Run digest
+        env:
+          WRITER_API_URL: ${{ secrets.WRITER_API_URL }}
+          WRITER_API_KEY: ${{ secrets.WRITER_API_KEY }}
+        run: python run.py
+
+      - name: Commit updated state and digest
+        run: |
+          git config user.name "rss-bot"
+          git config user.email "rss-bot@users.noreply.github.com"
+          git add state.json digests || true
+          git commit -m "update digest" || true
+          git push || true
