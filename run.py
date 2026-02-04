@@ -110,8 +110,8 @@ def main():
 
     
     # write site data.json for static site
-    os.makedirs("site", exist_ok=True)
-    with open("site/data.json", "w", encoding="utf-8") as f:
+    os.makedirs("docs", exist_ok=True)
+    with open("docs/data.json", "w", encoding="utf-8") as f:
         json.dump({"updated_at": pack["run_at_utc"], "items": pack["items"]}, f, ensure_ascii=False, indent=2)
 
     save_state(state)
