@@ -14,6 +14,10 @@ def load_feeds():
             line = line.strip()
             if not line or line.startswith("#"):
                 continue
+            # support format: Title:URL or Title：URL
+            if ":" in line or "：" in line:
+                parts = line.split("：") if "：" in line else line.split(":")
+                line = parts[-1].strip()
             feeds.append(line)
     return feeds
 
@@ -68,7 +72,7 @@ def build_material_pack(items):
     now = datetime.now(timezone.utc).isoformat()
     return {
         "run_at_utc": now,
-        "window_hours": 6,  # 你的扫描周期
+        "window_hours": 4,  # 你的扫描周期
         "items": items,
         # 你可以在这里加：关键词过滤、按来源权重打分、分类标签等
     }
