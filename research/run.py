@@ -99,6 +99,30 @@ def extract_full_text(url):
     return resp.text
 
 
+
+
+def feishu_get_token(app_id, app_secret):
+    url = "https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal/"
+    resp = requests.post(url, json={"app_id": app_id, "app_secret": app_secret}, timeout=20)
+    resp.raise_for_status()
+    data = resp.json()
+    if data.get("code") != 0:
+        raise RuntimeError(f"feishu token error: {data}")
+    return data["tenant_access_token"]
+
+
+def feishu_write_records(token, app_token, table_id, records):
+    url = f"https://open.feishu.cn/open-apis/bitable/v1/apps/{app_token}/tables/{table_id}/records/batch_create"
+    headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
+    payload = {"records": records}
+    resp = requests.post(url, headers=headers, json=payload, timeout=30)
+    resp.raise_for_status()
+    data = resp.json()
+    if data.get("code") != 0:
+        raise RuntimeError(f"feishu write error: {data}")
+    return data
+
+
 def main():
     state = load_state()
     seen = set(state.get("seen", []))
@@ -144,6 +168,36 @@ def main():
     save_state(state)
     print("items:", len(results))
     print("saved:", out_path)
+
+
+    # optional: write to Feishu Bitable
+    app_id = os.getenv("FEISHU_APP_ID")
+    app_secret = os.getenv("FEISHU_APP_SECRET")
+    app_token = os.getenv("FEISHU_APP_TOKEN")
+    table_id = os.getenv("FEISHU_TABLE_ID")
+    if app_id and app_secret and app_token and table_id and results:
+        try:
+            token = feishu_get_token(app_id, app_secret)
+            batch = []
+            for r in results:
+                batch.append({"fields": {
+                    "uuid": r["uuid"],
+                    "source": r["source"],
+                    "title": r["title"],
+                    "original_url": r["original_url"],
+                    "publish_ts": r["publish_ts"],
+                    "content_markdown": r["content_markdown"],
+                    "status": r["status"],
+                    "tags": ",".join(r.get("tags", [])),
+                }})
+                if len(batch) == 100:
+                    feishu_write_records(token, app_token, table_id, batch)
+                    batch = []
+            if batch:
+                feishu_write_records(token, app_token, table_id, batch)
+            print("feishu: ok")
+        except Exception as e:
+            print("feishu error:", e)
 
 
 if __name__ == "__main__":
