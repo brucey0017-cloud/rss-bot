@@ -73,6 +73,12 @@ def fetch_rss_items():
             continue
 
         for e in feed.entries[:50]:
+            # filter ChainCatcher quick news
+            if name == "ChainCatcher":
+                title = getattr(e, "title", "") or e.get("title", "")
+                tags = [t.get("term") for t in getattr(e, "tags", []) if isinstance(t, dict) and t.get("term")]
+                if "快讯" in title or "快讯" in tags:
+                    continue
             link = getattr(e, "link", "") or e.get("link", "")
             title = getattr(e, "title", "") or e.get("title", "")
             pub = getattr(e, "published", "") or getattr(e, "updated", "")
