@@ -108,6 +108,12 @@ def main():
     out_path = save_digest(pack)
     ok, msg = post_to_writer_api(pack)
 
+    
+    # write site data.json for static site
+    os.makedirs("site", exist_ok=True)
+    with open("site/data.json", "w", encoding="utf-8") as f:
+        json.dump({"updated_at": pack["run_at_utc"], "items": pack["items"]}, f, ensure_ascii=False, indent=2)
+
     save_state(state)
     print("new_items:", len(new_items))
     print("saved:", out_path)
