@@ -18,8 +18,8 @@ USER_AGENTS = [
 ]
 
 STATE_FILE = "research/state.json"
-WINDOW_HOURS = 4
-MAX_ITEMS_PER_RUN = 40
+WINDOW_HOURS = 2
+MAX_ITEMS_PER_RUN = 20
 OUT_DIR = "research/output"
 
 
