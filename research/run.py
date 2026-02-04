@@ -181,6 +181,12 @@ def main():
     app_secret = os.getenv("FEISHU_APP_SECRET")
     app_token = os.getenv("FEISHU_APP_TOKEN")
     table_id = os.getenv("FEISHU_TABLE_ID")
+    if not (app_id and app_secret and app_token and table_id):
+        raise RuntimeError("FEISHU_MISSING")
+
+    app_secret = os.getenv("FEISHU_APP_SECRET")
+    app_token = os.getenv("FEISHU_APP_TOKEN")
+    table_id = os.getenv("FEISHU_TABLE_ID")
     if app_id and app_secret and app_token and table_id and results:
         try:
             token = feishu_get_token(app_id, app_secret)
