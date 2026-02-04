@@ -196,7 +196,7 @@ def main():
                     "uuid": r["uuid"],
                     "source": r["source"],
                     "title": r["title"],
-                    "original_url": r["original_url"],
+                    "original_url": {"link": r["original_url"], "text": r["title"]},
                     "publish_ts": r["publish_ts"],
                     "content_markdown": r["content_markdown"],
                     "status": r["status"],
