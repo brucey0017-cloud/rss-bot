@@ -22,9 +22,9 @@ function renderList(items) {
   }
   listEl.innerHTML = items.map(item => `
     <article class="card">
-      <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+      <h3><a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
       <p>${item.summary || ''}</p>
-      <div class="meta">${item.source} · ${fmtDate(item.published_at)}</div>
+      <div class="meta">${item.source_name} · ${fmtDate((item.publish_time_ts ? new Date(item.publish_time_ts*1000).toISOString() : ''))}</div>
     </article>
   `).join('');
 }
@@ -34,7 +34,7 @@ function applyFilters() {
   const s = sourceFilter.value;
   const filtered = state.items.filter(item => {
     const matchesQuery = !q || item.title.toLowerCase().includes(q) || (item.summary || '').toLowerCase().includes(q);
-    const matchesSource = !s || item.source === s;
+    const matchesSource = !s || item.source_name === s;
     return matchesQuery && matchesSource;
   });
   renderStats(filtered);
