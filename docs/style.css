@@ -1,0 +1,16 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background: #0b0e12; color: #e7edf5; }
+.header { padding: 32px 20px 12px; border-bottom: 1px solid #1c2430; background: linear-gradient(180deg, #0d1117, #0b0e12); }
+.header h1 { margin: 0 0 6px; font-size: 26px; }
+.meta { margin: 0; color: #8ea1b8; font-size: 14px; }
+.container { max-width: 980px; margin: 0 auto; padding: 20px; }
+.controls { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+.controls input, .controls select { padding: 10px 12px; border-radius: 8px; border: 1px solid #263143; background: #121823; color: #e7edf5; min-width: 220px; }
+.stats { color: #8ea1b8; font-size: 13px; margin-bottom: 8px; }
+.list { display: grid; gap: 12px; }
+.card { background: #121823; border: 1px solid #1c2430; border-radius: 12px; padding: 14px 16px; display: grid; gap: 6px; }
+.card h3 { margin: 0; font-size: 18px; }
+.card p { margin: 0; color: #b3c1d3; font-size: 14px; }
+.card .meta { font-size: 12px; }
+.footer { border-top: 1px solid #1c2430; padding: 16px 20px; text-align: center; color: #6f849c; font-size: 12px; }
+.empty { color: #8ea1b8; text-align: center; padding: 40px; }
