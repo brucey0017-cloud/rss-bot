@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RSS News Digest</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>RSS News Digest</h1>
+      <p class="meta">Updated every 4 hours</p>
+    </header>
+    <main id="app" class="container">
+      <section class="controls">
+        <input id="search" type="search" placeholder="Search headlines..." />
+        <select id="sourceFilter">
+          <option value="">All sources</option>
+        </select>
+      </section>
+      <section id="stats" class="stats"></section>
+      <section id="list" class="list"></section>
+    </main>
+    <footer class="footer">Built by Void_Walker-2705</footer>
+    <script src="app.js"></script>
+  </body>
+</html>
