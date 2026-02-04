@@ -18,6 +18,8 @@ USER_AGENTS = [
 ]
 
 STATE_FILE = "research/state.json"
+WINDOW_HOURS = 4
+MAX_ITEMS_PER_RUN = 40
 OUT_DIR = "research/output"
 
 
@@ -55,6 +57,8 @@ def normalize_text(s):
 
 def fetch_rss_items():
     items = []
+    now_ts = int(datetime.now(timezone.utc).timestamp())
+    min_ts = now_ts - WINDOW_HOURS * 3600
     for name, url in SOURCES:
         try:
             headers = {"User-Agent": random.choice(USER_AGENTS)}
@@ -74,6 +78,8 @@ def fetch_rss_items():
             pub = getattr(e, "published", "") or getattr(e, "updated", "")
             tags = [t.get("term") for t in getattr(e, "tags", []) if isinstance(t, dict) and t.get("term")]
             if link:
+                if parse_time_ts(pub) and parse_time_ts(pub) < min_ts:
+                    continue
                 items.append({
                     "source": name,
                     "title": normalize_text(title),
@@ -130,7 +136,7 @@ def main():
     rss_items = fetch_rss_items()
     results = []
 
-    for item in rss_items:
+    for item in rss_items[:MAX_ITEMS_PER_RUN]:
         uid = stable_id(item["original_url"])
         if uid in seen:
             continue
