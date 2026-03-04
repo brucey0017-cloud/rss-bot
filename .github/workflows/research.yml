@@ -31,7 +31,6 @@ jobs:
           git push || true
 
       - name: Trigger content-factory packaging (repository_dispatch)
-        if: ${{ secrets.CONTENT_FACTORY_DISPATCH_TOKEN != '' }}
         env:
           TOKEN: ${{ secrets.CONTENT_FACTORY_DISPATCH_TOKEN }}
         run: |
