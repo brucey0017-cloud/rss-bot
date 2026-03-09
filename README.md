@@ -114,6 +114,12 @@ RSS 自动剪报 + 深度抽取流水线（Web3 场景）。
 
 这样可以避免“看起来 research 成功、但下游没收到触发”的静默故障。
 
+故障排查顺序（建议按此顺序）：
+1. Secret 是否存在且非空：`CONTENT_FACTORY_DISPATCH_TOKEN`
+2. Token 权限是否覆盖目标私有仓（`content-factory`）
+3. 查看 `research.yml` 的触发步骤日志：是否返回 HTTP 204
+4. 查看 `content-factory` 是否出现 `repository_dispatch` 触发的 run
+
 ### 必要 Secret
 - `CONTENT_FACTORY_DISPATCH_TOKEN`
 
