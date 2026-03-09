@@ -1,0 +1,37 @@
+name: token-alive-check
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # every Sunday 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check-token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate dispatch token (strict)
+        env:
+          TOKEN: ${{ secrets.CONTENT_FACTORY_DISPATCH_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${TOKEN:-}" ]; then
+            echo "FATAL: CONTENT_FACTORY_DISPATCH_TOKEN is empty"
+            exit 1
+          fi
+
+          # Probe the exact API we depend on in production.
+          # Use a no-op event_type that content-factory does not listen to.
+          HTTP_STATUS=$(curl -sS -o /tmp/token_probe_resp.json -w "%{http_code}" -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${TOKEN}" \
+            https://api.github.com/repos/brucey0017-cloud/content-factory/dispatches \
+            -d '{"event_type":"token_probe"}')
+
+          if [ "$HTTP_STATUS" -ne 204 ]; then
+            echo "ALERT: dispatch token unhealthy, HTTP=${HTTP_STATUS}"
+            cat /tmp/token_probe_resp.json || true
+            exit 1
+          fi
+
+          echo "OK: dispatch token healthy (HTTP 204)"
