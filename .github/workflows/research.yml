@@ -30,12 +30,27 @@ jobs:
           git commit -m "update research" || true
           git push || true
 
-      - name: Trigger content-factory packaging (repository_dispatch)
+      - name: Trigger content-factory packaging (repository_dispatch, strict)
         env:
           TOKEN: ${{ secrets.CONTENT_FACTORY_DISPATCH_TOKEN }}
         run: |
-          curl -s -X POST \
+          set -euo pipefail
+
+          if [ -z "${TOKEN:-}" ]; then
+            echo "FATAL: CONTENT_FACTORY_DISPATCH_TOKEN is empty"
+            exit 1
+          fi
+
+          HTTP_STATUS=$(curl -sS -o /tmp/content_factory_dispatch_resp.json -w "%{http_code}" -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${TOKEN}" \
             https://api.github.com/repos/brucey0017-cloud/content-factory/dispatches \
-            -d '{"event_type":"rssbot_research_done"}'
+            -d '{"event_type":"rssbot_research_done"}')
+
+          if [ "$HTTP_STATUS" -ne 204 ]; then
+            echo "FATAL: repository_dispatch failed, HTTP=${HTTP_STATUS}"
+            cat /tmp/content_factory_dispatch_resp.json || true
+            exit 1
+          fi
+
+          echo "OK: repository_dispatch accepted (HTTP 204)"
