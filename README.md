@@ -102,6 +102,24 @@ RSS 自动剪报 + 深度抽取流水线（Web3 场景）。
 
 ---
 
+
+## 与 content-factory 的自动联动（防静默失败）
+
+`research.yml` 在研究任务结束后会自动触发 `content-factory` 打包（`repository_dispatch`）。
+
+已启用 **强制校验**：
+- 触发接口必须返回 **HTTP 204** 才算成功
+- 非 204（如 401/403/404）会让 workflow **直接失败（红灯）**
+- 失败时会打印响应体，便于快速定位权限/配置问题
+
+这样可以避免“看起来 research 成功、但下游没收到触发”的静默故障。
+
+### 必要 Secret
+- `CONTENT_FACTORY_DISPATCH_TOKEN`
+
+建议权限：
+- 对 `content-factory` 仓库具备可触发 dispatch 的权限（常见做法：classic PAT 带 `repo`）
+
 ## 环境变量
 
 ### Digest 可选
