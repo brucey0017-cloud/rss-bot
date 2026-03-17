@@ -2,7 +2,7 @@
 name: rss-digest
 on:
   schedule:
-    - cron: "17 */4 * * *"   # UTC 时间；17 分避开整点
+    - cron: "17 */6 * * *"   # UTC 时间；每6小时一次（一天最多4次）
   workflow_dispatch:
 
 jobs:

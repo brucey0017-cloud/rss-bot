@@ -1,7 +1,7 @@
 name: web3-research
 on:
   schedule:
-    - cron: "37 */4 * * *"
+    - cron: "37 */6 * * *"   # 每6小时一次（一天最多4次）
   workflow_dispatch:
 
 jobs:
