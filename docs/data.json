@@ -1,93 +1,805 @@
 {
-  "updated_at": "2026-10-15T11:24:49.822234+00:00",
+  "updated_at": "2026-10-15T16:57:56.621752+00:00",
   "items": [
     {
       "source_name": "ChainCatcher",
-      "title": "欧洲银行管理局：将 USDC 认定为欧盟首个重要电子货币代币",
-      "url": "https://www.chaincatcher.com/article/2296547",
-      "summary": "ChainCatcher 消息，欧洲银行管理局（EBA）宣布，根据《加密资产市场法规》（MiCA），将 Circle 发行的 USDC 认定为“重要电子货币代币”。USDC 由此成为欧盟已通报的 45 种电子货币代币中，首个达到该认定标准的代币。自 11 月 12 日起，EBA 将直接负责 USDC 自有资金、储备资产、流动性要求，以及恢复与赎回计划的监管。这些领域目前由法国审慎监管与处置局（AC",
-      "publish_time_ts": 1792062963,
-      "guid": "5c2abd14a9855f79b4817d97c6ffb89fa62a4a932cf8681bf41aec905a789f5d"
+      "title": "CNN 与谷歌达成生成式 AI 合作协议",
+      "url": "https://www.chaincatcher.com/article/2296649",
+      "summary": "ChainCatcher 消息，据视相 Variety 报道，美国有线电视新闻网（CNN）与谷歌 (GOOG.O) 达成一项多年期合作协议，旨在推动生成式人工智能的应用。",
+      "publish_time_ts": 1792082861,
+      "guid": "5a76d7c712fc7b2cfafa816ac89d34c82c6218fecb5d5c250e0694893523c510"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "DeepSeek 拟投资前逐际动力基模负责人俞涛创业公司 估值达 2 亿美元",
-      "url": "https://www.chaincatcher.com/article/2296546",
-      "summary": "ChainCatcher 消息，据 Top 华人科创社报道，前逐际动力人形机器人基础模型负责人俞涛已离职创业，方向为 LLM 与具身智能结合。据相关人士透露，其公司第一轮估值 7000 万美元，第二轮估值 2 亿美元，DeepSeek 与某头部及一线基金参与投资。\n\n俞涛为中科大博士、新加坡国立大学访问学者，曾任腾讯 AI Lab 绝悟团队高级研究员，在逐际动力期间带队从零搭建全身跟踪系统 Lim",
-      "publish_time_ts": 1792062653,
-      "guid": "fcb8130bbff8b377c1332284c2daf5037bc09bc4df5d1a872319230120e7c85e"
+      "title": "Charles Schwab 管理 13.33 万亿美元客户资产：已上线比特币和以太坊零售交易",
+      "url": "https://www.chaincatcher.com/article/2296648",
+      "summary": "ChainCatcher 消息，金融服务公司 Charles Schwab 已完成面向符合条件零售客户的比特币和以太坊直接交易上线。该公司管理客户资产约 13.33 万亿美元，拥有 4030 万个活跃经纪账户。Charles Schwab CEO Rick Wurster 表示，公司正在分阶段开放加密货币转入和转出功能，并计划在 2026 年底前新增 Solana、Avalanche 和 Chai",
+      "publish_time_ts": 1792081679,
+      "guid": "53ddc8489c041f52188374e04ed30e3201298f84eb7d02f7ab9c8fb9f9aec199"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "Fission 完成 1000 万美元 A 轮融资，Pantera Capital 领投",
-      "url": "https://www.chaincatcher.com/article/2296545",
-      "summary": "ChainCatcher 消息，据《财富》报道，代币化基金流动性平台 Fission 宣布完成 1000 万美元 A 轮融资，由 Pantera Capital 领投，Circle Ventures、Borderless Capital 及 Ari Rubenstein 参投。本轮融资于 9 月完成，公司未披露估值。Fission 旨在解决代币化基金份额难以快速变现的问题。平台通过充当买方，让投资",
-      "publish_time_ts": 1792062543,
-      "guid": "46b4f4ff359b0df1bb447e06cabe43ab776ebd6de40047f36f0b48f22494f983"
+      "title": "宏观风险压制比特币看涨情绪，圣诞节前涨至10万美元概率不足10%",
+      "url": "https://www.chaincatcher.com/article/2296647",
+      "summary": "ChainCatcher 消息，据彭博社报道，加密市场多空拉锯，分析师仍偏看涨，但投机性市场转向防御，风险偏好承压。比特币一度跌破 8 万美元，为近一个月来首次；受美股 AI 板块抛售拖累，风险资产回落，加密市场试图重建的看涨情绪再度受挫。STS Digital 美国区负责人 Jeff Anderson 称，通胀数据将“严重打击风险偏好”，市场正进入美联储议息会议前的静默期，利率预期仍不确定。De",
+      "publish_time_ts": 1792081177,
+      "guid": "d222083bd4e380b676504d59b648a3b24cfd8c9f3debf0d1649444e391aff6f2"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "FBI 联手检方捣毁跨国加密诈骗网络：112 台服务器和 241 个域名被查封",
-      "url": "https://www.chaincatcher.com/article/2296544",
-      "summary": "ChainCatcher 消息，据 Decrypt 报道，纽约布鲁克林地区检察官办公室虚拟货币部门（Virtual Currency Unit）联合 FBI，成功打掉一个针对全美俄语群体的跨国加密投资诈骗网络，查封并关停 112 台服务器及 241 个关联网站域名。涉案服务器主要托管于东欧和美国，团伙核心基础设施与 IP 节点分布在乌克兰等地。服务器取证还显示，诈骗者会在数周后再次出手，伪装成“资",
-      "publish_time_ts": 1792062480,
-      "guid": "5475127221f91d13a7a7c1a481603e8d07c3bb3413246be6e34970e38d576099"
+      "title": "Binance.US 寻求融资 1 亿美元以扩大加密业务",
+      "url": "https://www.chaincatcher.com/article/2296646",
+      "summary": "ChainCatcher 消息，据市场消息，Binance.US 寻求融资 1 亿美元以扩大加密业务。",
+      "publish_time_ts": 1792080829,
+      "guid": "8ba3e6aa059fd72746410b393726177005a94b1d5097d5115fd8d48301ef4ec2"
+    },
+    {
+      "source_name": "PANews",
+      "title": "比特币多空拉锯加剧，圣诞节前涨至10万美元概率跌破10%",
+      "url": "https://www.panewslab.com/zh/articles/01a14054-8d8f-720a-9d41-fabcff09fb2c",
+      "summary": "PANews 10月16日消息，据彭博社报道，加密市场正陷入多空力量拉锯：一方面，数字资产分析师仍持看涨态度；另一方面，投机性市场整体转向防御，风险偏好持续承压。比特币一度跌破 8 万美元，为近一个月来首次。受美股 AI 板块抛售拖累，风险资产普遍回落，加密市场此前试图重建的看涨情绪再度受挫。Derive.xyz 创始人 Nick Forster 表示，过去 24 小时内，市场定价的比特币圣诞节前",
+      "publish_time_ts": 1792080600,
+      "guid": "7afeac48353fd048a51a7b4e1704b302d53c056b3c8991a69ff6286eaf439dee"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "币安 bStocks 成为全球最快突破 10 亿美元用户持仓金额的代币化股票产品，累计交易量超 400 亿美元",
-      "url": "https://www.chaincatcher.com/article/2296543",
-      "summary": "ChainCatcher 消息，币安宣布其代币化股票产品 bStocks 用户持仓金额（AUM）已突破 10 亿美元，成为全球最快达到这一规模的代币化股票产品。自 2026 年 6 月 11 日上线以来，bStocks 仅用约四个月便实现这一里程碑。截至目前，bStocks 累计交易量已超过 400 亿美元，日均交易量超过 3 亿美元，上线资产接近 100 种。自上线以来，直接持有的股票与 bSt",
-      "publish_time_ts": 1792062470,
-      "guid": "0c4731828fc061c295c3147ae229f8494870f378659954e669afc99b6a7d438a"
+      "title": "代币化资产结算平台 Multiliquid 开发商 Uniform Labs 累计完成 800 万美元融资，Polychain 领投",
+      "url": "https://www.chaincatcher.com/article/2296645",
+      "summary": "ChainCatcher 消息，据 The Block 报道，代币化资产结算平台 Multiliquid 的开发商 Uniform Labs 已在种子轮及种子前轮融资中累计筹集 800 万美元，其中最新一轮种子轮由 Polychain 领投，Strobe Ventures、CMT Digital、Metalayer Ventures、Generative Ventures 及 Circle Ven",
+      "publish_time_ts": 1792080237,
+      "guid": "0b83622d3c5d2c66fbfc9f2398222c581f7dacfbc00c8c03c7fb56a4647b2ed9"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "知名交易员：比特币回测 50 日均线支撑，看好从当前水平继续上涨",
-      "url": "https://www.chaincatcher.com/article/2296542",
-      "summary": "ChainCatcher 消息，知名交易员 Doctor Profit 发文表示，比特币此前触底并重新站上 50 日均线后大幅上涨，此后一直未回测该均线，如今已回测这一支撑位。他认为，该支撑将守住，比特币将从当前水平继续上涨。",
-      "publish_time_ts": 1792062423,
-      "guid": "9148043cd2740331532f3ee9d54abca0172e66fcee9329b98f3d045ca7fb2ac5"
+      "title": "澳大利亚提出立法，要求报告加密交易并共享税务信息",
+      "url": "https://www.chaincatcher.com/article/2296644",
+      "summary": "ChainCatcher 消息，加密媒体 Watcher Guru 发文称，澳大利亚提出立法，要求报告加密货币交易，并开展国际税务信息共享。根据该法案，加密平台将须自 2027 年 7 月起，向税务机关报告涉及澳大利亚居民的交易。",
+      "publish_time_ts": 1792080077,
+      "guid": "2332d5e11937d1dbf78e3a172866007bd51768268250c9f5ea45f0a6ba3015e2"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "Gate 开启 SK 海力士与三星电子合约交易赛，上线 50,000 USDT 奖池",
-      "url": "https://www.chaincatcher.com/article/2296541",
-      "summary": "ChainCatcher 消息，据官方消息，Gate 已正式开启 SK 海力士和三星电子永续合约交易大赛，活动总奖池为 50,000 USDT。活动时间为 2026 年 10 月 13 日 16:00 至 10 月 22 日 16:00（UTC+8）。用户前往活动页面报名并完成身份认证后，可参与三项福利活动，单人最高可累计获得 240 USDT 奖励。活动期间，首次进行合约交易的新用户在指定合约累",
-      "publish_time_ts": 1792062225,
-      "guid": "3afea18f8e45fee47f5ac8aa3aa7b3d805ae2d9c951b82891e88fc2bd4cc86d6"
+      "title": "Stripe 联合创始人：收购 Privy 后其收入增至此前约 9 倍，钱包资产规模增至约 25 倍",
+      "url": "https://www.chaincatcher.com/article/2296642",
+      "summary": "ChainCatcher 消息，Stripe 联合创始人 Patrick Collison 发文表示，自 Privy 于一年多前加入 Stripe 以来，其钱包内资产规模增至此前约 25 倍，月活跃开发者数量增至约 3 倍，收入增至约 9 倍，目前每月促成近 250 亿美元交易。Ramp、Deel、Klarna、Hyperliquid 等企业正在基于 Privy 构建嵌入式银行功能。Stripe ",
+      "publish_time_ts": 1792080006,
+      "guid": "1232194aecb6277180edf9a432616a6fc26f044f49f9a00e48c5623841c35b19"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "Glassnode：比特币下方多头清算风险高于上方空头风险",
-      "url": "https://www.chaincatcher.com/article/2296540",
-      "summary": "ChainCatcher 消息，据 Glassnode 数据，比特币目前处于支撑位附近，但下方存在大规模多头清算集群，若价格进一步下跌，可能触发连锁清算，约 7.5 万美元附近还有另一处清算集群。相比之下，过去一周 8.5 万美元上方持续累积空头清算头寸，目前下方多头清算区的脆弱性高于上方空头清算区。",
-      "publish_time_ts": 1792062177,
-      "guid": "61ec6fe5f78c72cf1259ae0eb4c74647672da96fbfa138c6b9e7bd8e5642b02c"
+      "title": "纳斯达克上市 Solana 储备公司 DeFi Development 上调 CHAD 股息率至 14%",
+      "url": "https://www.chaincatcher.com/article/2296641",
+      "summary": "ChainCatcher 消息，据 The Block 报道，纳斯达克上市的 Solana 储备公司 DeFi Development Corp.（DFDV）宣布，将其 CHAD 优先股的年化股息率从 13% 上调至 14%，自 11 月 2 日起生效。按 CHAD 每股 10 美元的面值计算，年度股息由每股 1.3 美元提高至 1.4 美元，在公司董事会宣布派息的情况下，每个工作日支付一次。该公",
+      "publish_time_ts": 1792079766,
+      "guid": "802cc2af02bca9a48a77b57e397291df294f816db931661f9a385335fa048dc2"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美股盘中加密货币概念股多数转涨",
+      "url": "https://www.chaincatcher.com/article/2296640",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，美股盘中加密货币概念股多数转涨，Circle（CRCL）涨 6.27%、Block（XYZ）涨 3.80%、Strategy（MSTR）涨 3.79%、Coinbase（COIN）涨 3.29%、BitMine（BMNR）涨 1.71%。",
+      "publish_time_ts": 1792079579,
+      "guid": "a3db6ea0719323472d4d11f126d5d83280361c234a661d0fdc6e80e0f126fada"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "纳斯达克经历网络问题，客户或遇数据缺失",
+      "url": "https://www.chaincatcher.com/article/2296638",
+      "summary": "ChainCatcher 消息，纳斯达克目前正经历网络问题，客户可能会间歇性地遇到数据缺失问题。",
+      "publish_time_ts": 1792078361,
+      "guid": "e0fec16932c89f9887a8fabc7c253f6546643eb6db434a573c42fbb6968b155d"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "《GENIUS 法案》实施最终规则预计于 10 月底前出台",
+      "url": "https://www.chaincatcher.com/article/2296637",
+      "summary": "ChainCatcher 消息，加密记者 Eleanor Terrett 发文称，美国货币监理署（OCC）署长 Jonathan Gould 表示，OCC 实施《GENIUS 法案》的最终规则预计很快出台，时间在 10 月底前。\n\nGould 是在米尔肯研究院举办的“建设新数字经济”活动上作出上述表态，该活动与 DC 金融科技周同期举行。",
+      "publish_time_ts": 1792077973,
+      "guid": "98df5544fd154a398312c6632c254995b671d3a8423961e99f59a490fbf78dba"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "多元宇宙计算公司与英伟达合作推出 Comet 60B",
+      "url": "https://www.chaincatcher.com/article/2296636",
+      "summary": "ChainCatcher 消息，多元宇宙计算公司（Multiverse Computing）与英伟达合作推出 Comet 60B。",
+      "publish_time_ts": 1792077581,
+      "guid": "9675f7a9ab25635d2a8fafa7f8b552fdb99e4393150cf10f1bdc8aed50fafbf3"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "纳斯达克中国金龙指数涨 2%",
+      "url": "https://www.chaincatcher.com/article/2296635",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，纳斯达克中国金龙指数上涨 2%。",
+      "publish_time_ts": 1792077466,
+      "guid": "d38bd82976cb0332b060ba93159e452ed0b107fa9ac7612a2f85f52c5ec53109"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美光科技盘中转涨，跌幅超 6% 后反弹",
+      "url": "https://www.chaincatcher.com/article/2296634",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，美光科技 (MU.O) 盘中转涨，此前跌幅超过 6%。",
+      "publish_time_ts": 1792077406,
+      "guid": "532cae0268014001ba93d0ee6002479ee0356369d83a4737c56e5fe6765f8574"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "英伟达发布 Nemotron 3.5 Super VL 和边缘模型",
+      "url": "https://www.chaincatcher.com/article/2296633",
+      "summary": "ChainCatcher 消息，市场消息称英伟达发布了 Nemotron 3.5 Super VL，并推出边缘模型 Nemotron 3.5 Bolt 74B-A9B（24GB）。",
+      "publish_time_ts": 1792077104,
+      "guid": "d000ae08fabbfd2738f95c204caf61beb864562062d6ef7484e0a434ad307b4c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "黄仁勋：COREWEAVE 实力增强，资本成本下降",
+      "url": "https://www.chaincatcher.com/article/2296632",
+      "summary": "ChainCatcher 消息，英伟达 CEO 黄仁勋表示，COREWEAVE 的实力每天都在增强，其资本成本实际上在下降。",
+      "publish_time_ts": 1792077047,
+      "guid": "0a4cfb91928ea3d935b08780815a9dcd4fbbdc804477c4f71d5c2f41ad8787c6"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "过去 24 小时加密市场爆仓 9.24 亿美元，超 17 万人被爆仓",
+      "url": "https://www.chaincatcher.com/article/2296631",
+      "summary": "ChainCatcher 消息，据 CoinGlass 数据，过去 24 小时内加密货币市场总爆仓金额达 9.24 亿美元，其中多单爆仓 8.02 亿美元，空单爆仓 1.22 亿美元，共有 175,806 人被爆仓。过去 24 小时最大单笔爆仓发生在 Binance 的 BTCUSDT，价值 1203.47 万美元，方向为多单，成交价格 80,208.96 美元。",
+      "publish_time_ts": 1792077006,
+      "guid": "73332519f7989ffb2204c9eb48d5c2c89b27fcb37fa32adc78d94220619c0a9f"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "通胀双双超预期，比特币回踩八万美元关口，加息还远吗？",
+      "url": "https://www.chaincatcher.com/article/2296618",
+      "summary": "最近 24 小时内，加密市场超 17 万人爆仓，这轮回调消化了多少通胀风险？",
+      "publish_time_ts": 1792076805,
+      "guid": "1831afa9b7ae1f53885dc9348607aa88c1a791f87d240b6b8f668f1d6136b598"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美股三大股指走势分化，道指涨超 1%",
+      "url": "https://www.chaincatcher.com/article/2296630",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，美股三大股指走势分化，道指涨超 1%，纳指现跌 0.28%。",
+      "publish_time_ts": 1792076802,
+      "guid": "bac3a0f1981360456bc27cccd322c18cbf00e5ba1c8c7c32b543e54cbbd55470"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：ETH 突破 2400 美元",
+      "url": "https://www.chaincatcher.com/article/2296629",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，ETH/USDT 现报 $2400.16，24 小时跌幅 0.94%。",
+      "publish_time_ts": 1792076463,
+      "guid": "790ccbe054e1af38b692e308edb274ba91f9c08588b2c25d280c16ca9f4b8376"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“比特币 10 月价格预测” “77,500 美元” 胜率暴跌 16%",
+      "url": "https://www.chaincatcher.com/article/2296628",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“比特币 10 月价格预测”事件中，子市场 “77,500 美元” 的 “是” 选项胜率发生剧烈波动，由 1 小时前的 58.5% 暴跌至当前的 42.5%（波动幅度达 16%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792076414,
+      "guid": "5bd8971dc93831286c9b9e3b1f3eebf920bdcb274838ba3b2881449c82aada38"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：过去 1 小时 Binance 净流入 6,319.83 万 USDT",
+      "url": "https://www.chaincatcher.com/article/2296627",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，Binance 在过去 1 小时内净流入 6,319.83 万 USDT。",
+      "publish_time_ts": 1792076407,
+      "guid": "050f78b04d1d2c4547b64a785ee2f0aaf837cd4d62be50cc5fb7ba66f88b8dc4"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：BTC 突破 82000 美元",
+      "url": "https://www.chaincatcher.com/article/2296626",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，BTC/USDT 现报 $82015.7，24 小时涨幅 0.24%。",
+      "publish_time_ts": 1792076209,
+      "guid": "a8a4d2ca560f90406c5ec7ba93d076a57c5cc6d8003d9b2cc6dbcd6583b49f34"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "OKX 上线链上现货与永续合约公测，模拟传统金融市场交易",
+      "url": "https://www.chaincatcher.com/article/2296625",
+      "summary": "ChainCatcher 消息，据 The Defiant 报道，OKX 宣布在其 App 内上线 Onchain Spot and Perps 公开测试版，合格用户可使用免费积分（XP）模拟交易股票、指数与商品市场，为后续真实资金交易做准备。该模拟交易竞赛与 Outcomes Season 3 共享 25 万 USDT 奖池，时间为美东时间 10 月 14 日 22:00 至 11 月 14 日",
+      "publish_time_ts": 1792076055,
+      "guid": "31205261f67af2a08f3a8913182ae84be7a325f08aab826594ec4c3373c32bc3"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "德国政府计划与英伟达建立合作伙伴关系",
+      "url": "https://www.chaincatcher.com/article/2296624",
+      "summary": "ChainCatcher 消息，据德国商报援引政府及行业消息人士报道称，德国政府计划与英伟达建立合作伙伴关系。",
+      "publish_time_ts": 1792075604,
+      "guid": "41fcbd92d7bc863d1d7bb5f5c6ca7fed9cea1b24e2b1d1c6b95a63d71da22de0"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Dota 2：Lynx 对阵 Dawn Bulls” “双方击败 Roshan” 胜率飙升 40.5%",
+      "url": "https://www.chaincatcher.com/article/2296623",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Dota 2：Lynx 对阵 Dawn Bulls”事件中，子市场“双方击败 Roshan”的“是”选项胜率发生剧烈波动，由 1 小时前的 50% 飙升至当前的 90.5%（波动幅度达 40.5%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792075525,
+      "guid": "cd1ee36320039f332e7491ca856e5984fab2e486adc00125a9e5eeadc2ba3b94"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“KKS Lech Poznań 对阵 Bayer 04 Leverkusen” 巨鲸单笔 50,142.3 美元买入 “Bayer 04 Leverkusen”",
+      "url": "https://www.chaincatcher.com/article/2296622",
+      "summary": "据 Catcher Predict 监测链上数据，预测市场 Polymarket 上发生大额资金异动。有巨鲸资金在 “KKS Lech Poznań 对阵 Bayer 04 Leverkusen” 事件中，针对 “Bayer 04 Leverkusen” 单笔买入了 50,142.3 美元。以当前成交单价计算，该标的最新对应胜率为 70%。",
+      "publish_time_ts": 1792075516,
+      "guid": "41cefbb68f2c0bcde11b68213a4f3521fb6c0fb22f30fe69b2a84242c69b0b73"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Firelight 为 Kraken USDC 金库新增 3050 万美元链上保障",
+      "url": "https://www.chaincatcher.com/article/2296621",
+      "summary": "ChainCatcher 消息，据 The Defiant 报道，基于 Flare 网络的链上保障协议 Firelight 于 10 月 15 日宣布，其链上保障已上线 Kraken DeFi Earn 的 Protected Strategies USDC 金库，为特定协议故障提供由抵押品支持的赔付机制。\n\n该金库的独立管理人 Sentora 为金库投保，而非 Kraken 本身。存款人无需主动",
+      "publish_time_ts": 1792075176,
+      "guid": "6cd8e9bc185963b58d75469688c12071997e1f20a976461c299773b4e9031d6f"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：监测到 2 亿 USDT 转入 Binance",
+      "url": "https://www.chaincatcher.com/article/2296620",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，10 月 15 日 22:37 监测到 2 亿 USDT 从未知钱包转入 Binance。",
+      "publish_time_ts": 1792075147,
+      "guid": "2cd21b3ff573bc53e9cf83db8bc1828a3c43c65477a0249ac1196c9555af7767"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "俄罗斯央行：2027 年起禁止个人直接 P2P 加密交易",
+      "url": "https://www.chaincatcher.com/article/2296617",
+      "summary": "ChainCatcher 消息，据 Cointelegraph 报道，俄罗斯央行在更新的监管指引中表示，个人直接进行加密资产点对点交易的安排将持续至 2027 年 7 月 1 日，此后相关交易须通过获授权的中介机构完成。俄罗斯央行同时明确，个人不得将加密资产从数字账户转入自托管钱包。\n\n俄罗斯正扩大受监管加密市场，俄最大银行 Sberbank 已获准提供加密资产交易服务，此前已获批成为数字资产托管",
+      "publish_time_ts": 1792074713,
+      "guid": "299d81e007c3f8e36b9de81bf123942664ba97df9bec297023b012ae89df626b"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Polygon Labs：Bor v2.1.3 发布，修复两项 DoS 安全漏洞",
+      "url": "https://www.chaincatcher.com/article/2296616",
+      "summary": "ChainCatcher 消息，Polygon Labs 官方公告，Bor v2.1.3 正式对外公开发布，此前已以私有版本形式向验证者及主要基础设施提供商分发。本次更新修复了 BlockSTM V2 并行块执行中的两项中危拒绝服务漏洞，均由安全研究人员通过 Immunefi 漏洞赏金计划提交。\n\n无界 keccak256 缓存问题：攻击者可通过构造特定交易，在投机执行阶段填充数百 MiB 缓存，",
+      "publish_time_ts": 1792074528,
+      "guid": "78171764ca5f6bf9ae37f952c2c21d070ce54dd2fbbb6754ac37eb243d897194"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "纳斯达克上市 Tron 提交 2 亿美元 ATM 股票发行申请，用于增持 TRX",
+      "url": "https://www.chaincatcher.com/article/2296615",
+      "summary": "ChainCatcher 消息，据 Cointelegraph 报道，纳斯达克上市的 TRX 财库公司 Tron 已向美国证券交易委员会提交文件，设立一项新的按市价发行股票计划，允许其出售最多 2 亿美元的普通股，为规模更大的 TRX 财库提供资金。\n\n根据周三提交的招股说明书补充文件，Tron 可通过 Clear Street 作为代理方定期出售面值 0.0001 美元的普通股，Clear St",
+      "publish_time_ts": 1792074492,
+      "guid": "c4e901f71626f4e34332081bcb9f247834de3688de1e97271eb3da79b97a45ac"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Solana Mobile 宣布 Ledger 为首个硬件扩展合作伙伴",
+      "url": "https://www.chaincatcher.com/article/2296614",
+      "summary": "ChainCatcher 消息，据 PR Newswire 报道，Solana 生态手机业务 Solana Mobile 在巴黎 Ledger Op3n 2026 现场宣布，硬件钱包公司 Ledger 成为其首个硬件扩展合作伙伴。Solana dApp Store 与钱包将合并为 Seeker 应用，并与新设备 Ledger Atom 整合，该应用将预装于设备主屏幕，供用户接入 Solana 生态",
+      "publish_time_ts": 1792073933,
+      "guid": "b518bbb594d9cd331694eb94b85feb97dcc624d7ee88136995858cad672aa153"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "核心通胀没有如期降温，美联储还有不加息的理由吗？",
+      "url": "https://www.chaincatcher.com/article/2296609",
+      "summary": "核心 CPI 连续两个月环比高于预期，住房与非住房服务通胀同步走强，增强了美联储10月再次加息的理由，但最终仍需后续数据确认。",
+      "publish_time_ts": 1792073487,
+      "guid": "5e6c73cd7a1c6d04c7a933b97a82fe4147a1a51fdb0aac0735691c6da2a42e8e"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：BTC 突破 81000 美元",
+      "url": "https://www.chaincatcher.com/article/2296613",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，BTC/USDT 现报 $81003.9，24 小时跌幅 1.55%。",
+      "publish_time_ts": 1792073401,
+      "guid": "45e9b23d580a62b555bbd1799d57652912847b8aaec4553e7747ee915dac9e0b"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：监测到 1.02 亿 USDT 转出 Binance",
+      "url": "https://www.chaincatcher.com/article/2296612",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，10 月 15 日 22:05 监测到 1.02 亿 USDT 从 Binance 转出至未知钱包。",
+      "publish_time_ts": 1792073166,
+      "guid": "bd988e3191a76fb74aae7647e14115bb955a135b40049f86616965c76a2ecc12"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Gate 创始人及 CEO Dr. Han：Gate Money 打通资产、资金与支付，重塑数字金融新格局",
+      "url": "https://www.chaincatcher.com/article/2296611",
+      "summary": "ChainCatcher 消息，Gate 创始人及 CEO Dr. Han 在 CoinMarketCap 举办的直播 AMA 专访中，围绕数字金融的发展方向、Gate Money 的产品定位，以及数字资产与传统金融的加速融合展开交流。\n\nDr. Han 表示：“数字金融的未来，不仅在于提供更多资产选择，更在于打通资产、资金与支付，让用户能够在一个生态中更便捷地管理资产、转移资金并满足日常支付需求",
+      "publish_time_ts": 1792073117,
+      "guid": "f6d025006f97e861df30eee4f961c0dff85d3d6ae7a6867245a51a7a338c9835"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Sui 联创：曾拒绝分叉 EVM 选择从零构建，当前趋势与当初判断一致",
+      "url": "https://www.chaincatcher.com/article/2296610",
+      "summary": "ChainCatcher 消息，Sui 联合创始人兼首席产品官 Adeniyi Abiodun 发文回顾称：多年前团队着手打造一条 L1 时，接触过的风险投资机构与机构方都建议他们分叉 EVM，以避开自研带来的困难，尽快推出另一版本的同类产品后继续推进。Abiodun 表示，团队拒绝了这一建议，因为他们对行业发展方向有明确判断，认为复制一套存在问题的设计并不可取。Sui 因此从零开始构建，并承担了",
+      "publish_time_ts": 1792073089,
+      "guid": "0518a40499157694b487278b86250e9b32954d12789cf362898db2b8ac9b63ca"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：若 ETH 突破 2,453 美元，主流 CEX 累计空单清算强度将达 13.22 亿美元",
+      "url": "https://www.chaincatcher.com/article/2296608",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，若 ETH 突破 2,453 美元，主流 CEX 累计空单清算强度将达 13.22 亿美元。反之，若 ETH 跌破 2,232 美元，主流 CEX 累计多单清算强度将达 5 亿美元。",
+      "publish_time_ts": 1792072844,
+      "guid": "ce665488bfe9fb12284ca193847092ab37d769a7690367db49632cbfacd9811d"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：若 BTC 突破 84,078 美元，主流 CEX 累计空单清算强度将达 22.76 亿美元",
+      "url": "https://www.chaincatcher.com/article/2296607",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，若 BTC 突破 84,078 美元，主流 CEX 累计空单清算强度将达 22.76 亿美元。反之，若 BTC 跌破 76,602 美元，主流 CEX 累计多单清算强度将达 10.65 亿美元。",
+      "publish_time_ts": 1792072829,
+      "guid": "eb695e80bad3145e2d9c23c345b813092a23454b25d7e56aaf0c7d198fa1c1c9"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "标普 500 消费品板块单日涨幅创 7 月新高",
+      "url": "https://www.chaincatcher.com/article/2296606",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，标普 500 消费品板块上涨 2.7%，为 7 月 28 日以来最大单日涨幅。",
+      "publish_time_ts": 1792072783,
+      "guid": "f2b439dd951607fdfcb8fd974ceeabff38630a818bab0092b3e0ac6627b49bd4"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：过去 24 小时全网爆仓 9.3 亿美元，逾 17 万人被爆仓",
+      "url": "https://www.chaincatcher.com/article/2296605",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，过去 24 小时全网爆仓 9.3 亿美元，其中多单爆仓 8.53 亿美元，空单爆仓 7667 万美元。\n\n最近 24 小时，174,915 人被爆仓，最大单笔爆仓单发生在 Binance - BTCUSDT，价值 1203.47 万美元。",
+      "publish_time_ts": 1792072620,
+      "guid": "25be1baf6f590e320482a7ae9d5faa8d78081d7557e27f873790fb1d67a728d6"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Safe 在以太坊、Gnosis 与 Arbitrum 上线 Safenet Aegis 安全网络",
+      "url": "https://www.chaincatcher.com/article/2296604",
+      "summary": "ChainCatcher 消息，据 The Defiant 报道，Safe 宣布在以太坊、Gnosis Chain 与 Arbitrum 上线 Safenet Aegis 安全网络，这是 Safenet 首个可产生费用、面向生产环境的版本，此前 SafeDAO 已通过 SEP 56 提案批准其资金与启动。该网络将交易检查与交易授权分离，为 Safe 多签钱包等智能账户提供交易安全验证。\n\nSafe",
+      "publish_time_ts": 1792072513,
+      "guid": "8a4c9fea229fa0be44835e1034eb1d080b4b8ddc83040ea63dd31da6b071b735"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：BTC 跌破 80000 美元",
+      "url": "https://www.chaincatcher.com/article/2296603",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，BTC/USDT 现报 $79995，24 小时跌幅 3.42%。",
+      "publish_time_ts": 1792072434,
+      "guid": "cccbd4ec0b152d5a7aef2112fd5d05f9aa5f410695f756999a2a8183d7cadc53"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Solana 来上海，想做什么生意？",
+      "url": "https://www.chaincatcher.com/article/2296602",
+      "summary": "对一条公链来说，能持续吸引团队来开发、让用户留下来使用，才有长期的竞争力。",
+      "publish_time_ts": 1792072354,
+      "guid": "8e4f5d538fb52fda37d560951a6a1661b08243b27682b1bdb26215b89d93a436"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Bitwise CIO：比特币将在多种 AI 情景下最终受益",
+      "url": "https://www.chaincatcher.com/article/2296601",
+      "summary": "ChainCatcher 消息，据 The Block 报道，加密资产管理公司 Bitwise 首席投资官 Matt Hougan 表示：无论人工智能推动经济繁荣、投资泡沫破裂，还是增长保持温和，比特币最终都将受益。\n\nHougan 称，若人工智能相关市场崩盘，比特币最初可能随之下跌。他预计，随后的政府救助与货币扩张将推动比特币上涨。",
+      "publish_time_ts": 1792072246,
+      "guid": "01db3f361332756cff05be1af19d004b2e68188b2afcbf915fa54919e9e17111"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "特朗普人工智能工作组将于周四召开会议",
+      "url": "https://www.chaincatcher.com/article/2296600",
+      "summary": "ChainCatcher 消息，美国联邦贸易委员会（FTC）发言人表示，特朗普人工智能工作组将于周四召开会议。",
+      "publish_time_ts": 1792071993,
+      "guid": "0abc106073f19d1f3f26153eb3ac8385c25a96acd662114553162e11cc489f5a"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "费城半导体指数七个交易日内市值或蒸发超 2 万亿美元",
+      "url": "https://www.chaincatcher.com/article/2296599",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，费城半导体指数在七个交易日内势将蒸发超过 2 万亿美元市值。",
+      "publish_time_ts": 1792071827,
+      "guid": "8a213929899655b4a4af4a5602eb2fb6e6f846b619c98f4c049086c52da19e4b"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "NeoSoul：将面向 StandX 社区推出专项 DNA 空投，TGE 后公布细则",
+      "url": "https://www.chaincatcher.com/article/2296598",
+      "summary": "ChainCatcher 消息，据官方消息，NeoSoul 表示理解加密行业创业的不易，并向 StandX 团队及社区表达支持。\n\nNeoSoul 将设立专项 DNA 空投额度，回馈长期参与 StandX 建设的社区贡献者，具体资格规则及领取入口将在 DNA TGE 后公布。同时，NeoSoul 表示愿与 StandX 团队沟通，共同探讨社区支持方案。",
+      "publish_time_ts": 1792071762,
+      "guid": "fc413b2da26c77b60114012e3d9667436e7583bb8c0b2cc2027930921277edf3"
+    },
+    {
+      "source_name": "PANews",
+      "title": "AI「挑战」密码学？Web3 必须未雨绸缪，但绝不能仓促迁移",
+      "url": "https://www.panewslab.com/zh/articles/01a13edb-3b1f-7366-bf7d-8fe6dc82b2af",
+      "summary": "密码学的长期安全假设正在受到重新审视，但提前准备与仓促迁移，从来不是一回事。",
+      "publish_time_ts": 1792071660,
+      "guid": "458a6704e12a9aeeda543a6e47916bab1b73988abd74709eca875505e09ee320"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：今日美国比特币 ETF 净流出 3209 枚 BTC，以太坊 ETF 净流出 38915 枚 ETH",
+      "url": "https://www.chaincatcher.com/article/2296597",
+      "summary": "ChainCatcher 消息，据 Lookonchain 监测，今日美国比特币 ETF 净流出 3209 枚 BTC，7 日净流出 5250 枚 BTC；以太坊 ETF 净流出 38915 枚 ETH，7 日净流出 133537 枚 ETH。",
+      "publish_time_ts": 1792071637,
+      "guid": "0f7189ff8a2a8eb38eb826be857c4e8e016696c86fa0b3a5509b339c1faa5cca"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "突发，Anthropic 联创改口：RSI 提前到 2027，人类只剩 6 个月",
+      "url": "https://www.chaincatcher.com/article/2296596",
+      "summary": "在不可阻挡的技术洪流面前，旧有的规则将被无情碾碎。",
+      "publish_time_ts": 1792071337,
+      "guid": "21f07294d58084c17d8b256a5d6e789806670ae94eaa01cb39d3fb0a80d950ef"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "纳指跌 1.29%，SK 海力士、闪迪大跌 6%",
+      "url": "https://www.chaincatcher.com/article/2296594",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，美股开盘，道指涨 0.46%，标普 500 指数跌 0.4%，纳指跌 1.29%。芯片板块本周连续四日低开，SK 海力士（SKHY.O）、闪迪（SNDK.O）大跌 6%，美光科技（MU.O）跌 3.9%，西部数据（WDC.O）跌超 5%，英伟达（NVDA.O）跌超 3%。",
+      "publish_time_ts": 1792071226,
+      "guid": "45fd37a1d505c1078d0640c9f5a3491e05f1d56518e7afb25dc89889490e8a44"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "SpaceX 开盘下跌 5%",
+      "url": "https://www.chaincatcher.com/article/2296595",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，SpaceX (SPCX.O) 开盘下跌 5%。",
+      "publish_time_ts": 1792071222,
+      "guid": "a9a6ab005a71225727db710ac47fe4a2f4bcf4a6f9ebe96ed286e0807a775a15"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "道指开盘上涨，纳指和标普 500 下跌",
+      "url": "https://www.chaincatcher.com/article/2296593",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，道琼斯指数 10 月 15 日开盘上涨 296.36 点，涨幅 0.57%，报 51,917.84 点；纳斯达克综合指数开盘下跌 321.68 点，跌幅 1.21%，报 26,371.19 点；标普 500 指数开盘下跌 34.03 点，跌幅 0.44%，报 7,684.91 点。",
+      "publish_time_ts": 1792071167,
+      "guid": "c519b235eedb4d257892469bece7f6d630c3d00638b77b83c5c455b4336b0c5c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Capriole Investments 创始人：量子计算路线图或成比特币上涨催化剂",
+      "url": "https://www.chaincatcher.com/article/2296592",
+      "summary": "ChainCatcher 消息，Capriole Investments 创始人 Charles Edwards 在 Bitcoin Magazine 的访谈中表示，比特币要突破历史新高，需要出现实质性变化，可能的催化剂包括量子计算取得实质进展、美联储政策转向、美国政府直接购入比特币，或新一轮刺激事件。他同时指出，通过 ETF 进入的机构买盘仍在为市场提供强劲支撑。\n\nEdwards 提到，AI ",
+      "publish_time_ts": 1792071129,
+      "guid": "0b8cd13a235377369ddcd6bf87f08c6115870e00a9fe0b124abca57597c8ba28"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "观点：比特币超级周期已开启",
+      "url": "https://www.chaincatcher.com/article/2296590",
+      "summary": "ChainCatcher 消息，据 Bitcoin Magazine 披露，Wellington-Altus Private Wealth 首席市场策略师 James Thorne 在与 Grace Remington、Sean Hagan 的对话中表示，比特币正在进入一个“世代级超级周期”，并称“比特币的下一轮行情将载入史册”。他结合自身对大宗商品超级周期的研究经验，认为当前市场结构的变化使这一",
+      "publish_time_ts": 1792070816,
+      "guid": "36296118d034bea2547740991166d56e91f2642455f5a5d87ab9bca21d0497ff"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "芯片股市值蒸发 1 万亿美元，投资者涌入半导体 ETF",
+      "url": "https://www.chaincatcher.com/article/2296589",
+      "summary": "ChainCatcher 消息，随着芯片股市值蒸发 1 万亿美元，ETF 投资者趁跌势投入数十亿美元。VanEck 半导体 ETF 过去三日吸引超 4.3 亿美元资金流入，Direxion 半导体看涨 3 倍 ETF 本周流入约 38 亿美元，创历史纪录。费城半导体指数六日累计下跌 12%。",
+      "publish_time_ts": 1792070743,
+      "guid": "8bf2719beeb465930e9e18e908d33e287d91c047a5b257a10cf350bcbb363397"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "纽约市审计长呼吁 Anthropic 暂缓 IPO",
+      "url": "https://www.chaincatcher.com/article/2296588",
+      "summary": "ChainCatcher 消息，据彭博社报道，纽约市审计长 Mark Levine 周三致信人工智能公司 Anthropic 首席执行官 Dario Amodei，呼吁公司在充分应对人工智能安全、治理及发展速度相关风险前暂缓 IPO，优先处理该技术带来的风险。Levine 负责监督资产规模超过 3250 亿美元的公共养老金。他认为，特朗普政府与包括 Anthropic 在内的人工智能企业达成的具有",
+      "publish_time_ts": 1792070729,
+      "guid": "355f7744fd53690ddf6d60af28a159c8bd70856526b1b89a9473919a8d8e136f"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Troy Cross：比特币制衡无限印钞，学术界将最后接受比特币",
+      "url": "https://www.chaincatcher.com/article/2296587",
+      "summary": "ChainCatcher 消息，Bitcoin Magazine 发布的一期访谈视频中，哲学家 Troy Cross 就比特币能否真正实现“货币与国家的分离”给出回答。他表示并不预期政府会很快放弃印钞，但认为比特币对无休止的货币增发构成一种制衡，因为人们会选择在比特币中寻求庇护。Cross 认为，学术界将是最后一批理解比特币的群体，排在创新者、金融从业者和记者之后。他提到“Getting Bitc",
+      "publish_time_ts": 1792070571,
+      "guid": "3e9e65ed38740ed342a895e962d2e2bc3b334e508032b777ccedf503adf4353e"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "灰度与 Republic 达成合作，将提供 DeFi 及去中心化 AI 等加密投资产品",
+      "url": "https://www.chaincatcher.com/article/2296586",
+      "summary": "ChainCatcher 消息，灰度宣布与投资平台 Republic 达成合作，将面向符合资格的投资者提供灰度旗下投资产品，包括灰度 DeFi 基金、灰度去中心化 AI 基金及灰度 Data Network Trust。\n\n其中，DeFi 基金涵盖 UNI、AAVE、ONDO、ENA、CRV 和 LDO 等代币；去中心化 AI 基金涵盖 NEAR、TAO、RENDER 和 FIL 等代币；Data",
+      "publish_time_ts": 1792070340,
+      "guid": "324aa50f55ee4bddebdc215506d75d7ba8b5e6a00c5ddf83ee04b86780802a13"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "现货白银站上 57 美元/盎司，日内涨 2.47%",
+      "url": "https://www.chaincatcher.com/article/2296585",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，现货白银站上 57 美元/盎司，日内涨幅达 2.47%。",
+      "publish_time_ts": 1792070324,
+      "guid": "b63ebb9a97ae88774b690672100aad5266550ad81b4a4016c75076a612ac4b13"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Nillion：即将关闭 L2 网络，请用户将 NIL 和 ETH 转至以太坊主网",
+      "url": "https://www.chaincatcher.com/article/2296584",
+      "summary": "ChainCatcher 消息，Nillion 在 X 平台宣布，其 L2 网络即将停止运行，并提醒持有 NIL 或 ETH 的用户在网络关闭前，尽快将资产转移至以太坊一层网络（L1）。",
+      "publish_time_ts": 1792070258,
+      "guid": "25f41e7edcd53674311e24697d88d200a55390cef05195ad82fba1ad0858d323"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Crypto.com 面向美国用户推出预测市场产品 Predict Pro",
+      "url": "https://www.chaincatcher.com/article/2296583",
+      "summary": "ChainCatcher 消息，Crypto.com Exchange 宣布推出 Predict Pro，一个面向美国用户提供真实世界事件的预测市场交易。\n\n该产品支持实时订单簿、多种订单类型及 2 至 6 项预测组合交易，涵盖体育、选举、加密货币价格等事件。",
+      "publish_time_ts": 1792070194,
+      "guid": "bcea8ed1e1349a363380e332dbcc12dd0c8ff36aba9e1d7fb7ef2b382e909cbe"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Counter-Strike：9z 对阵 Team Falcons - Thunderpick 世界锦标赛 A 组” “地图让分：FAL (-1.5) vs 9z (+1.5)” 胜率飙升 18.5%",
+      "url": "https://www.chaincatcher.com/article/2296582",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Counter-Strike：9z 对阵 Team Falcons - Thunderpick 世界锦标赛 A 组”事件中，子市场“地图让分：FAL (-1.5) vs 9z (+1.5)”的“Team Falcons”选项胜率发生剧烈波动，由 1 小时前的 63% 飙升至当前的 81.5%（波动幅度达 18.5%）。请",
+      "publish_time_ts": 1792070114,
+      "guid": "2c0503d22d18b8ddae3b76bcdf1963a6b56c959b1d23d66b5f56235f6f597eff"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Stripe 与 Plasma 达成合作，推出多币种稳定币卡以降低跨境换汇成本",
+      "url": "https://www.chaincatcher.com/article/2296581",
+      "summary": "ChainCatcher 消息，Stripe 宣布与 Plasma 合作开发多币种稳定币卡，旨在让个人及企业使用账户中已持有的币种消费，减少不必要的货币转换及外汇成本。Plasma 将作为设计合作伙伴，接入 Stripe 稳定币卡基础设施，使客户账户余额可通过多币种卡用于支付。\n\n扩展后的基础设施将支持美元、巴西雷亚尔、欧元、墨西哥比索及哥伦比亚比索；稳定币包括 USDC、OUSD 及符合 GEN",
+      "publish_time_ts": 1792070101,
+      "guid": "3ddbebe84c6e50e0461569eb1bcd5f24bcbe7257846670e28f20015e267c9df9"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "通胀全面超预期，美国 9 月 PPI 同比上涨 6.3%，创四年来最高纪录，核心涨幅扩大至 5%",
+      "url": "https://www.chaincatcher.com/article/2296580",
+      "summary": "美国 9 月 PPI 全面超预期，同比上涨 6.3%，创 2022 年 12 月以来新高，环比涨幅达 1.3%，能源价格飙升是主要推手，单月飙升逾 10%。继 CPI 超预期后，生产端通胀压力进一步扩散，叠加制造业景气度强劲，美联储未来数月继续加息的预期升温，市场承压。",
+      "publish_time_ts": 1792070016,
+      "guid": "94474686f6641760f4580b2ef22862bef3748a1dd6c4e4a6e8a87caf13122985"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Bitfinex：比特币巨鲸自 8 月下旬增持约 6 万枚 BTC，若持有 8 万美元上方的价位将获得支撑。",
+      "url": "https://www.chaincatcher.com/article/2296579",
+      "summary": "ChainCatcher 消息，加密交易平台 Bitfinex 发文称，比特币巨鲸增持的约 6 万枚 BTC 中，大部分是自 8 月下旬以来买入的，买入时价格大约在 8 万至 8.6 万美元之间。Bitfinex 称，上述价格区间与比特币当前价格大致相当。该平台还表示，若这些巨鲸在本轮回调中继续持有上述比特币，8 万美元出头的价位将获得支撑。",
+      "publish_time_ts": 1792069842,
+      "guid": "6215c28c97f11b2b311829589ea425cb2860132ccd397bf1b423d8987f55e198"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "当几十个 AI 都说自己会赚钱，NeoSoul 想先给它们发一张成绩单",
+      "url": "https://www.chaincatcher.com/article/2296578",
+      "summary": "AI Agent 会越来越能干，能证明它靠谱的东西就越来越值钱。",
+      "publish_time_ts": 1792069697,
+      "guid": "bb99087dfa8727655f969e78e8826333211df40a52c01487532e8fba3cf36059"
     },
     {
       "source_name": "Odaily",
-      "title": "对话Ansem：这轮回调仍可逢低加仓，STRK 、PUMP、HYPE和GRASS等仍被低估",
-      "url": "https://www.odaily.news/zh-CN/post/5213408",
-      "summary": "整理 &amp; 编译：深潮 TechFlow嘉宾： Ansem（知名加密交易员、BullpenFi 与 Marke",
-      "publish_time_ts": 1792062000,
-      "guid": "54e96ed0feecbe1fc0e5a5d29ff0b93c5af67303aef7eed4e678b5327556a233"
+      "title": "23.7万用户也救不了StandX，Perp DEX进入淘汰赛",
+      "url": "https://www.odaily.news/zh-CN/post/5213409",
+      "summary": "原创 | Odaily 星球日报（@OdailyChina）作者｜Golem（<a href=\"https://x.com/web3_golem",
+      "publish_time_ts": 1792069603,
+      "guid": "0e36e1d27c7a433de28c00c6628b9379feca880a8e5087f781676ca754937d72"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "Lido 将直接 ETH 质押扩展至四条 Layer 2",
-      "url": "https://www.chaincatcher.com/article/2296538",
-      "summary": "ChainCatcher 消息，Lido 宣布将 Arbitrum、Base、Linea 与 Optimism 四条 Layer 2 的直接 ETH 质押功能接入其官方质押界面，该功能于 10 月 15 日公布。该流程由 Chainlink 的跨链互操作协议 CCIP 提供支持，用户无需手动将 ETH 跨链至以太坊再跨回，即可在起始网络上直接获得 wstETH。Lido 表示，用户的 ETH 会在",
-      "publish_time_ts": 1792061816,
-      "guid": "11f5ab2c86e335ea5692cc03390b046e9146d0b71f38369f672720dbfe194559"
+      "title": "马斯克：或许应创办一家公司与亚马逊竞争",
+      "url": "https://www.chaincatcher.com/article/2296577",
+      "summary": "ChainCatcher 消息，马斯克于 10 月 15 日在 X 上回应一则帖文。该帖称亚马逊正在阻止 Grok 机器人下单，并建议马斯克推出 X Shop。马斯克表示，也许应该创办一家与亚马逊竞争的公司。",
+      "publish_time_ts": 1792069559,
+      "guid": "4628f2ee5aad6f57495ebd869b73f51e75262a90f8752d51776688a9d20b5b05"
     },
     {
       "source_name": "ChainCatcher",
-      "title": "数据：PUMP 24 小时跌超 16%，某巨鲸一笔抛售 12.64 亿枚代币",
-      "url": "https://www.chaincatcher.com/article/2296537",
-      "summary": "ChainCatcher 消息，据 EmberCN 监测，PUMP 过去 24 小时下跌 16%，一名地址可能成为下跌的推手。该地址约 7 小时前在链上一次性卖出 12.64 亿枚 PUMP，换得 548.3 万 USDC，成交均价约为 0.0043 美元。由于一次性大额卖出，该笔交易产生约 5% 的滑点损失。余烬估算，若将订单拆分为多笔交易执行，理论上可套现约 578 万美元；此次直接卖出仅获得",
-      "publish_time_ts": 1792061702,
-      "guid": "736570e8c2ddc1562d069e750e41871ea69cddd2e6dac19ef10764c121ff4699"
+      "title": "Helius CEO Mert Mumtaz 加入 NEAR 基金会理事会",
+      "url": "https://www.chaincatcher.com/article/2296575",
+      "summary": "ChainCatcher 消息，据 The Block 报道，Solana 基础设施公司 Helius 的 CEO Mert Mumtaz 正式加入 NEAR 基金会理事会，将协助指导产品战略、生态系统增长及治理。理事会现有成员包括 NEAR 联合创始人 Illia Polosukhin、加密托管公司 Anchorage Digital 联合创始人 Diogo Mónica 等。Mumtaz 此前",
+      "publish_time_ts": 1792069453,
+      "guid": "d97e0a0e4162c46919a1971aa33af4e98979082ed0c8b54a47da25b2ecd7b91b"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美国长端国债收益率下行，20 年期日内跌 14.6 个基点",
+      "url": "https://www.chaincatcher.com/article/2296574",
+      "summary": "ChainCatcher 消息，美国国债收益率集体下行，长端收益率跌幅居前。行情数据显示，美国 20 年期国债收益率报 5.434%，日内下跌 14.6 个基点；30 年期国债收益率报 5.385%，日内下跌 14.1 个基点；10 年期国债收益率报 5.054%，日内下跌 13.6 个基点。美国 7 年期国债收益率日内下跌 13.5 个基点，5 年期国债收益率下跌 11.5 个基点。",
+      "publish_time_ts": 1792069339,
+      "guid": "deec5e30abb29d421ca20db40fbe3323575c8b4932684d81d6943faf7e0b0f1f"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "a16z：从按时收费到按结果分成，一场价值千亿美元的接力赛",
+      "url": "https://www.chaincatcher.com/article/2296573",
+      "summary": "长期运行智能体正在跨越漫长的客户旅程，把 AI 可寻址的市场从劳动力成本预算扩展到业务增量收入的分成。",
+      "publish_time_ts": 1792069307,
+      "guid": "2fa25fee9b4f35f8131d46e4fcf14f2c40784c7eb465962c0e4aef4dc4f3d322"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：Hyperliquid 平台鲸鱼当前持仓 79 亿美元，多空持仓比为 0.88",
+      "url": "https://www.chaincatcher.com/article/2296572",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据，Hyperliquid 平台鲸鱼当前持仓 79 亿美元，多单持仓 36.94 亿美元，持仓占比 46.76%，空单持仓 42.06 亿美元，持仓占比 53.24%。多单盈亏 8,635.7 万美元，空单盈亏 -3,100.59 万美元。其中，巨鲸地址 0x5b5d..60 在 2322.64 美元价格 5 倍全仓做空 ETH，目前未实现",
+      "publish_time_ts": 1792069241,
+      "guid": "a9f6ec78d4b6cb47d4fb154b1eea44619a825b740d17cdbbd64a5b5af423e937"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Dota 2：Power Rangers 对阵 Kalmychata - DreamLeague 东欧封闭预选赛季后赛” “白天结束” 胜率飙升 41%",
+      "url": "https://www.chaincatcher.com/article/2296571",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Dota 2：Power Rangers 对阵 Kalmychata - DreamLeague 东欧封闭预选赛季后赛”事件中，子市场“白天结束”的“是”选项胜率发生剧烈波动，由 1 小时前的 50% 飙升至当前的 91%（波动幅度达 41%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792069219,
+      "guid": "58adeec13573025e42a465a9ad07a374e890d98a1ccb8f3094ed79da6adae9e3"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "交易员 Killa：若执着低 7% 买入，或错过比特币上涨 56%",
+      "url": "https://www.chaincatcher.com/article/2296570",
+      "summary": "ChainCatcher 消息，交易员 Killa 发文称，比特币距离 7.5 万美元还有约 7% 的下跌空间，距离 12.6 万美元则有约 56% 的上涨空间。市场可能回测 7.5 万美元，也可能不会，没有人能百分之百确定。他提醒投资者不要为等待更低买入价而错过潜在上涨，并称此前比特币在 6 万美元时，许多投资者因等待 5 万美元而错过后续整段涨势。市场未必会给出理想买入价，即使达到目标，投资者",
+      "publish_time_ts": 1792068494,
+      "guid": "3c6812a42850b6fbdd21249a663764a8cc383d105cb3393de299d69e1bcefd32"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "亚洲科技股崩盘正演变成全面恐慌",
+      "url": "https://www.chaincatcher.com/article/2296569",
+      "summary": "亚洲科技股抛售持续升级，韩国综指单日暴跌 7.6%，超卖程度创 2022 年 10 月以来新高，波动率急剧飙升。韩国与美国费城半导体指数的表现背离扩大，中国台股也开始松动。随着 AI 资本支出前景遭质疑、相关多头仓位高度拥挤，市场担忧恐慌将从韩国蔓延至整个亚洲半导体板块，台股补跌与美股半导体下行风险同步上升。",
+      "publish_time_ts": 1792068440,
+      "guid": "5948efdad05f7fed3a81bb7498665273e52a9d2df060a336305990ee6f178f09"
+    },
+    {
+      "source_name": "PANews",
+      "title": "链上“裸奔”时代终结：为什么隐私币救不了你的交易策略？",
+      "url": "https://www.panewslab.com/zh/articles/01a13e20-4f11-72e9-b4f9-9b8851500a70",
+      "summary": "仅藏资产不够，交易意图也要保密。",
+      "publish_time_ts": 1792068360,
+      "guid": "66376400c0bc2d1d6279d671e260c4c37bcd06d0a9e9cb72332b044a6e7bcfd5"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "通胀压力持续升温，美国 9 月 PPI 数据大幅走高",
+      "url": "https://www.chaincatcher.com/article/2296568",
+      "summary": "ChainCatcher 消息，受能源成本上涨影响，美国 9 月生产者价格指数全面超预期，表明能源价格上涨的影响正传导至美国经济各领域。美国劳工统计局周四公布的数据显示，9 月生产者价格指数环比上涨 1.3%，同比上涨 6.3%。\n\n剔除食品和能源后，核心 PPI 环比上涨 0.7%，同比上涨 5%。报告显示，在燃油价格上涨的同时，美国潜在通胀压力依然顽固。距离 11 月中期选举仅剩数周，生活成本",
+      "publish_time_ts": 1792068088,
+      "guid": "d3b8ed13384aca4189b6805d15bde844ab0cfa4b1bb6e6ba4935cc12643f2a91"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "澳元兑美元跌破 0.69，日内跌超 1%",
+      "url": "https://www.chaincatcher.com/article/2296567",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，澳元兑美元 AUD/USD 跌破 0.69，日内跌幅超过 1%。",
+      "publish_time_ts": 1792067985,
+      "guid": "30c55246d9818e38986b38522097a493fca2900fcb2b157ac948dc5cbefd1793"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Ledger 推出 AI 代理授权工具 Agent Intent，用户审核操作并保留私钥控制权",
+      "url": "https://www.chaincatcher.com/article/2296566",
+      "summary": "ChainCatcher 消息，加密硬件钱包制造商 Ledger 宣布推出 Ledger Agent Intent，即日起向所有兼容 Ledger 的签名设备免费开放。AI 代理可监测市场并提出投资组合优化建议，用户可在 Ledger 设备上审核并批准相关操作，私钥仍由用户掌控。\n\nAgent Intent 将直接集成 OpenClaw，用户可在 Ledger Atom 设备上注册 OpenCla",
+      "publish_time_ts": 1792067929,
+      "guid": "91683e285b9e2262a408ac9dacd9b1955440be112eb2a2adbc0181d200458ba0"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Jupiter 推出未经审计的 YOLO 测试版，最高支持 1000 倍杠杆",
+      "url": "https://www.chaincatcher.com/article/2296565",
+      "summary": "ChainCatcher 消息，据 The Defiant 报道，Jupiter 推出名为 YOLO 的测试版交易产品，最高支持 1000 倍杠杆，该产品目前尚未经过审计。\n\n根据官方说明，用户在该产品中与平台资金池（house）作为对手方进行交易。当资金池资金不足时，用户的盈利将被排队处理，且没有保证的支付时间。",
+      "publish_time_ts": 1792067901,
+      "guid": "2d07a99b8ecef3f326927a08bd8160dafdf3735c88e7663293e6b891e87655b8"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美国 9 月 PPI 年率录得 6.3%，高于市场预期",
+      "url": "https://www.chaincatcher.com/article/2296564",
+      "summary": "ChainCatcher 消息，美国 9 月 PPI 年率录得 6.3%，为 2026 年 5 月以来新高，高于市场预期的 5.3%。\n\n美国 9 月 PPI 月率录得 1.3%，大幅高于市场预期的 0.5%。美国 9 月零售销售月率录得 0.8%，高于市场预期。",
+      "publish_time_ts": 1792067582,
+      "guid": "3bf0ffdf9e5f3be1dd7db53c4ac8419e3ceb986f3a792326ba9463fa8b159549"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美国至 10 月 10 日当周初请失业金人数 19.9 万人，预期 20 万人",
+      "url": "https://www.chaincatcher.com/article/2296563",
+      "summary": "ChainCatcher 消息，美国至 10 月 10 日当周初请失业金人数 19.9 万人，预期 20 万人，前值由 19.7 万人修正为 19.8 万人。",
+      "publish_time_ts": 1792067509,
+      "guid": "c2aee08a012665ba102df93434c53ede978aed3560002de7bd80180db9c57e94"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美国 9 月零售销售月率超预期增长 0.8%",
+      "url": "https://www.chaincatcher.com/article/2296562",
+      "summary": "ChainCatcher 消息，美国 9 月零售销售月率增长 0.8%，高于预期的 0.3%。前值由 1.2% 修正为 1.1%。",
+      "publish_time_ts": 1792067498,
+      "guid": "c3e4c5bef45aa631bb8b202ae0da658d5e389ed8d5f83f582f4eedbb2dc9a76a"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：某地址持有比特币逾 5 年后一次性转出 4581.94 枚 BTC，约合 3.77 亿美元",
+      "url": "https://www.chaincatcher.com/article/2296561",
+      "summary": "ChainCatcher 消息，据 Bitcoin News 监测，某地址自 2020 年 3 月 3 日起持有 4581.94 枚比特币，并于 10 月 12 日通过一笔交易全部转出。这些比特币转入时价格约为 8,830 美元，价值约 4,050 万美元；此次转移时价格约为 82,350 美元，对应价值约 3.77 亿美元。\n\n4 个新地址分别接收 1,000 枚比特币，第 5 个地址接收 58",
+      "publish_time_ts": 1792067391,
+      "guid": "ab2cca1258196ed23806c2c50ba7944df247e2d919e3b9015c5b8dc21f3f36d6"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Ripple Prime 面向机构客户推出传统资产永续合约交易服务",
+      "url": "https://www.chaincatcher.com/article/2296559",
+      "summary": "ChainCatcher 消息，据彭博社报道，Ripple 旗下主经纪商部门 Ripple Prime 正面向机构客户推出现实世界资产（RWA）永续合约，覆盖股票、指数、ETF、大宗商品等 100 多个参考市场。该产品通过 Hyperliquid 上的 Trade.xyz 提供，延续了 Ripple Prime 此前向客户开放加密永续合约交易的布局。\n\n这一安排支持跨仓位共享保证金。Ripple ",
+      "publish_time_ts": 1792067176,
+      "guid": "9190cb95bf4de76d7169c8d274adb048f7afa35197877801605cd0211e326c2d"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：三钱包联合抛售 29 亿枚 PUMP，约合 1258 万美元",
+      "url": "https://www.chaincatcher.com/article/2296558",
+      "summary": "ChainCatcher 消息，据 Lookonchain 监测，约 9 小时前，3 个钱包地址联合以 $0.00434 的均价抛售 29 亿枚 $PUMP，共换得 1258 万 $USDC。",
+      "publish_time_ts": 1792067064,
+      "guid": "ad4f003577daa35aecba4d6ba6f0b155a13063c28ec107c773ae5918a6fb3ec9"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Tether Capital 战略投资 AI 代理服务公司 AIsa",
+      "url": "https://www.chaincatcher.com/article/2296556",
+      "summary": "ChainCatcher 消息，据官方消息，Tether 旗下独立投资部门 Tether Capital 宣布战略投资 AIsa。AIsa 是一个为 AI 代理提供访问并支付数据、软件和计算服务的平台，开发者可通过单一接口连接 AI 模型、数据、API、软件工具及计算资源，费用支持法币或稳定币结算。\n\nAIsa 表示，其平台已运行超过 25 万个代理，累计处理交易超过 1 亿笔，可通过一个密钥接入",
+      "publish_time_ts": 1792065830,
+      "guid": "68b4b790d3594a8a08419094d15345c1642e5c38a8d631724641b10956bb928c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "中国台湾封锁 Coinbase 及 Kalshi 网站，因其涉嫌违规选举投注",
+      "url": "https://www.chaincatcher.com/article/2296555",
+      "summary": "ChainCatcher 消息，据彭博社报道，中国台湾新北地方法院已授权台湾通信监管机构及互联网注册机构，封锁 Coinbase 和预测市场平台 Kalshi 的境内访问，原因为涉嫌提供选举投注服务。\n\n此次封锁发生在中国台湾地方选举前数周，本次选举将检验总统赖清德政府的民意支持。目前已有部分中国台湾 Coinbase 用户反映自周三起无法正常访问该平台。",
+      "publish_time_ts": 1792065508,
+      "guid": "5fc2336117e5879d989b06fd89ff70e7563cf62ba8eb3722e000bf6ed45eeb41"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "TOKEN2049 SINGAPORE 2026 大会综述与行业趋势",
+      "url": "https://www.chaincatcher.com/article/2296554",
+      "summary": "Crypto 正在从数字资产创新走向金融市场基础设施的重构，行业的资本主场也在同步向机构迁移。",
+      "publish_time_ts": 1792065343,
+      "guid": "5d01ac71fc9a755d19f456cdf92dd47f12e3ce6ce4a97b5c4632ae5fdd985ac3"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Ledger：某犯罪团伙数月植入恶意硬件窃取助记词，东南亚及香港经销渠道暂停销售",
+      "url": "https://www.chaincatcher.com/article/2296553",
+      "summary": "ChainCatcher 消息，Ledger 公布硬件钱包植入攻击事件的调查进展。据其披露，一个有组织的犯罪团伙花费数月时间购入正品 Ledger 设备，拆机后植入专门用于窃取助记词的定制硬件，再借助东南亚经销渠道重新投放市场。\n\n该团伙还搭建起助记词收集、资产盗取及洗钱等配套体系，Ledger 称其投入规模达数百万美元。Ledger 强调，此次事件属于局部经销渠道攻击，其芯片、操作系统及服务器并",
+      "publish_time_ts": 1792065169,
+      "guid": "a375514b43ebbeffa046ae622f5827ae19d613ee50418127816eaea7535d93d5"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "黑石集团加码 AI，2,000 亿美元投资数据中心",
+      "url": "https://www.chaincatcher.com/article/2296552",
+      "summary": "ChainCatcher 消息，黑石集团已建立 2,000 亿美元的数据中心投资组合，并与谷歌合作云计算业务。黑石还投资 OpenAI 等 AI 实验室，以博通和英伟达芯片为抵押提供贷款，并向发电厂和数据中心冷却设备投入资金。总裁格雷称，AI 投资是黑石最重要的项目。",
+      "publish_time_ts": 1792065165,
+      "guid": "993c611192c6a717d3fdd0e84fa24b85666c060827dc23cb1f329763a337343b"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "NeoSoul 代币 DNA 将于 10 月 16 日上线 Binance Alpha、OKX 永续合约",
+      "url": "https://www.chaincatcher.com/article/2296550",
+      "summary": "ChainCatcher 消息，AI Agent 项目 NeoSoul 代币 DNA 将于 10 月 16 日上线 Binance Alpha、OKX 永续合约，以及 Bitget、Gate、MEXC 和 KuCoin 等交易所，DNA 空投查询现已开放。\n\n此外，据币安钱包消息，币安 Alpha 将成为首个上线 DNA 的平台，符合条件的用户可使用币安 Alpha 积分领取 DNA 空投。",
+      "publish_time_ts": 1792065025,
+      "guid": "3e8538b83fbdd2b12664477b36f6ebec17a147e02c1fb154755df0c24d4cafc6"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "分析师：比特币或回调下探至 74,600 美元，中期趋势仍偏多",
+      "url": "https://www.chaincatcher.com/article/2296549",
+      "summary": "ChainCatcher 消息，加密分析师 Darkfost 发文表示，比特币技术面判断未出现实质变化，第Ⅰ浪中的第（5）子浪已在预期位置结束，接下来或迎来第Ⅱ浪调整。该调整浪可能下探至 74,600 美元，对应通常的 0.382 斐波那契回撤位。\n\n目前，比特币已跌破 21 周期 EMA，正处于 50 周期 EMA 支撑位，后者被其视为较强支撑；200 周期 EMA 则位于约 75,800 美元",
+      "publish_time_ts": 1792064401,
+      "guid": "493471eabd58e643b437aba543feca3903cf7367a717a801c9db873e3cbc0c55"
+    },
+    {
+      "source_name": "PANews",
+      "title": "徐明星炮轰 CZ：“1011 暴跌”的账算清了吗？",
+      "url": "https://www.panewslab.com/zh/articles/01a13d6e-2369-7647-a195-32f437d1cc88",
+      "summary": "2025 年 10 月 11 日加密市场出现史上最大规模杠杆清算，币安拿出约 8 亿美元补偿用户。一年后，币安与 OKX 围绕事件责任、赔偿性质爆发舆论战，事件因果、损失认定仍存争议。",
+      "publish_time_ts": 1792064340,
+      "guid": "8022c075627e09dbcb86a707a04ab506e1a5b213b06232c809142ca8dab76361"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Counter-Strike：MIBR 对 BC.Game Esports” “比赛胜者” 胜率暴跌 19.5%",
+      "url": "https://www.chaincatcher.com/article/2296548",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Counter-Strike：MIBR 对 BC.Game Esports”事件中，子市场“比赛胜者”的“MIBR”选项胜率发生剧烈波动，由 1 小时前的 55% 暴跌至当前的 35.5%（波动幅度达 19.5%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792063811,
+      "guid": "941346e3e2bf7f3073dd5d83df306eebe8ecedd925319e664ee7fffe79b1f319"
+    },
+    {
+      "source_name": "Odaily",
+      "title": "AI「挑战」密码学？Web3 必须未雨绸缪，但绝不能仓促迁移",
+      "url": "https://www.odaily.news/zh-CN/post/5213411",
+      "summary": "这几天，关于「AI 可能攻破密码学」的讨论，着实在 Crypto 社区掀起了一波恐慌。事情起源于 10 月 7 日，Justin Drake 在 X 上呼吁整个区块链行业冷静地开始规划「Bunker Mode」（堡垒模式），以应对未来可能出现的密码学风险。他的核心担忧是，随着 AI 在数学研究上的能力不断进步，广泛应用于比特币、以太坊等网络的椭圆曲线密码学，可能在",
+      "publish_time_ts": 1792063800,
+      "guid": "a1bacaafec0341b38d389e5b56b10d9aa2fd10ff5cb1016b66a88932acbaabdf"
     },
     {
       "source_name": "ChainCatcher",
@@ -98,438 +810,6 @@
       "guid": "f5ed8ad07530105f652b0a79cc2a00e5f6c675aeef93ddd0220d7b0251543492"
     },
     {
-      "source_name": "ChainCatcher",
-      "title": "数据：Circle 在 Solana 网络上新增铸造约 7.5 亿枚 USDC",
-      "url": "https://www.chaincatcher.com/article/2296535",
-      "summary": "ChainCatcher 消息，据链上数据平台 SolanaFloor 监测，Circle 在过去 24 小时内于 Solana 网络上新增铸造约 7.5 亿枚 USDC。",
-      "publish_time_ts": 1792061563,
-      "guid": "64488a5e0d0fe8e0dc965ca4331d1d2b590860272fb668102f61b8d4d1b39c35"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "韩国“币王”Jonbur Kim诈骗指控被判无罪，涉案金额约 2.53 亿美元",
-      "url": "https://www.chaincatcher.com/article/2296534",
-      "summary": "ChainCatcher 消息，据 The Block 援引韩国媒体 Digital Asset 报道，韩国加密货币网红“币王”Jonbur Kim（本姓 Park）被首尔南部地方法院裁定诈骗罪名不成立。该案涉及约 3400 亿韩元（约 2.53 亿美元）的加密货币诈骗指控。法院于周四表示，检方主张缺乏足够证据证明相关犯罪成立。Jonbur Kim 此前被指参与欺诈性发行、上币、虚假披露及价格操纵",
-      "publish_time_ts": 1792061380,
-      "guid": "b5d0529532f59579316dfd08e2689de01949643a93177e3d00904ebfd61e16ea"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "小摩警告 AI 股难复制 7 月反弹，杠杆风险上升",
-      "url": "https://www.chaincatcher.com/article/2296533",
-      "summary": "ChainCatcher 消息，摩根大通策略师尼古拉斯·帕尼吉尔佐格鲁指出，10 月 AI 股票抛售潮可能难以复制 7 月快速反弹。与此前相比，当前市场逢低买入意愿减弱，空头仓位不足以提供潜在回补买盘，企业回购资金也在减少，同时 ETF 中的杠杆敞口重新累积，可能进一步放大市场波动。摩根大通认为，从投资者仓位和资金流向看，AI 基础设施股票似乎尚未进入超卖状态。本轮抛售已从韩国存储芯片股扩散至美国",
-      "publish_time_ts": 1792061004,
-      "guid": "d62cb9173b53759481f5f85f616958e5f4317a08fc9d12681aeff7167137cc5f"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "BVNK 推出全球货币平台，将稳定币接入 Mastercard 支付网络",
-      "url": "https://www.chaincatcher.com/article/2296532",
-      "summary": "ChainCatcher 消息，BVNK 宣布推出全球货币平台，将稳定币与 Mastercard 的支付网络相连接，使稳定币能够借助 Mastercard 的卡组织通道完成资金流转。该平台的首批计划集成方包括支付服务商 Nuvei 和 Marqeta。BVNK 表示，平台的本地出金覆盖范围预计将在 2027 年进一步扩展。",
-      "publish_time_ts": 1792060726,
-      "guid": "04718321f7fa933ace699accd8a42537adc579ae256aee2f70965f88a55be2b1"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：2026 年 Q3 加密黑客攻击损失 11.8 亿美元，77% 与开发者工具被入侵有关",
-      "url": "https://www.chaincatcher.com/article/2296531",
-      "summary": "ChainCatcher 消息，据 Cointelegraph 报道，安全公司 Hacken 披露 2026 年第三季度共发生 107 起加密黑客攻击，损失总额 11.8 亿美元。其中约 9.06 亿美元（约 77%）与供应商及开发者工具被入侵、已披露未部署的修复方案、审计范围外基础设施有关。损失主要集中于四起事件：Bitget 损失 3.87 亿美元、Liquid Network 损失 3.2 ",
-      "publish_time_ts": 1792060319,
-      "guid": "3e155220e19646665ae941c4e8fb7d1803906a33a768e3490ceabb54c86faba6"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：若 ETH 突破 2,480 美元，主流 CEX 累计空单清算强度将达 16.22 亿美元",
-      "url": "https://www.chaincatcher.com/article/2296530",
-      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，若 ETH 突破 2,480 美元，主流 CEX 累计空单清算强度将达 16.22 亿美元。反之，若 ETH 跌破 2,245 美元，主流 CEX 累计多单清算强度将达 5.8 亿美元。",
-      "publish_time_ts": 1792060228,
-      "guid": "e4ca757b398c0e006bffad5bbf8099d9a4355346c23a78793dfca7fc1bc0e889"
-    },
-    {
-      "source_name": "Odaily",
-      "title": "Anthropic的11月：季度收入168亿美元，最早11月9日当周启动发行",
-      "url": "https://www.odaily.news/zh-CN/post/5213410",
-      "summary": "昨夜旧金山那场闭门会议，目的写得很明白：为下个月的 IPO 争取支持。Anthropic 把潜在公开市场投资者请进总部，用一整天讲安全理念、增长轨迹与效率改善。在 AI 股票刚刚大跌、信用市场警报频响的这一周，这场说明会递交的不只是一份收入数据，更是一次对 AI 商业化故事的公开检验。<img height=\"324\" src=\"https://oss.odaily.top/i",
-      "publish_time_ts": 1792059985,
-      "guid": "c0321b6c2f628b705fc255c5556c6026b1ea61d0b036fd1bd5473b17194e372b"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：XRP 巨鲸近 30 日向 Binance 存入 16.69 亿枚代币，创 7 个月新高",
-      "url": "https://www.chaincatcher.com/article/2296528",
-      "summary": "ChainCatcher 消息，据 Cryptoquant 数据，XRP 巨鲸近 30 日流入 Binance 的累计数量升至 16.69 亿枚，创 7 个月新高，超过 9 月约 16.5 亿枚的水平，显示大额持有者近期向交易平台转移 XRP 的活动再度升温。巨鲸流入增加可能提高交易平台上的 XRP 可交易供应量，若大户选择抛售，或加大市场卖压。不过，资金流入并不必然意味着即将卖出，也可能涉及钱包",
-      "publish_time_ts": 1792059784,
-      "guid": "9933c49ef46151ccfee1257dff1a533d32a649c7b43c3ba316e3411f06d32331"
-    },
-    {
-      "source_name": "PANews",
-      "title": "ICO、VC币与Alpha模式：为什么它们都救不了现在的币圈？",
-      "url": "https://www.panewslab.com/zh/articles/01a13ee6-47f3-70c3-8789-9b48640ac0ea",
-      "summary": "链上ICO能否取代VC币？本文深度剖析ICO、VC币、Alpha及链上发行模式的失败根源，提出以实名DID、同价解锁、链上透明为核心的绝对公平新方案，为区块链早期融资回归价值正轨提供新思路。",
-      "publish_time_ts": 1792059720,
-      "guid": "1ed4af849b90f334e4569042e07d927b4b43f50c1faed10a0a936d16f304150c"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "爱尔兰警方社交媒体账户遭黑客入侵：被用于推广加密货币",
-      "url": "https://www.chaincatcher.com/article/2296527",
-      "summary": "ChainCatcher 消息，据 BBC 报道，爱尔兰警察（An Garda Síochána）旗下多个 X 平台账户遭黑客入侵，包括拥有 60 万粉丝的 @GardaTraffic 及近 30 万粉丝的 @GardaInfo。黑客移除了账户原有品牌信息，并发布加密货币推广内容，同时将账户地理位置篡改为阿姆斯特丹。部分帖子被平台标记为与已被封禁账户相关联。目前爱尔兰警方已被联系置评，事件调查仍在",
-      "publish_time_ts": 1792059646,
-      "guid": "4d3a27ebf916c4b404a75b9fb5184de0fd5e25cefbbe54327ca5167d7013d5f2"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "白雪：美联储 12 月或再加息 25 个基点",
-      "url": "https://www.chaincatcher.com/article/2296526",
-      "summary": "ChainCatcher 消息，东方金诚研究副总监白雪表示，美国 9 月通胀明显反弹，CPI 同比上涨 3.7%，核心 CPI 同比上涨 2.6%。通胀反弹强化了美联储年内继续加息的必要性，预计 10 月按兵不动，12 月再加息 25 个基点的概率上升。",
-      "publish_time_ts": 1792059348,
-      "guid": "fdb29232f0a118f76ba4e7be9c9d67356e6324599573728c10867cf2e665b8a7"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Hyperliquid 地址 0x3ff54f...f705 当前持有 BTC 空单 539.102 枚，名义价值 4,377.08 万美元",
-      "url": "https://www.chaincatcher.com/article/2296525",
-      "summary": "ChainCatcher 消息，据盘口情报平台 Liquid247.xyz 监测，Hyperliquid 地址 0x3ff54f...f705 当前持有 BTC 空单 539.102 枚，名义价值 4,377.08 万美元。 发稿时 BTC 报 81,192 美元。",
-      "publish_time_ts": 1792058758,
-      "guid": "8dc06a80337e4856fe80d74f14fee1a469918edaafc50165c401430702b51469"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "币安上线 Covered Call 与 Cash-Secured Put 策略",
-      "url": "https://www.chaincatcher.com/article/2296524",
-      "summary": "ChainCatcher 消息，币安于 10 月 15 日上线 Covered Call（备兑买权）与 Cash-Secured Put（现金担保卖权）策略。这两种策略允许用户在持有所需抵押品的情况下卖出期权合约，以赚取权利金收益。用户需提供相应抵押品，Covered Call 以股票作押，Cash-Secured Put 以现金作押。",
-      "publish_time_ts": 1792058520,
-      "guid": "74a81d33a20cb0522f7aa9649fef3f747d0f0948f809893f5441cc33e0b297da"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Blockworks：七家加密推理商日均处理约 2110 亿 Token",
-      "url": "https://www.chaincatcher.com/article/2296522",
-      "summary": "ChainCatcher 消息，Blockworks 发布加密推理服务商现状报告称，全球算力投入庞大且需求仍超供给；流动性加密 AI 市值约 249 亿美元，低于 Crusoe 的 309 亿美元，尚无去中心化算力网络披露超过数千万美元量级的可核验收入。报告比较 OpenRouter 上七家加密原生推理商 Venice、Phala、Darkbloom、io.net、AkashML、NEAR AI ",
-      "publish_time_ts": 1792058067,
-      "guid": "34ec92e9b814a4831b99b4275e01c7d49b1acb9aab18e882c19e4e777ce5e369"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "高盛解读：预计2027年下半年才降息，高利率还要持续多久？",
-      "url": "https://www.chaincatcher.com/article/2296521",
-      "summary": "高盛预计12月再加息，但高利率持续时间将决定经济代价",
-      "publish_time_ts": 1792057663,
-      "guid": "c4fc0209dd697898397989ebc772a0a1ca605ef1fd590cd512cf9a7c5a087060"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "DeepSeek API Platform 就服务故障致歉并全额返还赠金",
-      "url": "https://www.chaincatcher.com/article/2296519",
-      "summary": "ChainCatcher 消息，DeepSeek API Platform 发布服务恢复及补偿通知称，北京时间 2026 年 10 月 15 日 8:11 至 13:04 期间，其服务系统出现故障，导致该时段内 API 服务无法正常使用。平台对此致歉，并表示已启动针对服务稳定性的全面排查和整改，梳理并剥离单点依赖，以杜绝同类问题再次发生。作为补偿，平台将按用户账号 7 日内（10 月 8 日至 1",
-      "publish_time_ts": 1792056732,
-      "guid": "a9cc1ff1a77aae7980c17f32dd848df209f604808b87532dd37db01199d86514"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "SpaceX 进军移动通信市场引发电信股暴跌",
-      "url": "https://www.chaincatcher.com/article/2296518",
-      "summary": "ChainCatcher 消息，SpaceX 宣布收购无线频谱，通过星链卫星提供移动通信服务，可能成为主要移动运营商。此举导致威瑞森通信、美国电话电报公司和美国 T-Mobile 股价上周五均出现两位数百分比跌幅。",
-      "publish_time_ts": 1792056714,
-      "guid": "8ce51d50ce327834468115d5c397598d1c14aa904a0c625b00e83cebf9637970"
-    },
-    {
-      "source_name": "PANews",
-      "title": "从市场不打烊到金融无边界，OKX在布局什么？",
-      "url": "https://www.panewslab.com/zh/articles/01a13ed7-d241-701d-ab79-d9a48d767f6f",
-      "summary": "OKX 代币化股票与 TradFi 永续合约日均交易量达 30 亿美元，传统金融与加密市场加速融合。从代币化美股到 AI 交易助手，OKX 正转型为全球金融科技平台，布局 Pre-IPO、期权及链上支付，重塑下一代金融基础设施。",
-      "publish_time_ts": 1792056600,
-      "guid": "12948b3f5dfce89581ad4a55e2ccd7299dfd0eb92d55abe46ed870c195a8399a"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Bitfinex：比特币长期持有者浮盈约 64%，近期买家仅浮盈 9%",
-      "url": "https://www.chaincatcher.com/article/2296517",
-      "summary": "ChainCatcher 消息，Bitfinex 发文表示，比特币长期持有者的平均持仓成本约为 49,300 美元，目前浮盈约 64%；近期买家的平均成本约为 74,400 美元，目前浮盈仅约 9%。Bitfinex 指出，若 BTC 价格进一步下跌，近期买家可能率先面临更大的抛售压力。相比之下，长期持有者拥有更厚的浮盈缓冲空间。",
-      "publish_time_ts": 1792056421,
-      "guid": "feb66c7847a82f9587d07c8de6720b035cc0d5a62b8ee230e667692fb1e6f9b5"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：Vitalik 的链上资产总价值约 5.3 亿美元，其中 5.2781 亿美元为 ETH",
-      "url": "https://www.chaincatcher.com/article/2296516",
-      "summary": "ChainCatcher 消息，据链上情报平台 Arkham 监测，以太坊联合创始人 Vitalik Buterin 的链上资产总价值约 5.3 亿美元，其中 5.2781 亿美元为 ETH，分布于其多个地址（含 vitalik.eth）。\n\n其余资产包括 176 万美元的 Aave LUSD、47.8 万美元的 ZCHF 及 34.6 万美元的 WHITE。",
-      "publish_time_ts": 1792056104,
-      "guid": "e8416ad893d845f1d2a0dd36d4ebb3ad344e6be0e98058df60e29de3fe205304"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "牛津经济研究院：美国 9 月 PPI 预计将上涨 0.6%，柴油价格预计同比暴涨逾 70%",
-      "url": "https://www.chaincatcher.com/article/2296515",
-      "summary": "ChainCatcher 消息，美国9月生产者价格指数（PPI）将于北京时间10月15日20:30公布。牛津经济研究院预计，9月PPI环比将上涨0.6%，高于市场预期的0.5%及8月的0.4%。美国8月柴油价格环比上涨24%、同比上涨77%，美国汽车协会数据显示，柴油零售价9月22日一度升至每加仑6.528美元，创历史新高。截至周三，美国柴油零售价格仍达每加仑6.30美元，较去年同期上涨逾70%。",
-      "publish_time_ts": 1792056099,
-      "guid": "1bbbed7c718afb36c5e6859c77579392bc0ce4a79791ab54084f1a6524decd32"
-    },
-    {
-      "source_name": "Odaily",
-      "title": "美债收益率飙升，美国经济与股市还能撑多久？AI或成最脆弱一环",
-      "url": "https://www.odaily.news/zh-CN/post/5213407",
-      "summary": "原文作者：张雅琦原文来源：华尔街见闻<p class=\"ql-align-j",
-      "publish_time_ts": 1792056006,
-      "guid": "354916114894d36f740274b171fbb849267b7d9889d56687ba41d5ccbef80745"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "新加坡金管局撤销 Sir Money Changer 主要支付机构牌照",
-      "url": "https://www.chaincatcher.com/article/2296514",
-      "summary": "ChainCatcher 消息，新加坡金融管理局（MAS）根据《2019 年支付服务法》撤销货币兑换及跨境汇款机构 Sir Money Changer Pte. Ltd.（SMC）的主要支付机构牌照，自 2026 年 9 月 15 日起生效。自该日起，SMC 不得再提供跨境汇款及货币兑换服务。MAS 的行动源于调查发现，SMC 允许第三方在其营业场所之一以 SMC 名义独立经营跨境汇款业务，并向 ",
-      "publish_time_ts": 1792055872,
-      "guid": "355d74d958b4cf0ef864759f8bff241a800322d589c9cd48c72ec59f800771f1"
-    },
-    {
-      "source_name": "PANews",
-      "title": "PA日报 |DeepSeek中断约五小时后恢复，韩国金融监管机构将召开紧急会议讨论股市",
-      "url": "https://www.panewslab.com/zh/articles/01a13ecb-87ec-7003-a91f-881ef110addd",
-      "summary": "加密货币市场剧烈波动，过去1小时爆仓超4.76亿美元，多头遭踩踏；美国CPI数据显示通胀超预期，美联储10月加息概率升至43.7%；日经225指数重挫4.9%，韩国KOSPI收盘大跌7.56%；Starknet社区发起转型独立抗量子L1意向投票，币安将暂停FIL充提以支持网络升级。",
-      "publish_time_ts": 1792055100,
-      "guid": "bbd3584bd95279e4994f5d4128b059227005186e1612b4bd880cbe18e9eff42e"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Gate 首发上线 NeoSoul（DNA），开启 Launchpool 与 CandyDrop 双重空投 380 万 DNA 奖池",
-      "url": "https://www.chaincatcher.com/article/2296513",
-      "summary": "ChainCatcher 消息，Gate 宣布将于 2026 年 10 月 16 日 19:00（UTC+8）首发上线 AI 概念项目 NeoSoul（DNA）现货及闪兑交易。NeoSoul 致力于构建面向 AI Agent 经济的操作系统，其核心产品 NeoTrade 是面向交易 Agent 的通用型执行层。为庆祝上线，Gate 联合项目方推出两大福利活动，累计将向全球用户空投 3,800,00",
-      "publish_time_ts": 1792054958,
-      "guid": "9e04299f3fb07a842c7fc8e88bdd4853999c40a4c099e42043261f0178f7a3e9"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "沙迦警方捣毁四个加密犯罪团伙，33 人及企业涉案",
-      "url": "https://www.chaincatcher.com/article/2296511",
-      "summary": "ChainCatcher 消息，据《海湾时报》报道，沙迦警方捣毁四个相互关联的跨境犯罪团伙，涉及 33 名涉案个人及企业。四个团伙分别涉嫌网络攻击与数据窃取、利用虚拟资产洗钱、通过社会工程攻击盗取数字钱包，以及暴力胁迫受害者交出钱包密码。警方在审查数百份数字证据后锁定嫌疑人并展开突袭。",
-      "publish_time_ts": 1792054872,
-      "guid": "b10a8f6667cd8143e2f26dfccea68f604f691bb9720f90b46dc173e032ef7e61"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "「麻吉」仅剩 320 枚 ETH 多单，现浮盈 6500 美元",
-      "url": "https://www.chaincatcher.com/article/2296510",
-      "summary": "ChainCatcher 消息，今日「麻吉大哥」黄立成地址遭到彻底清算后，目前仅剩余 25 倍杠杆的 320 枚 ETH 多单，当前浮盈 6500 美元，开仓价 2,355.52 美元，爆仓价 2,334.84 美元。\n\n过去 4 个月时间里，他靠交易将 5.6 万美元做到 1,225 万美元，今日爆仓后地址一度仅剩余 2.18 万美元，目前地址最新余额为 4.2 万美元。",
-      "publish_time_ts": 1792054573,
-      "guid": "666902566e1b3035bff67ea391d112ec5d0946e23d2723ace3121105b4e9a4c1"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "OpenCode 限时免费开放 DeepSeek V4.1 Flash",
-      "url": "https://www.chaincatcher.com/article/2296509",
-      "summary": "ChainCatcher 消息，OpenCode 宣布限时免费开放 DeepSeek V4.1 Flash。用户可在模型列表中选择 DeepSeek V4.1 Flash Free，输入和输出 Token 均不收费。免费版上下文为 20 万 Token，付费版为 100 万 Token，相当于缩水 80%，处理大型代码仓库或长时间运行 Coding Agent 时更容易碰到上下文上限。DeepSe",
-      "publish_time_ts": 1792054507,
-      "guid": "34e69860e9b000813656c5a5bdd939c7dbdc98b43ae6748016a158357e71ff8e"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "伊朗称霍尔木兹海峡处于关闭状态",
-      "url": "https://www.chaincatcher.com/article/2296508",
-      "summary": "ChainCatcher 消息，伊朗方面表示，霍尔木兹海峡目前处于关闭状态，通行必须进行协调。",
-      "publish_time_ts": 1792054486,
-      "guid": "2240d32f9a55d7f967238c32c4ad0bf962ee95b40d7acd8b9692ce5186ca79c4"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "花旗：机构级代币化正从试点转向生产基础设施",
-      "url": "https://www.chaincatcher.com/article/2296507",
-      "summary": "ChainCatcher 消息，花旗在官网洞察《数字前沿：代币化世界中的抵押品》中表示，随着金融市场加速走向连续、全天候运行，抵押品管理正在发生结构性演变。机构级代币化正超越孤立的概念验证，在全球银行、托管与市场基础设施上建立可扩展的运营轨道，使抵押品成为持续的流动性与优化引擎。花旗称，将代币化资产与受监管的链上结算货币结合，可实现即时原子化货银对付，消除多日缺口风险，并把合格抵押品范围扩大到代币",
-      "publish_time_ts": 1792054415,
-      "guid": "a7627bfc9e7506789e4b16a6884861985bdc5bad2e02f0d45941ad27883291d7"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "库克：苹果智能在华获批，10 月底推测试版",
-      "url": "https://www.chaincatcher.com/article/2296506",
-      "summary": "ChainCatcher 消息，苹果执行董事长库克在上海透露，苹果智能在中国已获得批准。10 月晚些时候将推出测试版本，首批功能包括实时翻译、写作工作和图像消除，Siri AI 不包括在内。",
-      "publish_time_ts": 1792054067,
-      "guid": "5d7e7b3984311ec5f37fb3b76c167f600e62212e64a37fd8bc8c55370535d30f"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "「日本的壁垒不是文化，而是本地投入」火币联合创始人杜均谈监管、稳定币与亚洲布局",
-      "url": "https://www.chaincatcher.com/article/2296505",
-      "summary": "借 TOKEN2049 之机，CoinPost 专访火币联合创始人、WIDTH 创始人兼董事长杜均：加密监管为何必然到来、稳定币支付与 RWA 这两个下一个增长领域，以及攻克日本市场的关键所在。",
-      "publish_time_ts": 1792054040,
-      "guid": "558f051268a07cd20c2b2321047ed6feb6f70f65ce6aa87a1ca8b53d5811d847"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Bitwise CIO：选择你自己的冒险，所有路径都通向比特币",
-      "url": "https://www.chaincatcher.com/article/2296499",
-      "summary": "在经济能走的所有不同路径中，几乎每一条最终都通向比特币。",
-      "publish_time_ts": 1792053916,
-      "guid": "f1a5fdda80cb639fefddc9aa796f6ae9b7416236d339f11b26b2ad33db68c4d5"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "多伦多警方：涉加密资产绑架案 7 人被捕，包括 3 名加拿大军人",
-      "url": "https://www.chaincatcher.com/article/2296504",
-      "summary": "ChainCatcher 消息，据 CTV News 报道，多伦多警方宣布，在一起针对加密资产持有者的暴力绑架案及后续调查中逮捕 7 人，包括 3 名加拿大武装部队成员，共提出 82 项刑事指控。警方称，受害者于 7 月 25 日遭绑架、戴上手铐并被殴打，嫌疑人试图获取其加密资产及企业安全系统权限，之后将其释放。调查还查获枪支、毒品及约 2500 发被盗军用弹药，案件仍在调查中。",
-      "publish_time_ts": 1792053597,
-      "guid": "e58e78457336c21a6b436cbb9fc4f4b69685696e0761c26d52c56d2d32956e79"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：Arthur Hayes 买入 AERO、PENDLE 和 ZAMA 价值 88.8 万美元",
-      "url": "https://www.chaincatcher.com/article/2296503",
-      "summary": "ChainCatcher 消息，据 Onchain Lens 监测，Arthur Hayes 通过 FalconX 和 Flowdesk 买入约 88.8 万美元代币，其中包括 54.66 万枚 AERO，价值 45.98 万美元；12 万枚 PENDLE，价值 23.16 万美元；300 万枚 ZAMA，价值 19.67 万美元。",
-      "publish_time_ts": 1792053526,
-      "guid": "0b1d843515a6518dee3aa9c591c5eb005bbe35599db89934ae11a4939032050e"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "美股盘前期货涨跌分化，「七姐妹」与光通信板块普跌",
-      "url": "https://www.chaincatcher.com/article/2296501",
-      "summary": "ChainCatcher 消息，据 Gate 行情数据，美股盘前标普 500 迷你指数期货下跌 0.3%，纳斯达克 100 指数期货下跌 1.1%，道琼斯指数期货上涨 0.3%。「七姐妹」概念股、光通信板块普跌，生物科技板块普涨。英伟达跌 1.54%，苹果涨 0.76%，微软跌 0.46%，谷歌跌 1.58%，亚马逊跌 1.47%，Meta 跌 1.47%，特斯拉跌 1.40%。Lumentum ",
-      "publish_time_ts": 1792053327,
-      "guid": "d4f00b95f7c330f256d6dc80a615581a5756c6e58374a4fa4a822396dd700f61"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "SEC 批准交易所上市以 KPI 为标的的二元期权",
-      "url": "https://www.chaincatcher.com/article/2296500",
-      "summary": "ChainCatcher 消息，美国证券交易委员会（SEC）主席 Paul S. Atkins 于 10 月 13 日发表声明称，委员会当日投票批准某证券交易所的拟议规则变更，允许上市以部分股票发行人报告的特定关键绩效指标（KPI）为标的的二元期权。根据批准令，这些二元 KPI 期权将在证券交易所上市交易，属于现金结算、欧式、标准化期权，并被认定为 NMS 证券，受证券法保护。其上市与交易方式与现",
-      "publish_time_ts": 1792053271,
-      "guid": "a2e5168463ca2631d9c8f28d1de8c0d56fa679e36beb4a72dac6e44d908b1b34"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "IDC：9 月季度智能手机出货量下降 22%",
-      "url": "https://www.chaincatcher.com/article/2296498",
-      "summary": "ChainCatcher 消息，市场研究机构 IDC 表示，智能手机市场在 9 月季度出现有记录以来最严重的下滑，出货量下降 22%，主要受存储成本上升影响，且情况还将恶化。过去一年存储成本上升，主要由人工智能行业订单需求推动，损害了移动行业盈利能力，迫使企业提价、削减规格并放弃面向预算市场的机型。在主要品牌中，小米和 Oppo 受冲击最大，苹果和三星因高端机型组合更大而表现相对较好。",
-      "publish_time_ts": 1792053218,
-      "guid": "c258897caa41d0f860b29c29c9f84ad57b553c8a71af293889c9114d81c17ef3"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "分析：美联储在中期选举前的10月或11月加息并不常见，市场关注沃什发言",
-      "url": "https://www.chaincatcher.com/article/2296497",
-      "summary": "ChainCatcher 消息，美国 9 月 CPI 同比上涨 3.7%、环比上涨 0.6%，核心 CPI 同比上涨 2.6%、环比上涨 0.3%，均高于市场预期。数据公布后，市场对美联储 10 月加息 25 个基点的押注升至约 40%，前一日约为 20%。美联储上月刚加息 25 个基点，为 2023 年以来首次加息。下一次利率决议将于 10 月 28 日公布，距离 11 月 3 日美国中期选举仅",
-      "publish_time_ts": 1792053196,
-      "guid": "1f9987e28ed19e18674dfa6270ad033a7370b7a6acf05682d41732ecece88b69"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Hyperliquid创始人提出监管新思路：监管交易服务商，而非区块链本身",
-      "url": "https://www.chaincatcher.com/article/2296496",
-      "summary": "ChainCatcher 消息，去中心化永续合约平台 Hyperliquid 联合创始人 Jeff Yan 在 10 月 15 日接受 Bloomberg《Odd Lots》播客采访时表示，监管义务应施加于在 Hyperliquid 区块链上运营市场的金融服务商，而非区块链网络本身，以降低平台进入美国市场的合规负担。Yan 将该思路类比为互联网基础设施，认为区块链作为底层流动性和交易基础设施，不应",
-      "publish_time_ts": 1792052978,
-      "guid": "e642e46a1ce0675bb55f5869e86f13ef915e21761acb0a96ed749260cd391ff7"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "恐慌指数 VIX 触及两周高点",
-      "url": "https://www.chaincatcher.com/article/2296495",
-      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，恐慌指数 VIX 最新上涨 0.69 点，达到 17.56。",
-      "publish_time_ts": 1792052750,
-      "guid": "51bc13a2ccdd69fea2874e97bcbc4c48e5e706435b06c4f675d9a51b6c1b902a"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "美的集团加入英伟达 MGX 生态链",
-      "url": "https://www.chaincatcher.com/article/2296494",
-      "summary": "ChainCatcher 消息，美的集团进入英伟达公布的 NVIDIA MGX AI Factory 生态及合作伙伴名单，标志着公司进入英伟达 MGX 生态链。随着 Vera Rubin 平台机架功率密度攀升，MGX 生态合作伙伴可提前参与热管理规格对接及系统级验证，获得全球 AI 工厂项目先发优势。",
-      "publish_time_ts": 1792052454,
-      "guid": "64869ab7656bd09d4fddb86023840c2fc105338adef4ddca61c0e534ee126956"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "AI 股抛售引发欧美国债收益率下挫",
-      "url": "https://www.chaincatcher.com/article/2296493",
-      "summary": "ChainCatcher 消息，股市抛售恐慌情绪推动资金买入政府债券避险。美国 10 年期国债收益率下跌 10 个基点至 5.089%。德国 10 年期国债收益率下跌 8.5 个基点至 3.3819%。法国 10 年期国债收益率下跌 11.5 个基点至 4.7619%。意大利 10 年期国债收益率下跌 10 个基点至 4.4657%。道明证券策略师表示，AI 板块暴跌下调市场对经济增长预期，债券成",
-      "publish_time_ts": 1792052261,
-      "guid": "c62559c1244fe46167c8e61475ceda319f626d0f5b241156ee2df2f4d70dc329"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Catcher Predict：“LoL：Team WE 对阵 HANJIN BRION - 德玛西亚杯全球邀请赛季后赛” “任意玩家五杀” 胜率暴跌 30%",
-      "url": "https://www.chaincatcher.com/article/2296492",
-      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“LoL：Team WE 对阵 HANJIN BRION - 德玛西亚杯全球邀请赛季后赛”事件中，子市场“任意玩家五杀”的“是”选项胜率发生剧烈波动，由 1 小时前的 50% 暴跌至当前的 20%（波动幅度达 30%）。请注意相关突发消息影响。",
-      "publish_time_ts": 1792052112,
-      "guid": "2319ba1123e41c725345169ba0df655543a8d531068b47d6f0c9f627cc4bb396"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "RootData 股票衍生品交易所榜单：Binance、Bitget、Gate 位列前三",
-      "url": "https://www.chaincatcher.com/article/2296489",
-      "summary": "ChainCatcher 消息，据 RootData 最新发布的股票衍生品交易所排名，排名前三的交易所分别为 Binance、Bitget、Gate。\n\n其中，Binance 评分 95.4，24h 成交额约 253.41 亿美元，市场份额 45.57%；Bitget 评分 93，24h 成交额约 30.73 亿美元，市场份额 5.53%；Gate 评分 92.6，24h 成交额约 9.64 亿美",
-      "publish_time_ts": 1792051961,
-      "guid": "abe0331884e1b5b78ed2d822721ea4a353a17bf2a79b0bee2194db725917195f"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "台积电盘前股价下跌 2%，对 2027 年持谨慎态度",
-      "url": "https://www.chaincatcher.com/article/2296491",
-      "summary": "ChainCatcher 消息，美国上市的台积电在第三季度财报发布后，盘前股价下跌 2%，公司对 2027 年持谨慎态度。",
-      "publish_time_ts": 1792051606,
-      "guid": "d262667bc4e0543ca864196c3a9fbab1fb247951a187f2bc39fa40cf58c1f662"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "BTC 近端卖盘更厚，Binance 永续卖盘 4,822.42 万美元，比买盘多 166.56 万美元",
-      "url": "https://www.chaincatcher.com/article/2296490",
-      "summary": "ChainCatcher 消息，据盘口情报平台 Liquid247.xyz 监测，BTC 现价 81,452 美元。当前最厚的是 Binance 永续：卖盘 4,822.42 万美元，买盘 4,655.86 万美元，卖盘多出 166.56 万美元。 Binance 现货买盘厚于卖盘，但规模小于永续。由于 Binance 永续卖盘更厚，如果突然出现大额买卖，盘口更薄的交易所会先被带动，价格波动也会更",
-      "publish_time_ts": 1792051355,
-      "guid": "06678669bf8ceaff185582a0e1d4db278c6d7f6ec7bc6eda68b98c5bfd6fb151"
-    },
-    {
-      "source_name": "Odaily",
-      "title": "热门交互合集 | predict.fun上线LOL活动；RAFA Finance测试网已上线（10月15日）",
-      "url": "https://www.odaily.news/zh-CN/post/5213395",
-      "summary": "原创 | Odaily 星球日报（@OdailyChina）作者 | Asher（<a href=\"https://x.com/Asher_02",
-      "publish_time_ts": 1792051308,
-      "guid": "57400a3985495ccdff676ccfba6dbd95371d91f405e0cf5cd0880325d8172729"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Michael Saylor：出售数千枚比特币未对价格造成负面影响",
-      "url": "https://www.chaincatcher.com/article/2296488",
-      "summary": "ChainCatcher 消息，Bitcoin News 在 X 平台发文表示，Michael Saylor 解释称，Strategy 有意让投资者接受出售比特币是其整体财务战略的一部分。Strategy 最初出售 32 枚比特币时，市场反应过度；随后，市场消化了数千枚比特币的出售，价格未受到负面影响。Saylor 表示，当符合股东及信贷投资者利益时，Strategy 必须能够买入和卖出比特币。",
-      "publish_time_ts": 1792051250,
-      "guid": "afa1a611a2a0a314e1865e6a39f440587f872c65826e491dc55bbac97caa0e60"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "长实集团：李嘉诚暂不公开露面回应",
-      "url": "https://www.chaincatcher.com/article/2296487",
-      "summary": "ChainCatcher 消息，10 月 15 日，长实集团公关部工作人员告诉记者，李嘉诚暂未有公开露面回应的计划。近日，网络流传“李嘉诚已去世”的消息，引发关注。长实集团同日发布声明，称相关传闻绝无其事。报道配图说明为李嘉诚基金会 5 月公布的李嘉诚近照，文内还列有长实集团就去世传闻发出的声明以及《大公报》严正声明。",
-      "publish_time_ts": 1792050954,
-      "guid": "ceafa63f10b39190d51dfd93145588af2b34360c2ce359ff723b3887f726a753"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：某巨鲸趁 ETH 回调买入 6010 枚 ETH，价值约 1423 万美元",
-      "url": "https://www.chaincatcher.com/article/2296486",
-      "summary": "ChainCatcher 消息，据 lookonchain 监测，尽管加密市场持续下跌，部分巨鲸仍在逢低买入。此前，巨鲸地址 0x8E8b 曾卖出 2050 枚 ETH，套现约 493 万美元，获利约 108 万美元。该地址重新买入 6010 枚 ETH，价值约 1423 万美元。",
-      "publish_time_ts": 1792050841,
-      "guid": "96667350fe03b00cc5f45a3063fda577cf3e2cc49850ed4b70dcea9b45343a84"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "JPYC EX 累计发行额突破 100 亿日元，并登陆韩国交易所 Upbit",
-      "url": "https://www.chaincatcher.com/article/2296485",
-      "summary": "ChainCatcher 消息，据 JPYC 官方披露，其发行与赎回服务 JPYC EX 的累计发行额截至 9 月 18 日突破 100 亿日元，用户已从个人扩展至日本本土企业及海外项目。9 月 17 日，JPYC 在韩国交易所 Upbit 上线，面向韩元、BTC、USDT 三个市场交易，但上线后市场价格一度偏离 1 日元。此外，Netstars 与 Kaia DLT Foundation 签署基",
-      "publish_time_ts": 1792050777,
-      "guid": "55fdb67a57c9e046b1470cc4707c44f3f2683f6b63243605149671582975e698"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "欧洲科技股创下自 7 月以来最大单日跌幅",
-      "url": "https://www.chaincatcher.com/article/2296482",
-      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，欧洲科技股最新跌幅已达 3.2%，势将创下自 7 月以来最大单日跌幅。",
-      "publish_time_ts": 1792050173,
-      "guid": "b5f62cf69611ef35f0303fdeb3eece3deb9ccac78a2fb47209e39b83f2094643"
-    },
-    {
-      "source_name": "Odaily",
-      "title": "MSX美股每日观察：阿斯麦Q3营收创纪录，AI设备需求延伸至2030年，产能成为增长新约束",
-      "url": "https://www.odaily.news/zh-CN/post/5213406",
-      "summary": "【MSX 研究院·美股RWA 每日观察】 是由领先的RWA交易平台MSX 麦通出品的标志性日报。我们依托强大的宏观研究能力，为您捕捉全球传统美股、流动性变化及 RWA代币化市场的核心脉搏，助您前瞻布局优质资产。今日观察阿斯麦交出了一份创纪录的第三季度财报。2026年第三季度，公司净销",
-      "publish_time_ts": 1792049900,
-      "guid": "e5c1abd03b6a4e23d2a41baa6c3f38f5c5ce0b41e4cf45e7ad5156235e95a3cc"
-    },
-    {
       "source_name": "PANews",
       "title": "Starknet社区就转型独立抗量子L1发起意向投票",
       "url": "https://www.panewslab.com/zh/articles/01a13e87-2a5b-7208-874a-b53046fda032",
@@ -538,388 +818,12 @@
       "guid": "b6b473d605865f3bfe0fce3f08e8e9fe4ec8a250eee1cca146760cb3ed158005"
     },
     {
-      "source_name": "Odaily",
-      "title": "不谈币，讲AI：Solana把办公室开进了陆家嘴",
-      "url": "https://www.odaily.news/zh-CN/post/5213405",
-      "summary": "原文作者：杰米尼，深潮 TechFlow10 月 14 日晚上，上海陆家嘴外滩的花旗大厦，整面临江的 LED 幕墙开始亮起了紫蓝色的光效。几秒钟的动画过后，屏幕上立起了六个巨大的竖排英文字母 SOLANA。<",
-      "publish_time_ts": 1792049784,
-      "guid": "91805fab1ebfeb5b72cbf0bd4ed96bee32f2394f176dea499bebd9b3c92758b0"
-    },
-    {
-      "source_name": "PANews",
-      "title": "取消 TGE、逐步关停：StandX 为什么在 Perp DEX 最热时离场？",
-      "url": "https://www.panewslab.com/zh/articles/01a13e71-8945-76cd-a55a-05cc294de7a2",
-      "summary": "StandX在Perp DEX上升期主动关停，不发币直接空投DUSD补偿社区，成为加密市场罕见样本，揭示赛道竞争与流动性成本真相。",
-      "publish_time_ts": 1792049760,
-      "guid": "ac9c88be509522d6953a2331f3b1a2ac74f3e36b29a78b98c490227c567e8090"
-    },
-    {
-      "source_name": "Odaily",
-      "title": "从3.5亿美元盘前估值到「不发币」停运：StandX倒在TGE前夜",
-      "url": "https://www.odaily.news/zh-CN/post/5213404",
-      "summary": "原文作者：Sanqing，Foresight News10 月 15 日，永续合约 DEX StandX 发推宣布不会进行代币发行，改为向社区一次性空投 DUSD，平台也将逐步停运。而 10 月 13 日 StandX 登陆了 Aspecta 盘前市场，隐含完全稀释估值（FDV）一度逼近 3.5 亿美元。当时不少参与积分活动的用户以为，发币已经近在眼前。消息公布后，Aspect",
-      "publish_time_ts": 1792049343,
-      "guid": "382c421587887700508ce3627b9187ceb89ecb1c9d912c50860da2eeb208b28e"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：676 万枚 BTW 现价值 1350 万美元，某巨鲸曾以 8.5 万美元卖出",
-      "url": "https://www.chaincatcher.com/article/2296481",
-      "summary": "ChainCatcher 消息，据 Lookonchain 监测，某巨鲸领取了 676 万枚 BTW，随后以 8.5 万美元卖出；该批 BTW 目前价值 1350 万美元。",
-      "publish_time_ts": 1792049092,
-      "guid": "f8eba9c275d185d901b767f578139369c708548fe56090d85958af4f243e9d9b"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Tether 发布端侧语音识别模型 QVAC TranscribePsy",
-      "url": "https://www.chaincatcher.com/article/2296480",
-      "summary": "ChainCatcher 消息，稳定币发行商 Tether 旗下 Tether AI Research（文中指 Tether Data, S.A. de C.V.）发布开源多语言自动语音识别模型 QVAC TranscribePsy。该模型参数量为 2.54 亿，完全在设备端运行，适用于智能手机、智能眼镜和人形机器人，音频无需上传云端；智能眼镜可通过蓝牙或 Wi-Fi 近实时处理，模型也可在机器人",
-      "publish_time_ts": 1792048167,
-      "guid": "224b2f03e0fad7c606042b40fec253fa2b8cd68e0fa00ad4617ad30ad0bad258"
-    },
-    {
-      "source_name": "PANews",
-      "title": "Ourbit 闪耀 TOKEN2049 新加坡大会：以 SuperCEX 连接全球交易者，共探数字金融新未来",
-      "url": "https://www.panewslab.com/zh/articles/01a13e64-5716-7184-aa66-7a6cc9a5e786",
-      "summary": "对于 Ourbit 而言，此次参展不仅是一次国际舞台上的品牌展示，更是与全球交易者建立联系、传递 SuperCEX 理念的重要契机。",
-      "publish_time_ts": 1792048080,
-      "guid": "8c6731137db9feed0de43e942233441be9868d31e9e186ba79f0bf20913d80ab"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Hyperliquid Strategies：增持约 18 万枚 HYPE，持仓总市值达 30.8 亿美元",
-      "url": "https://www.chaincatcher.com/article/2296479",
-      "summary": "ChainCatcher 消息，据 Hyperliquid News 披露，Hyperliquid Strategies 近期买入约 18 万枚 HYPE，价值约 1,430 万美元。此次增持后，该实体累计持有 3,870 万枚 HYPE，总持仓价值约为 30.8 亿美元。同时，其现金储备减少 820 万美元，降至 2.553 亿美元。",
-      "publish_time_ts": 1792048006,
-      "guid": "fbbec598d3c1fb5c7cf0309fb3807dc170faa59e4bc8f0a01fa408703160952b"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "CPI 点燃抛售，AI 行情开始接受融资成本的考验",
-      "url": "https://www.chaincatcher.com/article/2296475",
-      "summary": "通胀与竞争压力叠加，市场开始审视AI企业能否撑到收入兑现",
-      "publish_time_ts": 1792047990,
-      "guid": "1128815c4acd5c867d19fc9bc035d8caf046f2c13862b9f2c8a53bd179ef2503"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Gate 股票专区首发上线 JIOUSDT 永续合约盘前交易",
-      "url": "https://www.chaincatcher.com/article/2296478",
-      "summary": "ChainCatcher 消息，据官方消息，Gate 股票专区首发上线 JIOUSDT（Jio Platforms）永续合约盘前交易，采用 USDT 结算，支持 1—10 倍做多及做空机制，用户可在下单时灵活选择杠杆倍数。截至目前，Gate 股票专区已累计支持 476 只股票永续合约交易。Jio Platforms 作为印度信实工业旗下的数字服务旗舰子公司，依托印度最大移动运营商 Reliance",
-      "publish_time_ts": 1792047903,
-      "guid": "399ab090833472beea809408a73eb754f9fbb979a5174c10fb95eb1972fff5c1"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "美国 9 月 CPI 回升至 3.7%，美债收益率反转",
-      "url": "https://www.chaincatcher.com/article/2296477",
-      "summary": "ChainCatcher 消息，美国 9 月 CPI 意外回升至 3.7%，引发通胀担忧。美债市场在数据公布后收益率先急升，随后因避险买盘回落至三周低点。今夜将公布 PPI 与零售销售数据，市场波动可能加剧。",
-      "publish_time_ts": 1792047641,
-      "guid": "9bd9d2bb2746b205581f8c3a6838f26771928c33ef54088caca2881e1ae04825"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "UPBIT 将下架 SOPHON (SOPH) 相关交易对",
-      "url": "https://www.chaincatcher.com/article/2296476",
-      "summary": "ChainCatcher 消息，UPBIT 将于 2026 年 11 月 16 日 15:00 终止 SOPHON (SOPH) 的交易支持，涉及交易对为 SOPH/KRW、SOPH/BTC、SOPH/USDT。用户需在 2026 年 12 月 16 日前完成 SOPH 的提现操作。",
-      "publish_time_ts": 1792047638,
-      "guid": "bc675444ec7e9859317705aa9222e322762906a34da70e50963f9c1498049336"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "日韩股市双双重挫收跌，韩金融监管机构紧急召开会议",
-      "url": "https://www.chaincatcher.com/article/2296474",
-      "summary": "ChainCatcher 消息，据 Gate 行情数据，日经 225 指数 10 月 15 日收盘下跌 3318.34 点，跌幅 4.90%，报 64425.95 点。韩国 KOSPI 指数同日收盘下跌 454.54 点，跌幅 7.56%，报 5554.27 点。韩国股市盘中一度跌超 9%，年内第十次触发熔断机制。韩国金融监管机构午后就股市召开紧急会议，随后股市跌幅有所收窄。SK 海力士初步收跌 ",
-      "publish_time_ts": 1792046740,
-      "guid": "87d6cbda907abd81bb71d6b5cfbe36d380e8fa305fb64412051b3189ab32c1da"
-    },
-    {
-      "source_name": "PANews",
-      "title": "1.38亿笔链上交易：AI Agent如何用“被遗忘的402代码”实现自主支付？",
-      "url": "https://www.panewslab.com/zh/articles/01a13e30-8e78-70fa-8e4a-3cddb69b8092",
-      "summary": "x402协议让AI Agent自主完成链上微支付，Base链交易量突破1.38亿笔，总支付金额超5000万美元。AWS、Google、Visa等巨头纷纷入局，稳定币正成为机器经济的基础设施。",
-      "publish_time_ts": 1792046640,
-      "guid": "974ddb412bb83b16e728a9e2dc4010df7505f5ea5930ca3522fda0452b28b072"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "台积电与马斯克旗下 Terafab 洽谈产能合作",
-      "url": "https://www.chaincatcher.com/article/2296473",
-      "summary": "ChainCatcher 消息，台积电 (TSM.N) 首席执行官表示，台积电已与马斯克旗下 Terafab 洽谈产能合作事宜。",
-      "publish_time_ts": 1792046325,
-      "guid": "4039cc4c6e506b5249c5bc27457e60bf66687f1a3354532f6da95ed192fcbaf3"
-    },
-    {
-      "source_name": "PANews",
-      "title": "全球市场再陷加息阴影！CPI意外升温掀起抛售潮，美股亚股重挫、比特币急跌",
-      "url": "https://www.panewslab.com/zh/articles/01a13e4b-4ff9-7709-b356-70341d466ace",
-      "summary": "美国CPI超预期重燃加息担忧，全球股市与加密市场遭遇抛售潮。美联储官员密集发声，沃什曼谷讲话成关键风向标，市场紧盯10月利率决议，波动风险持续升温。",
-      "publish_time_ts": 1792046100,
-      "guid": "0f2d3afd44a5a6a4cfbbadf9d857ce97d4d2720fef48cfbf671e93454b504cee"
-    },
-    {
-      "source_name": "PANews",
-      "title": "日经225指数今日跌幅4.9%，韩国KOSPI指数收盘下跌7.56%",
-      "url": "https://www.panewslab.com/zh/articles/01a13e46-7dcd-7246-b1be-3c750fda4b50",
-      "summary": "PANews 10月15日消息，日经225指数（周四）收盘下跌3318.34点，跌幅4.90%，报64425.95点。韩国KOSPI指数（周四）收盘下跌454.54点，跌幅7.56%，报5554.27点，该国股市盘中一度跌超9%，年内第十次触发熔断机制，韩国金融监管机构午后就股市召开紧急会议，随后股市跌幅有所收窄，SK海力士初步收跌11.06%，三星电子跌9.48%。",
-      "publish_time_ts": 1792046040,
-      "guid": "9c8014c661f8155322b31864184610001f9a447055b91a60a6599af3be418718"
-    },
-    {
-      "source_name": "Odaily",
-      "title": "比特币巨鲸在止盈吗？一文读懂 SOPR 与已实现利润指标",
-      "url": "https://www.odaily.news/zh-CN/post/5213396",
-      "summary": "10 月 8 日，链上单日已实现利润达到约 10.3 亿美元，是 2026 年以来的第二高值，仅略低于全年 10.4 亿美元的峰值。根据 <a href=\"https://dailycoin.com/bitcoin-falls-5-as-profit-taking-reaches-second-highest-level-of-2026\" rel=\"noopener noreferrer\" ",
-      "publish_time_ts": 1792046027,
-      "guid": "5d9fcce3a3fe83fe2c16118017d8037be236d2bb896ab46332bce2f71bb351fe"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "火币 HTX 更新 10 月默克尔树储备证明：主流资产储备率持续超 100%",
-      "url": "https://www.chaincatcher.com/article/2296472",
-      "summary": "ChainCatcher 消息，据火币 HTX 最新默克尔树储备证明（PoR）数据显示，截至 2026 年 10 月 1 日（UTC+8），平台各主流资产储备率均保持在 100% 以上，持续以充足储备保障用户资产安全，并承诺实现 100% 兑付，确保用户可随时交易和提现。作为行业内较早持续披露默克尔树储备证明的平台之一，火币 HTX 已连续 48 个月向市场公开披露 PoR 数据，以长期、可验证的",
-      "publish_time_ts": 1792045765,
-      "guid": "6aa122a8b176db55e9a088780ab1fdf314e994fce27d807b3d9452b4b53bcdc6"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Real Vision 创始人：为何大多数公链难逃消亡？",
-      "url": "https://www.chaincatcher.com/article/2296471",
-      "summary": "在你的投资组合里，肯定有一条你在上个周期买入的公链，因为你当时认为它会成为下一个以太坊。更好的技术，加上创始人在播客节目里极具说服力的言论…… 你当初买入并不是犯傻，不少聪明人都这么做了。",
-      "publish_time_ts": 1792045714,
-      "guid": "f062b0d56ef7add111f6df140e456ff58ee610b329597e419593820946b46dfa"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Uniswap 上线 VolatilePair Hook，首发 ETH/USDC",
-      "url": "https://www.chaincatcher.com/article/2296470",
-      "summary": "ChainCatcher 消息，去中心化交易协议 Uniswap 宣布，VolatilePair Hook 已在以太坊主网上线，首个交易对为 ETH/USDC。这是面向流动性提供者的 Uniswap v4 动态费率 Hook，费率会随市场变动调整。Uniswap 称，今年波动性交易对在 Uniswap 的成交量超过 5000 亿美元。与稳定币交易对不同，这类资产没有固定价格，静态费率下流动性提供者",
-      "publish_time_ts": 1792045368,
-      "guid": "70e0fe5315999fafe99969401b0075dd5e34c153e9976a9983fc26e0356452fd"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "贝莱德 CEO 芬克：叫停数据中心建设或致美国衰退，警示 40 万亿美元债务",
-      "url": "https://www.chaincatcher.com/article/2296469",
-      "summary": "ChainCatcher 消息，全球最大资产管理公司贝莱德 CEO 拉里·芬克周三在 CNBC 采访中表示，若美国对数据中心建设实施“某种暂停”，将令美国经济陷入衰退。他称“我们经济的很大一部分建立在这样的资本开支扩张之上”。数据中心是容纳大量计算机、为人工智能提供算力的建筑，芬克此番表态针对的是因担忧环境影响而要求停止数据中心建设的呼声。芬克驳斥了针对数据中心的担忧，称大部分恐惧属于“错误信息”",
-      "publish_time_ts": 1792045344,
-      "guid": "e961db85e67aaca23e98a76fcf03c72a7a09de31bc2557edad9ec1d874a52aae"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "韩监管机构将召开紧急会议讨论股市",
-      "url": "https://www.chaincatcher.com/article/2296467",
-      "summary": "ChainCatcher 消息，据官方消息，韩国金融监管机构发布声明，将召开紧急会议讨论股市。(金十)",
-      "publish_time_ts": 1792044943,
-      "guid": "40541ec214ec3e2e2f42931fbe4861c5d7aaaca90a9b0a47b9b57f0a27bd6570"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "伯恩斯坦：AI 数据中心缺口与 Celestica 的估值之争",
-      "url": "https://www.chaincatcher.com/article/2296460",
-      "summary": "争论集中在几个具体问题：数据中心的电力和土地够不够，Celestica 的利润率稳不稳，以及 Ciena、Arista 等公司的机会何时进入业绩。",
-      "publish_time_ts": 1792044779,
-      "guid": "34ab55c04a4a7657e7115acafcb6d75b085874d440bb83883c5dea8f6acd5817"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "永续合约平台 StandX 宣布将逐步停运，并对社区进行一次性 DUSD 空投",
-      "url": "https://www.chaincatcher.com/article/2296466",
-      "summary": "ChainCatcher 消息，永续合约平台 StandX 宣布将向社区进行一次性 DUSD 空投，用户可全额领取且无锁仓。分配依据包括预存、Alpha、主网交易、做市与推荐等活动，所有额度需通过反女巫与刷量筛查，异常账户额度可能被调整或取消。StandX 同时表示决定不发行代币，空投资金来自项目剩余收入及团队额外出资。\n\nStandX 称，主网于 2025 年 11 月上线后已服务超过 23.7",
-      "publish_time_ts": 1792044707,
-      "guid": "8e7433c5841a3a778042a9b75d81c11646cb160c5b598a559e4fb8f9ee453abe"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "从“会支付”到“办完事”：X-Agent 正在构建链上个人 AI 助理",
-      "url": "https://www.chaincatcher.com/article/2296468",
-      "summary": "ChainCatcher 消息，X-Agent 发布最新技术文章 《From Agent Payments to an Onchain Personal Assistant》，披露下一阶段重要产品方向：从 Agent Payments进一步走向能够理解用户意图、获得授权、执行链上操作并持续追踪结果的 Onchain Personal Assistant（链上个人AI助理）。\n\n与单纯让 AI Ag",
-      "publish_time_ts": 1792044480,
-      "guid": "bd88783c18174a3e50973d9ef1288a0ef758bf780caa8613ecf28232cedcc32d"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "字节跳动洽谈采购联发科数据中心定制芯片",
-      "url": "https://www.chaincatcher.com/article/2296465",
-      "summary": "ChainCatcher 消息，据彭博社报道，字节跳动接近与联发科达成协议，采购用于数据中心的半导体。知情人士称，这家中国社交媒体公司正与联发科就定制芯片供应进行深入洽谈，相关芯片将用于运行字节跳动数据中心。知情人士称，联发科将提供数量未说明的专用集成电路，即按客户平台定制的芯片。若交易达成，字节跳动或成为联发科此类芯片继 Alphabet 旗下 Google 之后的第二大客户，并有助于这家台湾芯",
-      "publish_time_ts": 1792044319,
-      "guid": "f01ac877128c095a11287a09f5dc676e59dfbe6259fcdf81417788428b2e1bbb"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "The Smarter Web Company 增持 83 枚比特币，总持有量升至 2830 枚",
-      "url": "https://www.chaincatcher.com/article/2296464",
-      "summary": "ChainCatcher 消息，据官方消息，伦敦上市科技公司 The Smarter Web Company 增持 83 枚比特币，总持有量升至 2830 枚。",
-      "publish_time_ts": 1792044282,
-      "guid": "2584b7fa32611071fd3b89cef1414208769851c588d0e7c62b3a4aea5428cfa3"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "韩国拟收紧金融机构网络安全要求，130 家公司存在安全缺陷",
-      "url": "https://www.chaincatcher.com/article/2296463",
-      "summary": "ChainCatcher 消息，韩国金融服务委员会（FSC）表示，在对此前发生安全事件的 16 家公司（包括加密货币交易所）进行调查后，计划对金融机构实施更严格的网络安全要求。该机构称，在覆盖 555 家金融公司的行业审查中，发现 130 家公司存在网络安全缺陷，约 10 万条客户信息遭到泄露，涉及姓名、联系方式和身份证件号码。受影响的公司包括 Gopax 运营商 Streami 以及加密货币交易",
-      "publish_time_ts": 1792044125,
-      "guid": "8418c3ae20e50b2a87657dcbef13fa25836fe77f734053a3e2b5d70ea4889bb6"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Bitget 股票永续合约上线 FASTRETAILING",
-      "url": "https://www.chaincatcher.com/article/2296462",
-      "summary": "ChainCatcher 消息，Bitget 上线 FASTRETAILING 股票永续合约。该合约以 USDT 结算，支持最高 20 倍杠杆及 7×24 小时交易。截至目前，Bitget 共支持 356 只股票永续合约标的。",
-      "publish_time_ts": 1792044122,
-      "guid": "c1b47b05181d5e5fd736f65bd0fdfb1a25076012621138593e75e9dbf2e81a65"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Coinbase 现货 BTC 在 80,000 美元挂出约 570 万美元买单，距现价约 0.61%",
-      "url": "https://www.chaincatcher.com/article/2296461",
-      "summary": "ChainCatcher 消息，据盘口情报平台 Liquid247.xyz 监测，Coinbase 现货 BTC 在 80,000 美元一档挂出约 71.31 枚买单，名义约 570 万美元，距离当时中间价约 80,492 美元回撤约 0.61%。同所近端盘口买盘合计约 2,745.9 万美元，卖盘约 1,632.93 万美元。 Coinbase 现货买盘相对卖盘净多出约 1,112.97 万美元",
-      "publish_time_ts": 1792044114,
-      "guid": "950b45d7c43bfdf6ad2f18ec90e1a786cfe814fc8f408c75eddd2a7cc25d42d9"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Catcher Predict：“比特币 10 月 15 日突破” “80,000” 胜率暴跌 20.65%",
-      "url": "https://www.chaincatcher.com/article/2296459",
-      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“比特币 10 月 15 日突破”事件中，子市场 “80,000” 的 “是” 选项胜率发生剧烈波动，由 1 小时前的 86.65% 暴跌至当前的 66%（波动幅度达 20.65%）。请注意相关突发消息影响。",
-      "publish_time_ts": 1792044012,
-      "guid": "1ea655c65df988d7f271b5da3c0e19c324a532a6924c158df17a7e8253366ff1"
-    },
-    {
-      "source_name": "PANews",
-      "title": "AI失控了？400多名科学家联名呼吁：危险模型必须“物理断网”！",
-      "url": "https://www.panewslab.com/zh/articles/01a13e24-966d-7249-9046-75fd8c8ce3ce",
-      "summary": "420名AI科学家联合公开信呼吁对高危模型实施物理隔离，今夏OpenAI、Anthropic等多起AI逃逸沙箱入侵真实企业事件曝光，前沿模型安全监管转向具体规则，或将重塑AI智能体落地节奏与合规成本。",
-      "publish_time_ts": 1792043940,
-      "guid": "42cf734c428d146939dc03d68ce2747f5fb1956c0ff41fc367d2212f2a36b301"
-    },
-    {
       "source_name": "ChainCatcher",
       "title": "数据：Abraxas Capital 两个对冲账户在 Hyperliquid 累计获利超 3.31 亿美元",
       "url": "https://www.chaincatcher.com/article/2296458",
       "summary": "ChainCatcher 消息，据 Lookonchain 监测，加密资产管理机构 Abraxas Capital 在去中心化衍生品交易平台 Hyperliquid 上的两个对冲账户累计已实现收益超过 3.31 亿美元。目前，上述账户合计持有价值逾 14.5 亿美元的空头对冲头寸。",
       "publish_time_ts": 1792043505,
       "guid": "045c8550f542a33591fe1349cb0a7985a63eee7944cb82ca7668044a8148a908"
-    },
-    {
-      "source_name": "PANews",
-      "title": "Abraxas Capital两个对冲账户累计盈利超3.31亿美元，持有逾14.5亿美元空单",
-      "url": "https://www.panewslab.com/zh/articles/01a13e1e-306f-704a-955a-5a2934dedd2b",
-      "summary": "PANews 10月15日消息，据Lookonchain监测，Abraxas Capital在Hyperliquid上的两个对冲账户累计盈利已超过3.31亿美元，目前合计持有超过14.5亿美元的空头仓位。",
-      "publish_time_ts": 1792043460,
-      "guid": "f5feda600c2fdc71b133003e9ef5a666e4ab8cdb6c27c02f580709384099d003"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "长实集团否认李嘉诚去世传闻，称绝无其事",
-      "url": "https://www.chaincatcher.com/article/2296457",
-      "summary": "ChainCatcher 消息，长实集团就市场传闻「李嘉诚去世」发出声明。声明称，就当日有媒体转载内地自媒体讹称香港《大公报》报道长实集团资深顾问李嘉诚去世一事，「本集团此严正声明『绝无其事』」，并对有关自媒体捏造假新闻予以强烈谴责。",
-      "publish_time_ts": 1792043077,
-      "guid": "6d266d310920ee019a4c6171aa82183dbb5b538c24aa0d0001d801f38e543c70"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "AI 芯片需求激增，台积电净利润飙升 69%",
-      "url": "https://www.chaincatcher.com/article/2296456",
-      "summary": "ChainCatcher 消息，全球最大晶圆代工厂台积电公布，受全球人工智能处理器需求激增推动，第三季度净利润同比大增 69%，创历史新高并超市场预期。台积电表示，7 月至 9 月净利润增至 7,631 亿元新台币（约合 235.9 亿美元），超过机构预期的 7,463 亿元新台币。",
-      "publish_time_ts": 1792042843,
-      "guid": "612ec58370d6f9230b8f5bb1d41a6aed3fd6da52c1f36658342b618cd5371d5b"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "DeepSeek 网页及 API 中断 5 小时后恢复",
-      "url": "https://www.chaincatcher.com/article/2296455",
-      "summary": "ChainCatcher 消息，DeepSeek 网页及 API 服务于 10 月 15 日 08:11 起出现部分中断，涉及 DeepSeek V4 Pro API、V4.1 Flash API 及对话服务三项组件，目前已恢复正常服务，本次中断共持续 5 小时。",
-      "publish_time_ts": 1792042204,
-      "guid": "99942aa77d48eccded4ef090e3c983f908b2499fe4d8407b4bd6665f7445a638"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "港股大模型股走低，智谱与 MINIMAX-W 均跌超 10%",
-      "url": "https://www.chaincatcher.com/article/2296454",
-      "summary": "ChainCatcher 消息，据 Gate 行情，港股大模型股走低，智谱（02513.HK）、MINIMAX-W（00100.HK）均跌超 10%。",
-      "publish_time_ts": 1792042093,
-      "guid": "7bf9735fbd4924dee6592107d34b3e773a1e8b40c03e8ec581be06f2d1bba37e"
-    },
-    {
-      "source_name": "PANews",
-      "title": "DeepSeek 网页与 API 大面积中断约五小时后恢复",
-      "url": "https://www.panewslab.com/zh/articles/01a13e05-75fd-71b9-b83c-aa49ce37b7ba",
-      "summary": "PANews 10月15日消息，官方状态页显示，系统现已运行正常。DeepSeek 网页端、App 及 API 接口于 10 月 15 日上午出现大面积中断，用户发送指令持续转圈，频繁弹出”服务器繁忙”“服务器暂时不可用”，部分对话写到一半被中断。故障持续约五小时，期间时断时续，现已恢复。 2026 年以来 DeepSeek 已至少出现 18 次大面积服务异常，其中 3 月底曾宕机超 12 小时。",
-      "publish_time_ts": 1792041780,
-      "guid": "c01d28c86fe3e91eaeda5c8cbeb5144194fb25f3bab62a23f0f33ff947168755"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：以太坊现货 ETF 昨日总净流出 1.3 亿美元，十支 ETF 无一净流入",
-      "url": "https://www.chaincatcher.com/article/2296453",
-      "summary": "ChainCatcher 消息，根据 SoSoValue 数据，美东时间 10 月 14 日，以太坊现货 ETF 总净流出 1.3 亿美元。单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock）ETF ETHA，单日净流出为 1.1 亿美元，目前 ETHA 历史总净流入达 126.08 亿美元。其次为灰度（Grayscale）以太坊迷你信托 ETF ETH，单日净流出为 1,875.8",
-      "publish_time_ts": 1792041768,
-      "guid": "5c1cb7ffbc7a0a8bad776b08c248588703b885e038febc5539e3ce260b6e247d"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：比特币现货 ETF 昨日总净流出 2.61 亿美元，富达 FBTC 净流出 1.53 亿美元居首",
-      "url": "https://www.chaincatcher.com/article/2296452",
-      "summary": "ChainCatcher 消息，根据 SoSoValue 数据，比特币现货 ETF 昨日（美东时间 10 月 14 日）总净流出 2.61 亿美元。单日净流入最多的比特币现货 ETF 为 Bitwise ETF BITB，单日净流入为 221.54 万美元，目前 BITB 历史总净流入达 20.48 亿美元。单日净流出最多的比特币现货 ETF 为富达（Fidelity）ETF FBTC，单日净流出",
-      "publish_time_ts": 1792041708,
-      "guid": "4b3521b0104bb15cc870f61d53b5b6f7a869fa36f7782f8aa3ebb662db05bbed"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "ASIC 就加密平台资本、托管及交易规则征求意见，拟 2027 年落地",
-      "url": "https://www.chaincatcher.com/article/2296451",
-      "summary": "ChainCatcher 消息，澳大利亚证券和投资委员会（ASIC）就加密平台拟议资本、托管及交易要求启动公众咨询，相关规则旨在配合 4 月通过的数字资产立法，扩大对行业的监管。提案包括三种资本模式、限制平台开展自营交易，以及按季度报告持有客户资产的钱包。ASIC 还拟允许离岸托管，并就海外母公司或关联公司失效时的保障措施征求意见。其中一种模式要求未采用合格第三方托管安排的平台持有至少 1,400",
-      "publish_time_ts": 1792041648,
-      "guid": "b8998c642c2541beddde315052c1621d259b4c4a2b41bc618b5c317ec2aeca93"
-    },
-    {
-      "source_name": "PANews",
-      "title": "华尔街早报：美国通胀回头、AI信用风险扩散，芯片股六连跌",
-      "url": "https://www.panewslab.com/zh/articles/01a13deb-1729-71eb-a157-f7a14944f745",
-      "summary": "2030年80%新云商面临洗牌？CoreWeave股价暴跌15%债券入困境，美元创18个月新高，标普500结束2020年以来最长的“单日跌幅未超1%”平静期，罗素2000进入技术性调整区间，美股芯片股六连跌，",
-      "publish_time_ts": 1792040100,
-      "guid": "2d65de6ee16ee78b766655e0ae90bb7079bebcb0f43a9adc04f8fb6571e8347c"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "PUFFER 8 分钟内上涨 155%，现报 0.06 美元",
-      "url": "https://www.chaincatcher.com/article/2296450",
-      "summary": "ChainCatcher 消息，据 Gate 行情数据显示，或受 Upbit 上线 PUFFER 韩元交易对消息影响，PUFFER 8 分钟内上涨 155%，现报 0.06 美元。",
-      "publish_time_ts": 1792039896,
-      "guid": "38608987dc82b60e16d863b761d3dcb5b1012f1439ff73293b06bab3afe7c821"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "Arthur Hayes：预期最终出现数万亿美元救助，看多 BTC、ETH",
-      "url": "https://www.chaincatcher.com/article/2296449",
-      "summary": "ChainCatcher 消息，Arthur Hayes 在 X 平台表示，不确定 AI 相关资产是否将迎来大跌，也不愿押注其涨跌方向。他更倾向于围绕其预期最终将出现的数万亿美元规模救助进行交易，并表达看多 BTC、ETH 的立场。",
-      "publish_time_ts": 1792039856,
-      "guid": "b58c37bba826a4421b45a892f0484176388939aa1d25e6cb7132eaae83b163b4"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "火币 HTX 首席分析师 Andy：美国通胀再度升温，市场重新交易“更高更久”",
-      "url": "https://www.chaincatcher.com/article/2296448",
-      "summary": "ChainCatcher 消息，围绕美国 9 月 CPI 超预期回升，火币 HTX 首席分析师 Andy 指出，通胀正从能源向核心价格扩散。美国 9 月 CPI 同比升至 3.7%，核心 CPI 同比升至 2.6%，汽油单月上涨 9.1%，贡献整体涨幅一半以上，但住房、医疗、航空等服务价格同样上涨，说明此次反弹并非完全由能源冲击解释。数据强化了美联储“更高更久”的政策逻辑。经济尚未明显衰退，美联储",
-      "publish_time_ts": 1792039699,
-      "guid": "616216c98fc2e4498c3dc4bd4c5da0216895555ae65e5da6af0565cc9c4f981b"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "UPBIT 上线 Puffer (PUFFER) 并支持 KRW 交易",
-      "url": "https://www.chaincatcher.com/article/2296447",
-      "summary": "ChainCatcher 消息，UPBIT 将于 10 月 15 日 14:00 在 KRW 市场上线 Puffer (PUFFER) 交易，基于 Ethereum 网络。用户需注意交易限制，交易支持后约 5 分钟内限制买入，最低卖出价限制为前日收盘价的 -10% 以下，约 2 小时内仅支持限价单。",
-      "publish_time_ts": 1792039239,
-      "guid": "596a3f3f85bfd6b03d627ec5e5c6294a0d10b0709e1463efad16869531419974"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "汇丰高管：AI 融资面临更严格审查",
-      "url": "https://www.chaincatcher.com/article/2296446",
-      "summary": "ChainCatcher 消息，汇丰控股企业及机构银行业务主管迈克尔·罗伯茨表示，随着 AI 基础设施建设推进，银行和投资者在提供融资时变得更加谨慎，并要求更高的投资回报。全球股市因芯片制造商股价下跌而遭遇抛售，市场对融资挑战的担忧加剧。普华永道估计，到 2050 年，仅亚洲地区的相关投资支出可能达到 8.2 万亿美元。",
-      "publish_time_ts": 1792038767,
-      "guid": "a6cf1368a7c8b672a1024a35ae7fdd4c339495e74a5097dd3539108562f3b7a0"
     },
     {
       "source_name": "ChainCatcher",
@@ -931,67 +835,11 @@
     },
     {
       "source_name": "ChainCatcher",
-      "title": "播客笔记｜对话孙宇晨：极致的孤独，也是一种自由",
-      "url": "https://www.chaincatcher.com/article/2296444",
-      "summary": "「我做这些事，大多数人觉得是勇敢的动作，或觉得我在做营销；但到最后，对我来说只是想要这些体验，而这些体验对我来说非常重要。」",
-      "publish_time_ts": 1792038485,
-      "guid": "f8e0b9b29828c4d959ccd1749f04d0af96316c6ef0f63daf55e2959716816ad9"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "某巨鲸 3.52 亿美元多单面临清算风险，现浮亏约 1887 万美元",
-      "url": "https://www.chaincatcher.com/article/2296415",
-      "summary": "ChainCatcher 消息，据链上数据分析师余烬监测，某持有价值 3.52 亿美元多仓的巨鲸或机构面临清算风险，整体仓位浮亏约 1887 万美元。\n\n其中 79,260 枚 ETH 多单价值约 1.87 亿美元，清算价为 2290 至 2301 美元，距离清算约 60 美元。该地址 1,140 枚 BTC 多单价值约 9260 万美元，清算价在 72,268 至 74,449 美元，暂时未接近",
-      "publish_time_ts": 1792032571,
-      "guid": "195d47b75bec6b2aebcee7febd9889777bd3c752d862f9af2bf3513c3fb36d47"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "数据：3 个新建钱包地址向 Hyperliquid 质押价值超 1 亿美元 HYPE",
-      "url": "https://www.chaincatcher.com/article/2296399",
-      "summary": "ChainCatcher 消息，据 Onchain Lens 监测，疑似归属于同一巨鲸的 3 个新建钱包地址，累计向去中心化衍生品交易平台 Hyperliquid 质押了 125.5 万枚 HYPE 代币，总价值约为 1.0043 亿美元。具体来看，三个地址分别质押了 46.018 万枚（约 3,684 万美元）、44.99 万枚（约 3,598 万美元）以及 34.525 万枚 HYPE（约 2",
-      "publish_time_ts": 1792030124,
-      "guid": "91692bede07d9fb29f288a04d198c73122451453ba2cc4bd90fe46283ea7f285"
-    },
-    {
-      "source_name": "PANews",
-      "title": "对话Haotian：牛市初期别只追Meme！Robinhood下一棒是Hooks、Agents、Tokenized Stock DeFi",
-      "url": "https://www.panewslab.com/zh/articles/01a13d4a-5007-73f9-a57a-75803f53272a",
-      "summary": "流动性正在回归，但市场仍处高 PVP 的非共识牛初，Robinhood 第一阶段靠 Meme 与 Launchpad 引流，第二阶段要看 Hooks、Agent Trading 与 Tokenized Stock DeFi，二级则回归 PMF、新趋势与新共识。",
-      "publish_time_ts": 1792029240,
-      "guid": "875e9aa30dc7c9c6a6d54ccfbc0052196e1bdad1c381c3a00f5a3f17394c0291"
-    },
-    {
-      "source_name": "ChainCatcher",
-      "title": "OneKey 上线硬件钱包防篡改检测工具",
-      "url": "https://www.chaincatcher.com/article/2296384",
-      "summary": "ChainCatcher 消息，硬件钱包 OneKey 创始人 Yishi 发文称，其上线了检测硬件钱包是否被篡改的工具 tampered.app。用户上传电路板照片即可检测，支持 OneKey、Ledger 和 Trezor，免费、无需注册、不保存照片。该工具可标记疑似异常，但结果正常并不代表完全安全。Yishi 称，在用户提交的约 400 张照片上测试，准确率超过 95%。",
-      "publish_time_ts": 1792026954,
-      "guid": "4409b4cff0dae3f771ac1495c5ad72a27eaa34c02f7ef6f4256f314c2855ac40"
-    },
-    {
-      "source_name": "PANews",
-      "title": "PA日报 | DeepSeek将完成1000亿元融资，长鑫存储公布存储芯片技术取得突破",
-      "url": "https://www.panewslab.com/zh/articles/01a1347f-7710-7104-b896-004c1d8636c2",
-      "summary": "韩国KOSPI指数暴跌5%，三星、SK海力士重挫，长鑫存储芯片技术突破引发全球芯片股抛售；Ledger确认东南亚经销商售出硬件钱包遭植入恶意组件，可窃取助记词，OneKey终止其分销授权；比特币维持83000美元附近震荡，美元走强压制市场情绪。",
-      "publish_time_ts": 1791882540,
-      "guid": "79434dc51add85c82c63cb1dcd5093f090f11f2362cba262a0ac80391464715e"
-    },
-    {
-      "source_name": "PANews",
-      "title": "从Citrini“破墙”逻辑看DRV：AI与RWA叙事下，链上衍生品的收费入口",
-      "url": "https://www.panewslab.com/zh/articles/01a12ed7-aca2-7260-9ab8-6d3dfc73fd4e",
-      "summary": "DRV的长期价值最终取决于真实交易需求、协议收入增长，以及回购能否有效抵消新增代币供给。",
-      "publish_time_ts": 1791855180,
-      "guid": "b493ebf8a57cc5ae0436043868e7788d7691a4cebc2f3c08903f28f38220d45b"
-    },
-    {
-      "source_name": "PANews",
-      "title": "ZachXBT指责XRPL对发现“无限XRP供应漏洞”白帽黑客仅支付25万美元赏金",
-      "url": "https://www.panewslab.com/zh/articles/01a12f19-9aaf-7714-93de-5c4117d1b1c5",
-      "summary": "PANews 10月12日消息，针对“XRP Ledger 基金会回应安全修复相关误解”，链上侦探 ZachXBT 表示，“明明金库里坐拥数十亿美元，却只给发现‘XRP 无限增发’这一严重漏洞的白帽黑客支付 25 万美元。这简直是在‘助攻’：确保下次攻击者不再选择善意上报漏洞，而是利用它窃取九位数（数亿美元）的资金。正因如此，人们才无法把 XRP Ledger 或 Ripple 作为一个正经机构认",
-      "publish_time_ts": 1791791520,
-      "guid": "cb8da07985b06124c1a03af57c8728bc59987bb4cac135e219816157493844e3"
+      "title": "Vitalik：zkEVMs 速度竞争取得决定性胜利，首要任务转向安全性",
+      "url": "https://www.chaincatcher.com/article/2296432",
+      "summary": "ChainCatcher 消息，Vitalik 在 X 平台发文表示，祝贺 @zksync 的 Airbender 团队取得这一里程碑。他认为，zkEVMs 的速度竞争已取得决定性胜利，首要任务应全面转向安全性。Vitalik 表示，这意味着需要正式验证算术化与以太坊规范的等价性、证明者成本与区块 Gas 总量之比的硬性上限，以及证明系统本身的安全性。",
+      "publish_time_ts": 1792035649,
+      "guid": "1fdda3a53db3fbc3be2a31187452712ae161377a16826ae5f9063722f0c71de4"
     }
   ]
 }
