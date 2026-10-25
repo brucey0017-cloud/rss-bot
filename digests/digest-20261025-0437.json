@@ -1,0 +1,310 @@
+{
+  "run_at_utc": "2026-10-25T04:37:18.073739+00:00",
+  "window_hours": 4,
+  "items": [
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：当前加密恐慌贪婪指数为 53，处于中性状态",
+      "url": "https://www.chaincatcher.com/article/2298748",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，加密货币恐慌贪婪指数当前为 53，较昨日上涨 1 点。过去 7 天平均值为 57，过去 30 天平均值为 63。",
+      "publish_time_ts": 1792902646,
+      "guid": "3e102d037252055fe1b5e0de430283f89a4fab0c91f7a27075a772023218ef15"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "fomo 联创否认推出 Solana 代币发行平台，称市场代币已过多",
+      "url": "https://www.chaincatcher.com/article/2298747",
+      "summary": "ChainCatcher 消息，加密交易应用 fomo 联合创始人 Se Yong Park在 X 平台发文表示，当前市场上的代币数量已经过多，团队无意再推出新的代币，而是希望帮助打造一个能够让最具实力的社区持续发展壮大的未来。\n\nSe Yong Park 此前已否认 fomo 计划推出 Solana 生态代币发行平台，并表示团队无意通过相关产品与 Pump.fun 展开竞争。",
+      "publish_time_ts": 1792901564,
+      "guid": "e59329bfe0fe472cb0538a11c9d840b7bf9ef3a267c7516c09ff744ab9f335e3"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Coinbase 现货 BTC 在 82,000 美元挂出约 868 万美元卖单，距现价约 1.55%",
+      "url": "https://www.chaincatcher.com/article/2298746",
+      "summary": "ChainCatcher 消息，据盘口情报平台 Liquid247.xyz 监测，Coinbase 现货 BTC 在 82,000 美元一档挂出约 105.91 枚卖单，名义约 868 万美元，距离当时中间价约 80,749 美元上涨约 1.55%。同所近端盘口卖盘合计约 3,378 万美元，买盘约 2,244 万美元。 Coinbase 现货卖盘相对买盘净多出约 1,134 万美元，占总深度的 ",
+      "publish_time_ts": 1792900870,
+      "guid": "e5f4ace873aa37d10b0df43dc09520581c36b67bf47e882b52d51b8806e1179e"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：若 ETH 跌破 2,245 美元，主流 CEX 累计多单清算强度将达 5.61 亿美元",
+      "url": "https://www.chaincatcher.com/article/2298745",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，若 ETH 跌破 2,245 美元，主流 CEX 累计多单清算强度将达 5.61 亿美元。反之，若 ETH 突破 2,478 美元，主流 CEX 累计空单清算强度将达 5.6 亿美元。",
+      "publish_time_ts": 1792900831,
+      "guid": "deb0ee031846582c51430f4f8c65d6dbff2043ddefb3ce79020912e77470db9c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：若 BTC 突破 84,288 美元，主流 CEX 累计空单清算强度将达 11.49 亿美元",
+      "url": "https://www.chaincatcher.com/article/2298744",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，若 BTC 突破 84,288 美元，主流 CEX 累计空单清算强度将达 11.49 亿美元。反之，若 BTC 跌破 76,818 美元，主流 CEX 累计多单清算强度将达 11.08 亿美元。",
+      "publish_time_ts": 1792900827,
+      "guid": "412b3e0d3f8f45068ee6c5661740469f20ac5cce5c4fb849c0fe483c9ca7021e"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Hyperliquid：调整测试网操作优先级并添加支持代理签名的 cDeposit2 接口操作",
+      "url": "https://www.chaincatcher.com/article/2298743",
+      "summary": "ChainCatcher 消息，Hyperliquid 宣布已根据用户对测试网改进的反馈调整新优先级机制：noop 和 scheduleCancel 操作不再影响其他操作的优先级，而除 noop、scheduleCancel、cancel、cancelByCloid、order、modify 和 batchModify 之外的操作，在提交完成前会导致其他操作的优先级降低。此外，Hyperliqui",
+      "publish_time_ts": 1792900006,
+      "guid": "d4a067236c6241db46f0c335b6c020977e6ed2fea32423eca205b003886480c4"
+    },
+    {
+      "source_name": "PANews",
+      "title": "下周宏观展望：美国三季度GDP与9月PCE同日落地，三大云巨头公布财报",
+      "url": "https://www.panewslab.com/zh/articles/01a17122-15ce-749e-a840-4cf445579f6f",
+      "summary": "PANews 10月25日消息，据金十报道，刚刚过去的一周，市场重心切换了两次。周初美国芯片与AI概念股从急跌中反弹，资金开始向医疗和金融板块轮动；周三Meta公布庞大的资本开支计划后，市场对AI估值与回报的担忧再度被点燃；周四抛售潮扩散至整个科技板块，避险资金涌入美债和日元，同一天胡塞武装袭击沙特能源设施，将布伦特原油推上五个月高位。以下是新的一周里市场将重点关注的要点（均为北京时间，欧洲自10",
+      "publish_time_ts": 1792899421,
+      "guid": "04f7b7e905cfcc229b38aaa5ff8489b8285a24dd6cadf9d0ada7820a7cf66fe2"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Tampa Bay Rays 对阵 Milwaukee Brewers” “Tampa Bay Rays O/U 4.5” 胜率暴跌 33.5%",
+      "url": "https://www.chaincatcher.com/article/2298742",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Tampa Bay Rays 对阵 Milwaukee Brewers”事件中，子市场“Tampa Bay Rays O/U 4.5”的“Over”选项胜率发生剧烈波动，由 1 小时前的 57% 暴跌至当前的 23.5%（波动幅度达 33.5%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792899013,
+      "guid": "14efb39469bbdcf3562edb837da62d207d5e9a6e6748c762b805bf8e0e0f17a3"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "三星电子与 SK 海力士将于下周发布第三季度财报",
+      "url": "https://www.chaincatcher.com/article/2298741",
+      "summary": "ChainCatcher 消息，韩国芯片企业三星电子与 SK 海力士将于下周发布第三季度财报，人工智能存储芯片的旺盛需求有望推动两家企业实现丰厚利润。\n\nSK 海力士定于周三公布财报，三星电子则将在周四紧随其后发布。",
+      "publish_time_ts": 1792898577,
+      "guid": "e9e6048b975baadf80b6943b6c8d79638b25a82f1af40414e2a04ce3affb831c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "BlockSec：X100 Global 疑似遭治理攻击，攻击者利用漏洞窃取约 475 万美元",
+      "url": "https://www.chaincatcher.com/article/2298740",
+      "summary": "ChainCatcher 消息，据 BlockSec 监测，X100 Global 在以太坊上的一笔可疑交易造成约 475 万美元损失，相关攻击源于治理机制设计漏洞：攻击者利用闪电贷借入资金购买 X 代币，并将代币分配至两个受控合约，再将其存入 Freezer，从而在同一笔交易中控制 3 个参议员席位中的 2 个，随后立即通过并执行恶意金库提案。\n\n具体而言，攻击者先创建并向 PancakeSwa",
+      "publish_time_ts": 1792897903,
+      "guid": "4a06d676d06f34c5f85549b70bc0e3cccdc2a4b63102e85787b7b2b8266b7f62"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "分析：8 万至 8.1 万美元是 BTC 长期做多加仓区间，目标仍看 9.4 万美元",
+      "url": "https://www.chaincatcher.com/article/2298739",
+      "summary": "ChainCatcher 消息，交易员 Doctor Profit 发文表示，尽管此前 Bitcoin 从 8.4 万美元回落至 8 万美元下方时遭到部分市场参与者嘲讽，但数周以来一直将 8 万至 8.1 万美元视为加仓 Bitcoin 多单的区间，当前建仓着眼于长期走势，并非追求短期 4000 美元的涨幅。Doctor Profit 透露，自己在 6 万美元附近建立的现货仓位仍全部持有，下一目标",
+      "publish_time_ts": 1792897426,
+      "guid": "2b77d7d30c793bd2b07070c5e909a276d0c39bb5a0c92406299c5f6b8bcdf10c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Solana Company 入选香港第七批战略企业名单",
+      "url": "https://www.chaincatcher.com/article/2298738",
+      "summary": "ChainCatcher 消息，Solana Company 宣布，已获香港特区政府引进重点企业办公室（OASES）认定为战略企业，并入选第七批战略企业名单。该公司是 2026 年获该办公室引进的唯一一家区块链基础设施企业。Solana Company 已在香港设立办公室，作为公司亚太总部及区域运营基地，由管理团队统筹亚太业务。该公司计划通过 Pacific Backbone 计划在香港开展验证节",
+      "publish_time_ts": 1792897373,
+      "guid": "432a826bf89316844bc2e3e06d40c48d5d9d844f3724f37be00b57751582f627"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "RootData：BEAT 将于一周后解锁价值约 119 万美元的代币",
+      "url": "https://www.chaincatcher.com/article/2298737",
+      "summary": "ChainCatcher 消息，据Web3资产数据平台 RootData 代币解锁数据，Audiera（BEAT）将于北京时间 11 月 01 日 9 时解锁约 1764 万枚代币，价值约 119 万美元。",
+      "publish_time_ts": 1792897216,
+      "guid": "66024d45172549c0f7b59fde83992295934c2a5eff54d87bfc0db0e5a208880a"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "RootData：EIGEN 将于一周后解锁价值约 772 万美元的代币",
+      "url": "https://www.chaincatcher.com/article/2298736",
+      "summary": "ChainCatcher 消息，据Web3资产数据平台 RootData 代币解锁数据，EigenCloud（EIGEN）将于北京时间 11 月 01 日 5 时解锁约 3835 万枚代币，价值约 772 万美元。",
+      "publish_time_ts": 1792897212,
+      "guid": "8fe97391e896e2058fe9869289426d7023d042ba746ddf85a69a2343b43f11c4"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "RootData：ZETA 将于一周后解锁价值约 179 万美元的代币",
+      "url": "https://www.chaincatcher.com/article/2298735",
+      "summary": "ChainCatcher 消息，据Web3资产数据平台 RootData 代币解锁数据，ZetaChain（ZETA）将于北京时间 11 月 01 日 0 时解锁约 4443 万枚代币，价值约 179 万美元。",
+      "publish_time_ts": 1792897204,
+      "guid": "7c98b3b9aaeeed98fcf4d75415fc06e6ada5c23d5626727253a068f3c855c429"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Bengals vs. Ravens” “1H Spread -10.5” 胜率暴跌 35.5%",
+      "url": "https://www.chaincatcher.com/article/2298733",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Bengals vs. Ravens”事件中，子市场 “1H Spread -10.5” 的 “Bengals” 选项胜率发生剧烈波动，由 1 小时前的 52.5% 暴跌至当前的 17%（波动幅度达 35.5%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792896314,
+      "guid": "1f02b8f90d43ad329a562ab68fff87c1f1ec5defcb4ae94c4c7341634b81e1b6"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "马斯克：X Money 将推出长按点赞转账功能",
+      "url": "https://www.chaincatcher.com/article/2298732",
+      "summary": "ChainCatcher 消息，马斯克宣布将新增一项功能，即长按“点赞”即可通过 X Money 向对方转账 1 美元。",
+      "publish_time_ts": 1792896283,
+      "guid": "0674ef4fa00c11f738d128cbb111fe7795f19b1ca8b84872e910098255deeb1c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：BTC 突破 81000 美元",
+      "url": "https://www.chaincatcher.com/article/2298731",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，BTC/USDT 现报 $81002.2，24 小时涨幅 0.04%。",
+      "publish_time_ts": 1792896102,
+      "guid": "570c703a2afecc52ce67228f656440a9904e69f762aea276c4e1a7f93a5f1a22"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Bonk Guy 复盘交易心得：去年“ 10.11”单日亏损八位数，优势不再时应离场",
+      "url": "https://www.chaincatcher.com/article/2298730",
+      "summary": "ChainCatcher 消息，交易员 Bonk Guy 发文回顾称，2025 年 10 月 10 日，因多家大型中心化交易平台出现系统性故障，他在数分钟内遭遇职业生涯最大单日亏损，金额达八位数美元。此后数周至数月，他又因过度交易损失数百万美元。Bonk Guy 表示，当时更好的选择是暂停交易数月甚至至少半年，并远离交易终端。急于挽回损失、证明交易能力的心态促使他不断入场。他认为，交易能力、经验和",
+      "publish_time_ts": 1792895283,
+      "guid": "8e9c88162f3dd3a8a6c4a8f0bf7cce747b15bd3ba390c2b9d14a7bf7c213172b"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "CoreWeave：曾经的以太坊矿工，拖垮了整个 AI 股",
+      "url": "https://www.chaincatcher.com/article/2298729",
+      "summary": "CoreWeave 股债同步下跌，算力和芯片股同期承压。",
+      "publish_time_ts": 1792895138,
+      "guid": "fe3c1e525bfc12e22f000f810001ccb0f2e396371e0949d1e4c48db151863b4a"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：Worldcoin 项目方关联地址 11 小时内向交易所充值 1050 万枚 WLD，价值 485.7 万美元",
+      "url": "https://www.chaincatcher.com/article/2298728",
+      "summary": "ChainCatcher 消息，据链上分析师 Ai 姨监测，Worldcoin 项目方关联地址 (0x9b66...98fE) 过去 11 小时向交易所累计充值 1050 万枚 WLD，价值 485.7 万美元。资金来源为项目方 3 年前转移的 WLD；3 天前，另一关联地址也曾向交易所转移价值 161 万美元的代币。",
+      "publish_time_ts": 1792895030,
+      "guid": "2f2bd08b16e0f995f7848077ad134c3c380881db914a71afc44ab23e45ca75ae"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Peter Schiff：比特币下一支撑位 7.5 万美元，而 ETF 持仓者周末无法卖出",
+      "url": "https://www.chaincatcher.com/article/2298727",
+      "summary": "ChainCatcher 消息，比特币长期批评者 Peter Schiff 发文表示，比特币再度开始走弱，下一个支撑位可能是 7.5 万美元。比特币投资者可能将面临一个相当难熬的周末，尤其是 ETF 投资者，他们要等到周一才能卖出。",
+      "publish_time_ts": 1792894198,
+      "guid": "e8d8e14e066f79fb014f2402c82239be3eafef70946d0a61b636e19a396d130e"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Binance 现货 ETH 在 2,376.00 美元挂出约 1,197.59 万美元卖单",
+      "url": "https://www.chaincatcher.com/article/2298726",
+      "summary": "ChainCatcher 消息，据盘口情报平台 Liquid247.xyz 监测，Binance 现货 ETH 在 2,376.00 美元一档挂出约 5,040.38 枚卖单，名义约 1,197.59 万美元，距离当时中间价约 2,365.08 美元上涨约 0.46%。 同所近端盘口卖盘合计约 2,035.01 万美元，买盘约 902.68 万美元，卖盘净多出约 1,132.32 万美元，占总深度",
+      "publish_time_ts": 1792893636,
+      "guid": "6e570cf22ce44cbe9e3c37bf86726a17d5a6ac72b4adcac4f1feb54e204ec6d8"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：某巨鲸以 2315 美元均价买入 2887 枚 ETH，目前浮盈 12.2 万美元",
+      "url": "https://www.chaincatcher.com/article/2298725",
+      "summary": "ChainCatcher 消息，据链上分析师 Ai 姨（@ai_9684xtpa）监测，某巨鲸于约 10 小时前在链上以 2315 美元的均价买入 2887.49枚 ETH，价值约 668 万美元。\n\n此后，加密市场触及短期低点并开始反弹，该笔 ETH 持仓目前浮盈约 12.2 万美元。",
+      "publish_time_ts": 1792893381,
+      "guid": "a4bc9df8f619d59b3e1c956b17882ef80291c768b3cee31facbc45b1fcfd992f"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Pump.fun 应用新增 Monad 代币购买功能，支持直接使用 USDC 支付",
+      "url": "https://www.chaincatcher.com/article/2298724",
+      "summary": "ChainCatcher 消息，Pump.fun 发文表示，其应用现已支持购买 Monad 代币。用户可直接使用 USDC 余额完成交易，无需手动进行跨链操作或切换钱包。",
+      "publish_time_ts": 1792892368,
+      "guid": "9950792cdacb9261ae9772333d138c351d28e5e52f5a6dd36df4f969d7143014"
+    },
+    {
+      "source_name": "PANews",
+      "title": "阿根廷总统米莱“沉冤昭雪”，速览LIBRA案起始",
+      "url": "https://www.panewslab.com/zh/articles/01a1709a-fd65-76b4-b16f-c3df6ab9ec1f",
+      "summary": "超 11 万钱包地址亏损，总金额超 2.5 亿美元，受伤最深的无疑是 LIBRA 代币投资者。",
+      "publish_time_ts": 1792890568,
+      "guid": "f398a89d3647454ca48feaafb867f9f9df6a4795c210c26788bdd985eefc98cd"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：某巨鲸/机构逾 2.7 亿美元 ETH 多单距清算仅一步之遥，最新清算价 2181 美元",
+      "url": "https://www.chaincatcher.com/article/2298723",
+      "summary": "ChainCatcher 消息，据余烬监测，昨晚 23 点时 ETH 最低跌至 2282 美元，某超大 ETH 多仓巨鲸/机构仅差 30 美元 ETH 多单仓位即被清算。\n\n所以其在凌晨紧急补充 921 万枚 USDC 保证金，将 ETH 多仓清算价从 2256 美元降到现在的 2181 美元，暂时脱离危险。\n\n现在其持有价值高达 3.965 亿美元的 BTC 及 ETH 多单，包括：115,47",
+      "publish_time_ts": 1792890265,
+      "guid": "3afd576bcb5e6531bc3b1c78cbdb76253b9bf9fe149c10aceba3f958812aa58e"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：Arthur Hayes 向 Cumberland 转入 1400 万枚 ENA，价值约 273 万美元",
+      "url": "https://www.chaincatcher.com/article/2298722",
+      "summary": "ChainCatcher 消息，链上分析师余烬监测显示，Arthur Hayes 再将 1,400 万枚 ENA 转入 Cumberland，价值约 273 万美元。自昨日以来，其已向各交易平台转入价值约 2,881 万美元的多种代币，并陆续提回 1,415 万美元 USDC。",
+      "publish_time_ts": 1792888902,
+      "guid": "588f9e29bd96af35a0f56bee236ce29d00e08e66444aca6a2a20c613345aa6cf"
+    },
+    {
+      "source_name": "PANews",
+      "title": "Bonk Guy：亏损八位数后曾因过度交易再损数百万美元，有时最佳操作就是空仓离场",
+      "url": "https://www.panewslab.com/zh/articles/01a17077-5979-77e7-86f9-d6fcdb6d690c",
+      "summary": "PANews 10月25日消息，交易员 Bonk Guy（Unipcs）发文回顾交易教训。他透露，2025 年 10 月 10 日因主流 CEX 系统性故障，单日亏损达八位数，创下其职业生涯最大单日亏损，并引发媒体关注。此后数周至数月，他因急于回本、证明自己，继续过度交易，再度亏损数百万美元。 Unipcs 反思称，当时若能强制停手数月甚至更久，本可成为更好的交易员。他强调，技能与经验不足以持续跑",
+      "publish_time_ts": 1792888232,
+      "guid": "b67d62ce247217677034eb6258a24eb8cadcc2c5b3f13f02ffd9f480a09bfd08"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Kraken 母公司获哈萨克斯坦原则性批准，拟提供加密交易及托管服务",
+      "url": "https://www.chaincatcher.com/article/2298721",
+      "summary": "ChainCatcher 消息，Kraken 母公司 Payward 获得哈萨克斯坦 AFSA 原则性批准，计划通过 Payward Kazakhstan 在阿斯塔纳国际金融中心提供数字资产交易、投资交易及托管服务。取得最终牌照后，当地用户还可接入 Kraken 全球订单簿及主要市场流动性。",
+      "publish_time_ts": 1792888005,
+      "guid": "ba99d1c8d46c4ac8458ecc22ae02866deaec00f7e0a2aae27a231d14d7ebe44e"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：Arthur Hayes 转移约 8000 枚 ETH 后从 Galaxy Digital 和 Flowdesk 收到约 1173 万 USDC",
+      "url": "https://www.chaincatcher.com/article/2298720",
+      "summary": "ChainCatcher 消息，据 Onchain Lens 监测，Arthur Hayes 转移约 8000 枚 ETH，价值约 1,869 万美元，随后从 Galaxy Digital 和 Flowdesk 收到约 1,173 万美元 USDC，剩余待处理款项约 696 万美元。",
+      "publish_time_ts": 1792886875,
+      "guid": "e219a57694b4f191d72d65c91dc46c72d2a3992657466608a66bbadeadfe045a"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Hyperliquid 地址 0xecb63c...2b00 加仓 ETH 空单 11,768.6 枚，名义价值 2,774.57 万美元",
+      "url": "https://www.chaincatcher.com/article/2298719",
+      "summary": "ChainCatcher 消息，据盘口情报平台 Liquid247.xyz 监测，Hyperliquid 地址 0xecb63c...2b00 加仓 ETH 空单 11,768.6 枚，名义价值 2,774.57 万美元。 发稿时 ETH 报 2,357.60 美元。",
+      "publish_time_ts": 1792886421,
+      "guid": "224fcd51f7fbf43d36084e28c8acede8fe793d8ee97ae194db7243be111eb805"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：ETH 突破 2350 美元",
+      "url": "https://www.chaincatcher.com/article/2298717",
+      "summary": "ChainCatcher 消息，据 Gate 行情数据，ETH/USDT 现报 $2351.07，24 小时跌幅 0.93%。",
+      "publish_time_ts": 1792884713,
+      "guid": "037d1a09e1af920ae4e681914636aa01f4d9cc127a38d4d43ad5a60fedc8c696"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Spurs vs. Mavericks” “Victor Wembanyama: Points O/U 28.5” 胜率飙升 18.5%",
+      "url": "https://www.chaincatcher.com/article/2298716",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Spurs vs. Mavericks”事件中，子市场“Victor Wembanyama: Points O/U 28.5”的“是”选项胜率发生剧烈波动，由 1 小时前的 25% 飙升至当前的 43.5%（波动幅度达 18.5%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792884613,
+      "guid": "4c6eb94a99a34381497cb92c97be40beefa3094fbd1ebf352f4405c4b9e0477c"
+    },
+    {
+      "source_name": "Odaily",
+      "title": "下周必关注｜美联储公布新一期利率决议；Strategy将公布Q3财报（10.26-11.1）",
+      "url": "https://www.odaily.news/zh-CN/post/5213560",
+      "summary": "下周重点预告10 月 26 日<a href=\"https://www.odaily.news/zh-CN/newsflash/522188\" rel=\"",
+      "publish_time_ts": 1792883557,
+      "guid": "627a291ae4d213e0072a82aff761917c15fe2521ea050e318129e459b6cbcebc"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Nets vs. Cavaliers” “Evan Mobley: Points O/U 17.5” 胜率暴跌 16%",
+      "url": "https://www.chaincatcher.com/article/2298715",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Nets vs. Cavaliers”事件中，子市场 “Evan Mobley: Points O/U 17.5” 的 “是” 选项胜率发生剧烈波动，由 1 小时前的 47.5% 暴跌至当前的 31.5%（波动幅度达 16%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792875614,
+      "guid": "ab9bb9fbf26f931407a5aa4f23ef6dab518feb593ebda9de08e7de7319811804"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Dota 2：Astra Invicta 对阵 LEGION - PARI Universe B 组” “比赛胜者” 胜率暴跌 33.5%",
+      "url": "https://www.chaincatcher.com/article/2298714",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Dota 2：Astra Invicta 对阵 LEGION - PARI Universe B 组”事件中，子市场“比赛胜者”的“Astra Invicta”选项胜率发生剧烈波动，由 1 小时前的 73.5% 暴跌至当前的 40%（波动幅度达 33.5%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792874712,
+      "guid": "ed7f3c53728d699f7af651aba68726204adeeb072bb44ba883a7e91709592faa"
+    },
+    {
+      "source_name": "PANews",
+      "title": "硬件钱包Keystone官网遭未授权访问，用户姓名及收货地址泄露",
+      "url": "https://www.panewslab.com/zh/articles/01a16f5e-b150-714e-8dc0-0340be2a36d6",
+      "summary": "PANews 10月25日消息，硬件钱包Keystone在X平台发帖称，其于10月20日发现官网遭未授权访问，经与Shopify核实API活动后，于10月23日确认第三方获取了客户收货信息。泄露内容包括姓名、联系方式、收货地址及订单详情（商品和价格），支付卡或银行信息、助记词、私钥及钱包密码未泄露。Keystone表示已阻断访问、修复漏洞并展开调查，正通过邮件通知受影响用户，同时提醒用户警惕有人冒",
+      "publish_time_ts": 1792869839,
+      "guid": "90ab2c2f10e5ee5f08d0ca7e057544802ba5b9e1a59ff2590fcc629a28ed07a6"
+    }
+  ]
+}
