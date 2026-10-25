@@ -1,0 +1,198 @@
+{
+  "run_at_utc": "2026-10-25T16:13:37.854072+00:00",
+  "window_hours": 4,
+  "items": [
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：2026 年迄今 DeFi 价格操纵攻击达 43 起，已超 2022 全年",
+      "url": "https://www.chaincatcher.com/article/2298799",
+      "summary": "ChainCatcher 消息，据 DefiLlama 数据，截至 10 月 21 日，2026 年 DeFi 领域已记录 43 起价格操纵攻击，超过此前全年最高纪录，即 2022 年的 27 起。相关损失合计约 1.99 亿美元，低于部分年份的损失规模，其中仅 Tectonic 一案就占约 1.245 亿美元。其余 42 起中，有 32 起单笔损失不足 100 万美元。",
+      "publish_time_ts": 1792943820,
+      "guid": "62b5583a9bf1a34b03d3c8aa2b98a6d9d98bff641e5c3ec150e42b148005115c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Lightning Labs：开放 Wavelength，AI 代理可在比特币主网上自主支付",
+      "url": "https://www.chaincatcher.com/article/2298798",
+      "summary": "ChainCatcher 消息，Bitcoin News 在 X 平台发文表示，Lightning Labs 已向所有用户开放 Wavelength，AI 代理可通过闪电网络和 L402 在比特币主网上自主收发款项，无需每笔交易都经人工批准。AI 代理可用其支付 API 调用费用、购买数据及与其他代理交易，单笔费用可低至不足 1 美分；开发者无需运行闪电网络节点、管理通道或筹措流动性，即可将支付功",
+      "publish_time_ts": 1792943209,
+      "guid": "8990d7ce6c9310c35b2098bdcab60a2787f588ec381c08296293e707201a63b5"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美国驻沙特大使馆下令非紧急人员撤离",
+      "url": "https://www.chaincatcher.com/article/2298797",
+      "summary": "ChainCatcher 消息，美国驻沙特大使馆在官网发布安全警报，下令驻沙特大使馆非紧急岗位工作人员撤离。",
+      "publish_time_ts": 1792942787,
+      "guid": "424571554038babf7355c04b10ed073fe108951268fa0e4c7a1c22e4d738ec1f"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "欧洲央行官员：数字欧元将增强欧洲支付主权，试点计划明年启动",
+      "url": "https://www.chaincatcher.com/article/2298796",
+      "summary": "ChainCatcher 消息，据 Cointelegraph 报道，欧洲央行执行委员会成员 Piero Cipollone 表示，数字欧元有望帮助欧盟建立自主可控的支付基础设施，降低对非欧洲第三方支付服务商的依赖。欧洲在能源和国防等关键领域已意识到过度依赖外部力量的风险，支付领域同样如此，但支付主权并不意味着排斥第三方，而是让欧洲在关键服务上拥有自主选择权。欧洲央行计划于明年启动数字欧元试点，并",
+      "publish_time_ts": 1792941593,
+      "guid": "7ba80c937ef62f171e0d157f46fabf0fea6f62b22c5c4f785694a97ddda63446"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "美参议员：加密募资新限制已纳入《CLARITY 法案》",
+      "url": "https://www.chaincatcher.com/article/2298795",
+      "summary": "ChainCatcher 消息，美国参议员 Cynthia Lummis 在 X 平台发文表示，民主党此前要求将 Regulation Crypto 的年度募资上限从 7500 万美元下调至 5000 万美元，并增设 2 亿美元的终身募资上限。\n\nCynthia Lummis 称，相关方面已同意这两项要求，并将其纳入《CLARITY 法案》，但同时她指责民主党议员最终投票反对了其此前起草、旨在保护",
+      "publish_time_ts": 1792940906,
+      "guid": "f736d9a3f9939c477df5ee5c119de5c36aa50e550da8337944d5e43175b284bd"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "特朗普：我该彻底消灭伊朗，还是跟他们达成协议",
+      "url": "https://www.chaincatcher.com/article/2298794",
+      "summary": "ChainCatcher 消息，据新浪财经报道，美国总统特朗普表示，现在的问题是，我是该与伊朗人达成协议，还是该将他们彻底消灭？我们得到一切，而他们（伊朗）什么也得不到。\n\n我们完全清楚伊朗的“镐山”设施发生了什么。目前伊朗人在核设施方面并未采取任何重大举动，我们正在密切关注情况。",
+      "publish_time_ts": 1792940246,
+      "guid": "ee7ce1b3c1e44b9b4929f3d908cc61af7e8a6923cf8f97fc95a8a6f3f5bee885"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Catcher Predict：“Counter-Strike：G2 对阵 Aurora Gaming - PGL Masters Bucharest 小组赛” “地图 2 胜者” 胜率飙升 25%",
+      "url": "https://www.chaincatcher.com/article/2298793",
+      "summary": "据 Catcher Predict 监测，预测市场 Polymarket 上“Counter-Strike：G2 对阵 Aurora Gaming - PGL Masters Bucharest 小组赛”事件中，子市场“地图 2 胜者”的“G2”选项胜率发生剧烈波动，由 1 小时前的 48.5% 飙升至当前的 73.5%（波动幅度达 25%）。请注意相关突发消息影响。",
+      "publish_time_ts": 1792939516,
+      "guid": "45813da2ab1ba840caf0a1dce2dd9b551b88f527863b36b6d79acedfa5ace53f"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "但斌美股科技板块“大调仓”：加仓美光、闪迪与英伟达，减仓 AMD、博通与 Lumentum",
+      "url": "https://www.chaincatcher.com/article/2298792",
+      "summary": "ChainCatcher 消息，东方港湾基金董事长但斌在科技板块“大调仓”。私募排排网统计数据显示，截至 2026 年三季度末，东方港湾海外基金共持有 13 只美股标的，持股市值合计约为 14.69 亿美元。\n\n从行业分布来看，AI 仍是东方港湾布局重点，截至三季度末谷歌为东方港湾海外基金的第一大重仓股。但从加减仓动作来看，但斌对于 AI 产业细分赛道的偏好相较于二季度发生明显变化。\n\n据统计今年",
+      "publish_time_ts": 1792938465,
+      "guid": "a7e138a8840001464a47c7ee1b3d6ac21ef426f3b88be6f0bd76531ab5d32f71"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Tailscale 被指存在严重漏洞，内置 SSH 可被利用获取设备 root 权限",
+      "url": "https://www.chaincatcher.com/article/2298791",
+      "summary": "ChainCatcher 消息，据 Bitcoin News 报道，研究人员称 Tailscale 存在严重漏洞，拥有获批访问权限的用户可利用其内置 SSH 获取设备 root 权限，攻击还可能扩散至网络中的其他设备。\n\n使用 Tailscale 运行节点的用户应关闭 Tailscale SSH，并在补丁发布后及时更新。Tailscale 尚未回应。",
+      "publish_time_ts": 1792938228,
+      "guid": "ad85c86476320c41feaa632ba1fd41fb68e0424ef919360f5d9368a2e13414cf"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Strive CEO 再次发布比特币 Tracker 信息，或于下周披露 BTC 增持数据",
+      "url": "https://www.chaincatcher.com/article/2298790",
+      "summary": "ChainCatcher 消息，Strive 首席执行官 Matt Cole 在 X 平台发布该公司的比特币持仓数据图，并配文 “The sats/$SATS perpetual swap has been activated”，可能暗示或于下周披露 BTC 增持数据。",
+      "publish_time_ts": 1792938054,
+      "guid": "301304b5a158dd0bb31546f622737b90d1d9ec9e6816ae3f4539d769b2b77666"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：某神秘实体买入 3000.5 枚 ETH，累计交易金额达 706 万美元",
+      "url": "https://www.chaincatcher.com/article/2298789",
+      "summary": "ChainCatcher 消息，据链上分析师 @ai_9684xtpa 监测，资金来源为 Tornado 的某神秘实体自 10 月 23 日起累计买入 3000.5 枚 ETH，价值 706 万美元，随后通过跨链协议 THORChain 兑换为 BTC。\n\n该实体曾在币价高点分批卖出 ETH，并于近期低点买回：2026 年 1 月以 3109 美元卖出，2026 年 9 月以 2679 美元再次卖",
+      "publish_time_ts": 1792936906,
+      "guid": "8b11b590d4ada561c9f2b26e44917414afb88b3e4ba9eb89a3860d4a22d000fc"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：过去 24 小时全网爆仓 5.25 亿美元，多单爆仓 4.43 亿美元，空单爆仓 8,177.48 万美元",
+      "url": "https://www.chaincatcher.com/article/2298788",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据，过去 24 小时全网爆仓 5.25 亿美元，多单爆仓 4.43 亿美元，空单爆仓 8,177.48 万美元。其中比特币多单爆仓 1.54 亿美元，比特币空单爆仓 2,037.35 万美元，以太坊多单爆仓 1.36 亿美元，以太坊空单爆仓 2,578.21 万美元。",
+      "publish_time_ts": 1792935088,
+      "guid": "45f25dd2180eb8f3fb2d5a8423d54ebab9a1b2cdcec0a37c890f2b5a7205da53"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "交易员 Killa：BTC 若跌至 7.4 万美元将再开 10 倍杠杆多单",
+      "url": "https://www.chaincatcher.com/article/2298787",
+      "summary": "ChainCatcher 消息，交易员 Killa 发文表示，其当前仍持有 Bitcoin 多头仓位，包括在 62,600 美元、76,000 美元建立的多单，以及在 82,800 美元建立的 10 倍杠杆多单。\n\n若 BTC 向下插针并跌至 74,000 美元，导致该 10 倍杠杆多单被平仓，计划在此前设定的失效位再次建立 10 倍杠杆多单，但仓位规模会更小，因为其在该价格区域已有较多敞口。\n\n",
+      "publish_time_ts": 1792934750,
+      "guid": "e1cda3a57fcab6779dfda230fef148397ceda9316d46c1f9584c73ac30c0730b"
+    },
+    {
+      "source_name": "PANews",
+      "title": "一周预告 |  Blast、Ebisu等项目停运；美联储公布决议；谷歌、三星等多家科技巨头发布财报",
+      "url": "https://www.panewslab.com/zh/articles/01a17337-8679-7679-aac0-5ecadfd2c4cd",
+      "summary": "未来一周2026年10月26日-2026年11月1日，还有这些市场要闻值得你关注。",
+      "publish_time_ts": 1792934340,
+      "guid": "3aa6d03fa355231e098c15004891a90b5a85fce5d2fdb4860b79f94e6c81c51d"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Galaxy Research：比特币网络频现“乱码铭文”并非加密信息，或为脚本测试",
+      "url": "https://www.chaincatcher.com/article/2298784",
+      "summary": "ChainCatcher 消息，Galaxy Research 发文分析称，过去三周，比特币网络每天约出现 40 条由随机字母组成的铭文，内容看似加密文本，实则并非密码信息。相关地址此前曾于 5 月将美国宪法写入比特币网络。\n\n研究发现，对 562 条文本进行统计后，26 个英文字母的出现频率几乎均匀分布，与正常英文及替换密码的特征明显不同；单词长度分布、重复词频等指标也表明，这些文本很可能由随机",
+      "publish_time_ts": 1792932742,
+      "guid": "8d7e74ef091c3b6dc606c5f128ac950639c32114df10c82b374db29cf89122b1"
+    },
+    {
+      "source_name": "PANews",
+      "title": "数据：FF、CARDS等代币下周将迎来大额解锁，其中FF解锁价值约2070万美元",
+      "url": "https://www.panewslab.com/zh/articles/01a17308-bf24-717a-b944-3f6f1f23774f",
+      "summary": "PANews 10月25日消息，Token Unlocks数据显示，FF、CARDS、SUI等代币将于下周迎来大额解锁，其中： Falcon Finance（FF）预计于北京时间10月29日晚上9点解锁约2.08亿枚代币，与流通量的比值约为6.62%，价值约2070万美元； Collector Crypt（CARDS）预计于北京时间10月30日凌晨3点解锁约5926万枚代币，与流通量的比值约为9.",
+      "publish_time_ts": 1792931315,
+      "guid": "24df1205a31b0832a890e8ea04189eaae3f57bf83de59de35046f5c10b338036"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "知名交易员：BTC 已回调约 9%，建议未来几周继续定投",
+      "url": "https://www.chaincatcher.com/article/2298783",
+      "summary": "ChainCatcher 消息，知名交易员 Killa 发文表示，市场目前正期待比特币再次触及此前的极端下跌低点，但当时的“清算下影线”出现在多重利空集中爆发之际。除非后续出现更多负面消息，否则不应认为比特币必然会再次跌至此前低点，历史走势也未必会简单重演。\n\nKilla 进一步指出，第四季度买家似乎仍在等待更低的入场价格，并建议投资者未来几周继续通过定投（DCA）买入 BTC。\n\nKilla 表",
+      "publish_time_ts": 1792930754,
+      "guid": "ae85922427a5f2f4f827a1702a9a2120b555a7ed31f936e298d96a7ea31cc853"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：监测到 2 亿 USDT 转入 Binance",
+      "url": "https://www.chaincatcher.com/article/2298782",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，10 月 25 日 20:00 监测到 2 亿 USDT 从未知钱包转入 Binance。",
+      "publish_time_ts": 1792929785,
+      "guid": "65df7c04f1c11e38ffcc531b0a2b377adf169d49ba19cdcc674ba2f4655005d7"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：某巨鲸去年交易 WLD 获利近 100 万美元，今年利润已全部回吐",
+      "url": "https://www.chaincatcher.com/article/2298781",
+      "summary": "ChainCatcher 消息，据 Arkham 监测，某 Worldcoin（WLD）巨鲸自 2025 年以来已进行近 100 笔交易，WLD 累计买卖交易额接近 3000 万美元。\n\n历史数据显示，该地址 2025 年曾在 Bitvavo 进行大量交易并通过约 61.3 万枚 WLD 获利近 100 万美元。然而，今年该地址尝试进一步加大交易规模，累计交易额达到约 2200 万美元，却未实现任",
+      "publish_time_ts": 1792929117,
+      "guid": "2b9bead7bf192560f77f9c7de9f10db39660db4e4a827f108a3ceefb60afacb8"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "Dogecoin Foundation 与 House of Doge 终止独家品牌协议",
+      "url": "https://www.chaincatcher.com/article/2298779",
+      "summary": "ChainCatcher 消息，据 The Defiant 报道，Dogecoin Foundation 与 House of Doge 已终止此前的独家品牌合作协议。根据安排，House of Doge 仍保留有限的投资产品相关权利。此外，双方另有一项单独交易，将以 Such App 相关资产换取价值 400 万美元的 Dogecoin Labs 股票。",
+      "publish_time_ts": 1792927868,
+      "guid": "0bd71d931f552cf1e92d244db3b48a3108a89ae456d0adccc7301ef864b8be3c"
+    },
+    {
+      "source_name": "ChainCatcher",
+      "title": "数据：监测到 3.86 亿 USDT 转出 Binance",
+      "url": "https://www.chaincatcher.com/article/2298778",
+      "summary": "ChainCatcher 消息，据 Coinglass 数据显示，10 月 25 日 19:29 监测到 3.86 亿 USDT 从 Binance 转出至未知钱包。",
+      "publish_time_ts": 1792927807,
+      "guid": "451d2b7aaccf4fd91eab7804ff5ecd2fcf61936cdf15f983e1f687d37259120c"
+    },
+    {
+      "source_name": "Odaily",
+      "title": "一周代币解锁：FF解锁超流通量6%代币",
+      "url": "https://www.odaily.news/zh-CN/post/5213558",
+      "summary": "Falcon Finance项目推特：<a href=\"https://x.com/falconfinance\" rel=\"noopener noreferrer\" target=\"",
+      "publish_time_ts": 1792845773,
+      "guid": "522dcb1b6070c1a5935060b9b29dcd739890c6d6d3857eafe1613be541658cf2"
+    },
+    {
+      "source_name": "PANews",
+      "title": "QCP Capital：AI基础设施信用压力蔓延并拖累加密市场",
+      "url": "https://www.panewslab.com/zh/articles/01a16846-af43-77f4-b4c7-284c5e7ff3a4",
+      "summary": "PANews 10月23日消息，QCP Capital发文表示，AI基础设施领域的信用压力正在蔓延，CoreWeave债券到期收益率升至15%，引发市场对整个新型云基础设施（Neocloud）行业融资成本及盈利能力的担忧，并进一步波及股票与加密货币市场。与此同时，特斯拉下调未来资本支出预期，加剧了市场对科技行业AI投资回报率的担忧。 在资金避险情绪升温的背景下，投资者转向美国国债，推动长期美债收益",
+      "publish_time_ts": 1792750825,
+      "guid": "34c2112d24a947089cef017912762f93d918b4b8353d8367cf6e877e3eae9bfd"
+    },
+    {
+      "source_name": "PANews",
+      "title": "不止于 Crypto：a16z 将基金更名为 Frontier，寻找下一个科技“物种”",
+      "url": "https://www.panewslab.com/zh/articles/01a1666d-4b40-7383-9ffa-363a5bbd6380",
+      "summary": "a16z 加密基金管理合伙人 Chris Dixon自述为什么要将基金更名为 a16z Frontier。",
+      "publish_time_ts": 1792719660,
+      "guid": "a970c5c71eb6aebd888c152b1a02759136bc490412a2d69a06f2588a085619cf"
+    }
+  ]
+}
